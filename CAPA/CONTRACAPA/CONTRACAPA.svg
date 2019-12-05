@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="420.16699mm"
-   height="297.76501mm"
-   viewBox="0 0 420.16699 297.76501"
+   width="297.12762mm"
+   height="210.69543mm"
+   viewBox="0 0 297.12762 210.69543"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -978,9 +978,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29440267"
-     inkscape:cx="435.68202"
-     inkscape:cy="623.45181"
+     inkscape:zoom="0.20817412"
+     inkscape:cx="2076.2527"
+     inkscape:cy="599.19566"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -996,62 +996,62 @@
      fit-margin-bottom="0"
      inkscape:guide-bbox="true">
     <sodipodi:guide
-       position="1034.2848,-402.61001"
+       position="1476.5778,-531.82703"
        orientation="0,1"
        id="guide5437"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2092.2575,-781.65323"
+       position="2534.5505,-910.87024"
        orientation="0,1"
        id="guide5439"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="411.74238,-1149.575"
+       position="854.03542,-1278.792"
        orientation="0,1"
        id="guide5449"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="411.74238,-1238.9246"
+       position="854.03542,-1368.1416"
        orientation="0,1"
        id="guide5513"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="411.74238,-1535.9246"
+       position="854.03542,-1665.1416"
        orientation="0,1"
        id="guide5515"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="411.74238,-1922.274"
+       position="854.03542,-2051.491"
        orientation="0,1"
        id="guide5517"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="411.74238,-2011.6237"
+       position="854.03542,-2140.8407"
        orientation="0,1"
        id="guide5519"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="411.74238,-2308.6238"
+       position="854.03542,-2437.8408"
        orientation="0,1"
        id="guide5521"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="411.74238,-2397.9735"
+       position="854.03542,-2527.1905"
        orientation="0,1"
        id="guide5523"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="411.74238,-2694.9736"
+       position="854.03542,-2824.1906"
        orientation="0,1"
        id="guide5525"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="411.74238,-2784.3231"
+       position="854.03542,-2913.5401"
        orientation="0,1"
        id="guide5527"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="403.19629,-3076.1606"
+       position="845.48933,-3205.3776"
        orientation="0,1"
        id="guide5529"
        inkscape:locked="false" />
@@ -1072,7 +1072,7 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(43810.733,10854.602)">
+     transform="translate(44253.026,10896.749)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1186,103 +1186,109 @@
          transform="matrix(1.6814587,0,0,1.1479155,30420.136,615.7292)" />
     </g>
     <g
-       id="g1036">
-      <rect
-         ry="0"
-         y="-10854.068"
-         x="-43810.754"
-         height="297"
-         width="420.00201"
-         id="rect1011"
-         style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="rect63-3-9-0-3-0-0-3-5-0"
-         d="m -43810.701,-10853.97 v 297 h 210.004 209.998 v -297 h -209.998 z"
-         style="fill:none;fill-opacity:1;stroke:url(#radialGradient878-9-753-7-8-7-3-4-5-7);stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
-      <rect
-         ry="1.9567244"
-         y="-10849.984"
-         x="-43806.148"
-         height="289.02899"
-         width="410.89743"
-         id="rect1563"
-         style="opacity:0.98999999;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text1099"
-         y="-10821.996"
-         x="-43660.457"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:42.00000381px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.02430534px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.26458332"
-           y="-10821.996"
+       id="g1033"
+       transform="matrix(0.70705042,0,0,0.70683662,-13276.619,-3224.1335)"
+       style="stroke-width:1.41454017">
+      <g
+         id="g1036"
+         style="stroke-width:1.41454017">
+        <rect
+           style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.41454005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1011"
+           width="420.00201"
+           height="297"
+           x="-43810.754"
+           y="-10854.068"
+           ry="0" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:url(#radialGradient878-9-753-7-8-7-3-4-5-7);stroke-width:0.37485313;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+           d="m -43810.701,-10853.97 v 297 h 210.004 209.998 v -297 h -209.998 z"
+           id="rect63-3-9-0-3-0-0-3-5-0"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="opacity:0.98999999;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.41454017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1563"
+           width="410.89743"
+           height="289.02899"
+           x="-43806.148"
+           y="-10849.984"
+           ry="1.9567244" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:42.00000381px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37426373"
            x="-43660.457"
-           id="tspan1097"
-           sodipodi:role="line">JÉSSICA JESUS DE SOUZA</tspan></text>
-      <text
-         id="text1099-3"
-         y="-10747.607"
-         x="-43662.492"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.75;shape-rendering:crispEdges"
-         xml:space="preserve"><tspan
-           style="fill:#000000;stroke:#000000;stroke-width:0.75"
-           y="-10747.607"
+           y="-10821.996"
+           id="text1099"><tspan
+             sodipodi:role="line"
+             id="tspan1097"
+             x="-43660.457"
+             y="-10821.996"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.02430534px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.37426373">JÉSSICA JESUS DE SOUZA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.0609051;shape-rendering:crispEdges"
            x="-43662.492"
-           id="tspan1097-6"
-           sodipodi:role="line">PORTFÓLIO CARDIOLOGIA</tspan></text>
-      <text
-         id="text1099-37"
-         y="-10593.703"
-         x="-43621.453"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:42.00000381px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.0243063px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.26458332"
-           y="-10593.703"
+           y="-10747.607"
+           id="text1099-3"><tspan
+             sodipodi:role="line"
+             id="tspan1097-6"
+             x="-43662.492"
+             y="-10747.607"
+             style="fill:#000000;stroke:#000000;stroke-width:1.0609051">PORTFÓLIO CARDIOLOGIA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:42.00000381px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37426373;shape-rendering:crispEdges"
            x="-43621.453"
-           id="tspan1097-8"
-           sodipodi:role="line">GOIÂNIA</tspan></text>
-      <text
-         id="text1099-37-7"
-         y="-10577.957"
-         x="-43611.832"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:42.00000381px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.02430725px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.26458332"
-           y="-10577.957"
+           y="-10593.703"
+           id="text1099-37"><tspan
+             sodipodi:role="line"
+             id="tspan1097-8"
+             x="-43621.453"
+             y="-10593.703"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.0243063px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.37426373">GOIÂNIA</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:42.00000381px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37426373;shape-rendering:crispEdges"
            x="-43611.832"
-           id="tspan1097-8-4"
-           sodipodi:role="line">2019</tspan></text>
-      <text
-         id="text1099-1"
-         y="-10688.607"
-         x="-43662.504"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:0px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-         xml:space="preserve"><tspan
-           id="tspan1199"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.0243063px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.26458332"
+           y="-10577.957"
+           id="text1099-37-7"><tspan
+             sodipodi:role="line"
+             id="tspan1097-8-4"
+             x="-43611.832"
+             y="-10577.957"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.02430725px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.37426373">2019</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.81944466px;line-height:0px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37426373;shape-rendering:crispEdges"
+           x="-43662.504"
            y="-10688.607"
-           x="-43662.504"
-           sodipodi:role="line">Trabalho   acadêmico  apresentado   ao  curso  de</tspan><tspan
-           id="tspan1183"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.0243063px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.26458332"
-           y="-10677.583"
-           x="-43662.504"
-           sodipodi:role="line">fisioterapia   da   Pontifícia  Universidade   Católica </tspan><tspan
-           id="tspan1215"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.0243063px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.26458332"
-           y="-10666.559"
-           x="-43662.504"
-           sodipodi:role="line">de  Goiás,  solicitado  pelo Prof.  Victor  Hugo Utida,</tspan><tspan
-           id="tspan1233"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.0243063px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.26458332"
-           y="-10655.534"
-           x="-43662.504"
-           sodipodi:role="line">da disciplina de clínica e cirurgia II, como requisito</tspan><tspan
-           id="tspan1237"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.0243063px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.26458332"
-           y="-10644.51"
-           x="-43662.504"
-           sodipodi:role="line">parcial à obtenção da nota de n2.</tspan></text>
+           id="text1099-1"><tspan
+             sodipodi:role="line"
+             x="-43662.504"
+             y="-10688.607"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.0243063px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.37426373"
+             id="tspan1199">Trabalho   acadêmico  apresentado   ao  curso  de</tspan><tspan
+             sodipodi:role="line"
+             x="-43662.504"
+             y="-10677.583"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.0243063px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.37426373"
+             id="tspan1183">fisioterapia   da   Pontifícia  Universidade   Católica </tspan><tspan
+             sodipodi:role="line"
+             x="-43662.504"
+             y="-10666.559"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.0243063px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.37426373"
+             id="tspan1215">de  Goiás,  solicitado  pelo Prof.  Victor  Hugo Utida,</tspan><tspan
+             sodipodi:role="line"
+             x="-43662.504"
+             y="-10655.534"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.0243063px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.37426373"
+             id="tspan1233">da disciplina de clínica e cirurgia II, como requisito</tspan><tspan
+             sodipodi:role="line"
+             x="-43662.504"
+             y="-10644.51"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:11.0243063px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.37426373"
+             id="tspan1237">parcial à obtenção da nota de n2.</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
