@@ -1048,9 +1048,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.2896582"
-     inkscape:cx="-620.5412"
-     inkscape:cy="204.73801"
+     inkscape:zoom="0.81927711"
+     inkscape:cx="500.4317"
+     inkscape:cy="527.91718"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1781,5 +1781,16 @@
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-43550.66"
+       y="-10774.708"
+       id="text1107"><tspan
+         sodipodi:role="line"
+         id="tspan1105"
+         x="-43550.66"
+         y="-10774.708"
+         style="stroke-width:0.26458332">50</tspan></text>
   </g>
 </svg>

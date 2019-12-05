@@ -1072,9 +1072,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1985219"
-     inkscape:cx="253.13363"
-     inkscape:cy="506.81681"
+     inkscape:zoom="0.59926095"
+     inkscape:cx="837.04426"
+     inkscape:cy="395.42552"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1892,8 +1892,10 @@
                  y="-10753.537"
                  style="stroke-width:0.26458332"
                  id="tspan1727">                                                 (BREIGEIRON, <tspan
-   style="font-style:italic"
-   id="tspan1741">et al</tspan>., 2015)</tspan></text>
+   style="font-style:italic;-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1741">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1139">., </tspan>2015)</tspan></text>
           </g>
         </g>
         <g
@@ -1924,5 +1926,16 @@
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-43581.941"
+       y="-10458.299"
+       id="text1139"><tspan
+         sodipodi:role="line"
+         id="tspan1137"
+         x="-43581.941"
+         y="-10458.299"
+         style="stroke-width:0.26458332">25</tspan></text>
   </g>
 </svg>

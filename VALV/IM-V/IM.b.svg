@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="IM.b.vg.svg"
+   sodipodi:docname="IM.b.svg"
    style="shape-rendering:crispEdges">
   <defs
      id="defs2">
@@ -1086,9 +1086,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.31567782"
-     inkscape:cx="238.76001"
-     inkscape:cy="488.65966"
+     inkscape:zoom="1.7857434"
+     inkscape:cx="669.21948"
+     inkscape:cy="132.06489"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1339,7 +1339,9 @@
                style="stroke-width:0.26458332"
                y="-10630.725"
                x="-43359.645"
-               sodipodi:role="line">                                                                         (GOLDMAN et al., 2011)</tspan></text>
+               sodipodi:role="line">                                                                         (GOLDMAN, <tspan
+   style="font-style:italic;-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1152">et al.</tspan>, 2011)</tspan></text>
           <rect
              ry="2.4745831"
              y="-10696.25"
@@ -1393,6 +1395,14 @@
            transform="translate(60.009013,22.076)">
           <g
              id="g2747">
+            <rect
+               ry="3.0718989"
+               y="-10754.732"
+               x="-43541.895"
+               height="87.898018"
+               width="119.47823"
+               id="rect1151"
+               style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
             <rect
                style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
                id="rect1481-2"
@@ -1473,7 +1483,7 @@
                  style="stroke-width:0.26458332"
                  id="tspan1945">                                    (TARASOUTCHI, <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'COCOGOOSE pro';-inkscape-font-specification:'COCOGOOSE pro'"
-   id="tspan1993">et al.</tspan>, 2017.)</tspan></text>
+   id="tspan1993">et al.</tspan>, 2017)</tspan></text>
             <text
                transform="scale(0.95093318,1.0515986)"
                id="text1999"
@@ -1636,8 +1646,8 @@
                id="rect1730-2"
                width="118.69968"
                height="80.819893"
-               x="-43645.574"
-               y="-10758.275"
+               x="-43644.723"
+               y="-10755.67"
                ry="15.155876" />
           </g>
           <image
@@ -2043,5 +2053,16 @@
          y="-10706.766"
          style="stroke-width:0.26458332"
          id="tspan2553" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-43895.398"
+       y="-10751.707"
+       id="text1170"><tspan
+         sodipodi:role="line"
+         id="tspan1168"
+         x="-43895.398"
+         y="-10751.707"
+         style="stroke-width:0.26458332">24</tspan></text>
   </g>
 </svg>

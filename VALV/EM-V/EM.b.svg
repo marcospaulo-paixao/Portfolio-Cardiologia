@@ -1060,9 +1060,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.31307018"
-     inkscape:cx="646.81866"
-     inkscape:cy="541.16362"
+     inkscape:zoom="0.88549619"
+     inkscape:cx="691.76954"
+     inkscape:cy="598.86764"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1668,7 +1668,9 @@
            x="-43774.195"
            sodipodi:role="line">                                                                               (GOLDMAN <tspan
    id="tspan1483"
-   style="font-style:italic;font-weight:normal">et al</tspan>., 2011)</tspan></text>
+   style="font-style:italic;font-weight:normal;-inkscape-font-specification:'Cocogoose Pro Italic';font-family:'Cocogoose Pro';font-stretch:normal;font-variant:normal">et al</tspan><tspan
+   style="-inkscape-font-specification:'Cocogoose Pro Italic';font-family:'Cocogoose Pro';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1104">.</tspan>, 2011)</tspan></text>
     </g>
     <g
        id="g2449"
@@ -1778,5 +1780,16 @@
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-43511.348"
+       y="-10518.305"
+       id="text1104"><tspan
+         sodipodi:role="line"
+         id="tspan1102"
+         x="-43511.348"
+         y="-10518.305"
+         style="stroke-width:0.26458332">22</tspan></text>
   </g>
 </svg>

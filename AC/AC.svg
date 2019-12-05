@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="AC.svg.2019_12_04_18_16_16.0.svg"
+   sodipodi:docname="AC.svg"
    style="shape-rendering:crispEdges">
   <defs
      id="defs2">
@@ -1049,9 +1049,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.40963855"
-     inkscape:cx="718.9625"
-     inkscape:cy="416.6752"
+     inkscape:zoom="1.6385542"
+     inkscape:cx="843.91972"
+     inkscape:cy="728.64812"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2000,7 +2000,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.1959796"
            y="-10123.943"
            x="-46158.93"
-           sodipodi:role="line">Fatores de riscos</tspan></text>
+           sodipodi:role="line">Fatores de risco</tspan></text>
       <rect
          style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2606"
@@ -2028,7 +2028,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.1959796"
            y="-10123.598"
            x="-46158.551"
-           sodipodi:role="line">Fatores de riscos</tspan></text>
+           sodipodi:role="line">Fatores de risco</tspan></text>
       <text
          transform="scale(0.99796946,1.0020347)"
          id="text2056"
@@ -2137,5 +2137,16 @@
          x="-43362.613"
          y="-10748.786" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-43548.363"
+       y="-10775.436"
+       id="text1164"><tspan
+         sodipodi:role="line"
+         id="tspan1162"
+         x="-43548.363"
+         y="-10775.436"
+         style="stroke-width:0.26458332">35</tspan></text>
   </g>
 </svg>

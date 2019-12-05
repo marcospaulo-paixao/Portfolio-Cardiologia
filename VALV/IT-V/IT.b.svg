@@ -2064,9 +2064,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22627417"
-     inkscape:cx="-256.72359"
-     inkscape:cy="216.89379"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="986.59952"
+     inkscape:cy="459.39655"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2799,8 +2799,10 @@
              y="-10576.504"
              style="stroke-width:0.26458332"
              id="tspan1911">                                                                      (TARASOUTCHI, <tspan
-   style="font-style:italic"
-   id="tspan1909">et al</tspan>., 2017)</tspan></text>
+   style="font-style:italic;-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1909">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1317">.</tspan>, 2017)</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2878,8 +2880,10 @@
              y="-10572.778"
              style="stroke-width:0.26458332"
              id="tspan6014">                                                                   (TARASOUTCHI, <tspan
-   style="font-style:italic"
-   id="tspan6026">et al</tspan>., 2017)</tspan></text>
+   style="font-style:italic;-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal"
+   id="tspan6026">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1319">.</tspan>, 2017)</tspan></text>
         <text
            transform="scale(0.95093318,1.0515986)"
            id="text1999"
@@ -2994,15 +2998,17 @@
              y="-10582.744"
              style="stroke-width:0.26458332"
              id="tspan2047">  (TARASOUTCHI, <tspan
-   style="font-style:italic"
-   id="tspan2051">et al</tspan>., 2011)</tspan></text>
+   style="font-style:italic;-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal"
+   id="tspan2051">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1321">.</tspan>, 2011)</tspan></text>
       </g>
       <g
          transform="matrix(0.73484292,0,0,0.73484292,-10686.156,-2907.583)"
          style="stroke-width:1.36083508"
          id="g6087">
         <rect
-           style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.3608346;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+           style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1.3608346;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
            id="rect5924-5"
            width="82.002945"
            height="73.780159"
@@ -3022,5 +3028,16 @@
            style="stroke-width:1.53234863" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-42688.988"
+       y="-10837.981"
+       id="text1325"><tspan
+         sodipodi:role="line"
+         id="tspan1323"
+         x="-42688.988"
+         y="-10837.981"
+         style="stroke-width:0.26458332">32</tspan></text>
   </g>
 </svg>

@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="247.62083mm"
-   height="175.72084mm"
-   viewBox="0 0 297.145 210.86502"
+   width="296.81979mm"
+   height="210.92082mm"
+   viewBox="0 0 356.18375 253.105"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -1074,9 +1074,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.81927711"
-     inkscape:cx="503.38992"
-     inkscape:cy="473.82744"
+     inkscape:zoom="0.20481928"
+     inkscape:cx="1542.4236"
+     inkscape:cy="319.05141"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1085,9 +1085,9 @@
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      fit-margin-top="0.5"
-     fit-margin-left="-0.1"
+     fit-margin-left="-0.4"
      fit-margin-right="0"
      fit-margin-bottom="0.2"
      inkscape:guide-bbox="true"
@@ -1108,7 +1108,7 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(44221.413,10456.233)">
+     transform="translate(44634.289,10488.02)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1304,19 +1304,21 @@
            x="2394.6162"
            y="299.39362" /></flowRegion><flowPara
          id="flowPara1294" /></flowRoot>    <g
-       id="g1734">
+       id="g1734"
+       transform="matrix(1.1999958,0,0,1.2,8430.858,2059.3125)"
+       style="stroke-width:0.8333348">
       <path
          inkscape:connector-curvature="0"
          id="rect63-3-9-0-3-0-0-3-5-0-1-4-7"
          d="m -44221.4,-10455.5 v 210 h 148.502 148.498 v -210 h -148.498 z"
-         style="fill:url(#linearGradient1802);fill-opacity:1;stroke:url(#radialGradient878-9-753-7-8-7-3-4-5-7-6-9-7);stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
+         style="fill:url(#linearGradient1802);fill-opacity:1;stroke:url(#radialGradient878-9-753-7-8-7-3-4-5-7-6-9-7);stroke-width:0.22083373;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
       <rect
          y="-10455.499"
          x="-44221.406"
          height="210"
          width="297"
          id="rect1664-8-7-4"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.50793654;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
+         style="opacity:1;fill:#ffffff;fill-opacity:0.50793654;stroke:none;stroke-width:0.8333348;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
       <rect
          ry="1.3455976"
          y="-10449.572"
@@ -1324,12 +1326,13 @@
          height="198.75909"
          width="278.34283"
          id="rect1563-7-8-4"
-         style="opacity:0.98999999;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
+         style="opacity:0.98999999;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.8333348;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
       <g
          transform="translate(18.837483,293.92878)"
-         id="g1512">
+         id="g1512"
+         style="stroke-width:0.8333348">
         <rect
-           style="opacity:0.68607022;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26500636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+           style="opacity:0.68607022;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.22083902;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
            id="rect899-2-3-7-2-3-2-6-0"
            width="22.375355"
            height="1.3399148"
@@ -1337,7 +1340,7 @@
            y="-43389.184"
            transform="matrix(0.504252,-0.86355655,0.86845956,0.49576002,0,0)" />
         <rect
-           style="opacity:0.68607022;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26500636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+           style="opacity:0.68607022;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22083902;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
            id="rect899-20-5-3-6-6-1-7"
            width="22.375355"
            height="1.3399148"
@@ -1351,23 +1354,23 @@
          height="1.3285525"
          width="141.19724"
          id="rect899-2-3-7-2-35-9-3-8"
-         style="opacity:0.68607022;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
+         style="opacity:0.68607022;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.2208337;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
       <rect
          y="-10433.639"
          x="-44088.184"
          height="1.3285525"
          width="141.19724"
          id="rect899-20-5-3-62-5-2-6"
-         style="opacity:0.68607022;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
+         style="opacity:0.68607022;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2208337;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
       <text
          transform="scale(0.94900232,1.0537382)"
          id="text852-7-6-6-9-7-6-4-8"
          y="-9904.1572"
          x="-46457.766"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.88654041px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.88654041px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.22048649;shape-rendering:crispEdges"
          xml:space="preserve"><tspan
            id="tspan1229-8-5-8"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#800000;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#800000;stroke-width:0.22048649"
            y="-9904.1572"
            x="-46457.766"
            sodipodi:role="line">Valvopatias - Estenose Pulmonar</tspan></text>
@@ -1376,18 +1379,19 @@
          id="text852-7-6-0-2-6-0-4"
          y="-9903.6484"
          x="-46457.766"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.88654041px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.88654041px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22048649;shape-rendering:crispEdges"
          xml:space="preserve"><tspan
            id="tspan1227-4-6-3"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.22048649"
            y="-9903.6484"
            x="-46457.766"
            sodipodi:role="line">Valvopatias - Estenose Pulmonar</tspan></text>
       <g
          transform="translate(-409.90501,359.77856)"
-         id="g1956">
+         id="g1956"
+         style="stroke-width:0.8333348">
         <rect
-           style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+           style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.2208337;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
            id="rect63-5-7-5-9-7-1-9-8-5"
            width="29.922916"
            height="136.15625"
@@ -1397,7 +1401,7 @@
            ry="5.8018279" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869164px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1959796;shape-rendering:crispEdges"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869164px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16331662;shape-rendering:crispEdges"
            x="-46058.199"
            y="-10261.062"
            id="text852-8-9-3"
@@ -1405,22 +1409,22 @@
              sodipodi:role="line"
              x="-46058.199"
              y="-10261.062"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.1959796"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.16331662"
              id="tspan858-9-47-1">Definição</tspan></text>
         <text
            id="text852-5-5-84-9"
            y="-10260.722"
            x="-46057.766"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869211px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19597961;shape-rendering:crispEdges"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869211px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16331662;shape-rendering:crispEdges"
            xml:space="preserve"
            transform="scale(0.95093318,1.0515986)"><tspan
              id="tspan858-3-5-5-4"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.19597961"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.16331662"
              y="-10260.722"
              x="-46057.766"
              sodipodi:role="line">Definição</tspan></text>
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2208337;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
            id="rect63-5-7-5-9-7-1-9-8"
            width="29.922916"
            height="136.15625"
@@ -1430,7 +1434,7 @@
            ry="5.8018279" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22048649"
            x="-43731.121"
            y="-10759.189"
            id="text1975"><tspan
@@ -1438,10 +1442,10 @@
              id="tspan1973"
              x="-43731.121"
              y="-10759.189"
-             style="stroke-width:0.26458332"> </tspan></text>
+             style="stroke-width:0.22048649"> </tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22048649"
            x="-43732.422"
            y="-10754.971"
            id="text1504"><tspan
@@ -1449,10 +1453,10 @@
              id="tspan1502"
              x="-43732.422"
              y="-10754.971"
-             style="stroke-width:0.26458332"> </tspan></text>
+             style="stroke-width:0.22048649"> </tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.5;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.5;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22048649"
            x="-43794.762"
            y="-10775.669"
            id="text1249"><tspan
@@ -1460,31 +1464,33 @@
              id="tspan1247"
              x="-43794.762"
              y="-10775.669"
-             style="stroke-width:0.26458332">É um estreitamento da abertura da válvula pulmonar </tspan><tspan
+             style="stroke-width:0.22048649">É um estreitamento da abertura da válvula pulmonar </tspan><tspan
              sodipodi:role="line"
              x="-43794.762"
              y="-10769.319"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1255">que bloqueia o fluxo de sangue do  ventrículo  direito </tspan><tspan
              sodipodi:role="line"
              x="-43794.762"
              y="-10762.969"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1251">para a artéria pulmonar.</tspan><tspan
              sodipodi:role="line"
              x="-43794.762"
              y="-10756.619"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1253">                                                                (ARMSTRONG, 2018)</tspan></text>
       </g>
       <g
          transform="translate(-409.9049,341.25079)"
-         id="g1595">
+         id="g1595"
+         style="stroke-width:0.8333348">
         <g
            id="g1849"
-           transform="translate(0,-9.3901116)">
+           transform="translate(0,-9.3901116)"
+           style="stroke-width:0.8333348">
           <rect
-             style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26500013;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+             style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.22083384;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
              id="rect63-5-7-7-6-1-8-8-3-6-6"
              width="49.858791"
              height="105.48566"
@@ -1493,7 +1499,7 @@
              transform="rotate(-90)"
              ry="3.4360523" />
           <rect
-             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26500013;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22083384;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
              id="rect63-5-7-7-6-1-8-8-3-6"
              width="49.858791"
              height="105.48566"
@@ -1506,10 +1512,10 @@
              id="text852-1-3-6-6"
              y="-10189.45"
              x="-46058.25"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869259px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1959796;shape-rendering:crispEdges"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869259px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16331662;shape-rendering:crispEdges"
              xml:space="preserve"><tspan
                id="tspan858-72-6-9-5"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.1959796"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.16331662"
                y="-10189.45"
                x="-46058.25"
                sodipodi:role="line">EpidemIologia</tspan></text>
@@ -1518,10 +1524,10 @@
              id="text852-1-6-6-3-6"
              y="-10189.041"
              x="-46057.809"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869259px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1959796;shape-rendering:crispEdges"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869259px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16331662;shape-rendering:crispEdges"
              xml:space="preserve"><tspan
                id="tspan858-72-7-1-7-9"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.1959796"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.16331662"
                y="-10189.041"
                x="-46057.809"
                sodipodi:role="line">Epidemiologia</tspan></text>
@@ -1529,40 +1535,40 @@
              id="text1370"
              y="-10698.404"
              x="-43794.988"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.5;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.5;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22048649"
              xml:space="preserve"><tspan
-               style="stroke-width:0.26458332"
+               style="stroke-width:0.22048649"
                y="-10698.404"
                x="-43794.988"
                id="tspan1368"
                sodipodi:role="line">-&gt; Representa 8% a 10% das cardiopatias </tspan><tspan
                id="tspan1378"
-               style="stroke-width:0.26458332"
+               style="stroke-width:0.22048649"
                y="-10692.055"
                x="-43794.988"
                sodipodi:role="line">congênitas, não existindo predomínio de </tspan><tspan
                id="tspan1380"
-               style="stroke-width:0.26458332"
+               style="stroke-width:0.22048649"
                y="-10685.704"
                x="-43794.988"
                sodipodi:role="line">género ou raça.</tspan><tspan
                id="tspan1372"
-               style="stroke-width:0.26458332"
+               style="stroke-width:0.22048649"
                y="-10679.354"
                x="-43794.988"
                sodipodi:role="line">-&gt; A incidência é superior (30%)  quando </tspan><tspan
                id="tspan1382"
-               style="stroke-width:0.26458332"
+               style="stroke-width:0.22048649"
                y="-10673.004"
                x="-43794.988"
                sodipodi:role="line">se   enquadra  em  outras   cardiopatias </tspan><tspan
                id="tspan1384"
-               style="stroke-width:0.26458332"
+               style="stroke-width:0.22048649"
                y="-10666.654"
                x="-43794.988"
                sodipodi:role="line">congênitas mais complexas.</tspan><tspan
                id="tspan1376"
-               style="stroke-width:0.26458332"
+               style="stroke-width:0.22048649"
                y="-10660.305"
                x="-43794.988"
                sodipodi:role="line">                                                     (PIRES, 2018)</tspan></text>
@@ -1570,9 +1576,11 @@
       </g>
       <g
          transform="translate(-409.9049,318.08763)"
-         id="g1613">
+         id="g1613"
+         style="stroke-width:0.8333348">
         <g
-           id="g1866">
+           id="g1866"
+           style="stroke-width:0.8333348">
           <rect
              ry="1.763554"
              y="-10623.64"
@@ -1580,7 +1588,7 @@
              height="50.461597"
              width="97.962105"
              id="rect1481-29"
-             style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.99999982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
+             style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.83333462;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
           <rect
              ry="1.763554"
              y="-10624.697"
@@ -1588,16 +1596,16 @@
              height="50.461597"
              width="97.962105"
              id="rect1481"
-             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83333462;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <text
              transform="scale(0.95093318,1.0515986)"
              id="text852-1-6-6-3-6-7-3"
              y="-10110.549"
              x="-46055.746"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869259px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1959796;shape-rendering:crispEdges"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869259px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16331662;shape-rendering:crispEdges"
              xml:space="preserve"><tspan
                id="tspan858-72-7-1-7-9-5-5"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.1959796"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.16331662"
                y="-10110.549"
                x="-46055.746"
                sodipodi:role="line">Etiologia</tspan></text>
@@ -1606,10 +1614,10 @@
              id="text852-1-6-6-3-6-7"
              y="-10110.046"
              x="-46055.191"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869259px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1959796;shape-rendering:crispEdges"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869259px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16331662;shape-rendering:crispEdges"
              xml:space="preserve"><tspan
                id="tspan858-72-7-1-7-9-5"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.1959796"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.16331662"
                y="-10110.046"
                x="-46055.191"
                sodipodi:role="line">Etiologia</tspan></text>
@@ -1617,45 +1625,45 @@
              id="text1297"
              y="-10620.146"
              x="-43794.609"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.5;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.5;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22048649"
              xml:space="preserve"><tspan
-               style="stroke-width:0.26458332"
+               style="stroke-width:0.22048649"
                y="-10620.146"
                x="-43794.609"
                id="tspan1295"
                sodipodi:role="line">Sua   causa   é  desconhecida,  porém </tspan><tspan
                id="tspan1311"
-               style="stroke-width:0.26458332"
+               style="stroke-width:0.22048649"
                y="-10613.797"
                x="-43794.609"
                sodipodi:role="line">alguns  fatores  de  risco  contribuem </tspan><tspan
                id="tspan1313"
-               style="stroke-width:0.26458332"
+               style="stroke-width:0.22048649"
                y="-10607.446"
                x="-43794.609"
                sodipodi:role="line">para essa doença, entre eles:</tspan><tspan
                id="tspan1299"
-               style="stroke-width:0.26458332"
+               style="stroke-width:0.22048649"
                y="-10601.097"
                x="-43794.609"
                sodipodi:role="line">-&gt; Histórico familiar.</tspan><tspan
                id="tspan1301"
-               style="stroke-width:0.26458332"
+               style="stroke-width:0.22048649"
                y="-10594.746"
                x="-43794.609"
                sodipodi:role="line">-&gt; Rubéola congênita.</tspan><tspan
                id="tspan1303"
-               style="stroke-width:0.26458332"
+               style="stroke-width:0.22048649"
                y="-10588.396"
                x="-43794.609"
                sodipodi:role="line">-&gt; Associação com doenças genéticas.</tspan><tspan
                id="tspan1305"
-               style="stroke-width:0.26458332"
+               style="stroke-width:0.22048649"
                y="-10582.047"
                x="-43794.609"
                sodipodi:role="line">-&gt; Outras doenças congênitas.</tspan><tspan
                id="tspan1309"
-               style="stroke-width:0.26458332"
+               style="stroke-width:0.22048649"
                y="-10575.696"
                x="-43794.609"
                sodipodi:role="line">                                            (PORTO, 2010)</tspan></text>
@@ -1663,9 +1671,10 @@
       </g>
       <g
          transform="translate(-423.61518,315.14686)"
-         id="g1889">
+         id="g1889"
+         style="stroke-width:0.8333348">
         <rect
-           style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+           style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.83333468;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
            id="rect1481-9-3-6-1"
            width="160.03545"
            height="93.320427"
@@ -1673,7 +1682,7 @@
            y="-10659.854"
            ry="3.261404" />
         <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999988;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.83333468;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
            id="rect1481-9-3-6"
            width="160.03545"
            height="93.320427"
@@ -1685,10 +1694,10 @@
            id="text852-1-6-6-3-6-7-0"
            y="-10144.482"
            x="-45928.301"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869259px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1959796;shape-rendering:crispEdges"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869259px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16331662;shape-rendering:crispEdges"
            xml:space="preserve"><tspan
              id="tspan858-72-7-1-7-9-5-6"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.1959796"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.16331662"
              y="-10144.482"
              x="-45928.301"
              sodipodi:role="line">Fisiopatologia</tspan></text>
@@ -1697,16 +1706,16 @@
            id="text852-1-6-6-3-6-7-0-2"
            y="-10143.98"
            x="-45927.746"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869259px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1959796;shape-rendering:crispEdges"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.91869259px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16331662;shape-rendering:crispEdges"
            xml:space="preserve"><tspan
              id="tspan858-72-7-1-7-9-5-6-6"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.1959796"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.16331662"
              y="-10143.98"
              x="-45927.746"
              sodipodi:role="line">Fisiopatologia</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.5;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.5;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22048649"
            x="-43671.914"
            y="-10653.943"
            id="text1131"><tspan
@@ -1714,79 +1723,80 @@
              id="tspan1129"
              x="-43671.914"
              y="-10653.943"
-             style="stroke-width:0.26458332">-&gt; Na estenose congênita a valva pulmonar é formada por uma </tspan><tspan
+             style="stroke-width:0.22048649">-&gt; Na estenose congênita a valva pulmonar é formada por uma </tspan><tspan
              sodipodi:role="line"
              x="-43671.914"
              y="-10647.594"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1143">membrana em forma de  cúpula,  de  espessura  variada,  com </tspan><tspan
              sodipodi:role="line"
              x="-43671.914"
              y="-10641.243"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1145">uma pequena abertura central ou excêntrica.  </tspan><tspan
              sodipodi:role="line"
              x="-43671.914"
              y="-10634.894"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1133">-&gt; Nos quadros de EP  moderada  a  grave,  o  ventrículo  direito</tspan><tspan
              sodipodi:role="line"
              x="-43671.914"
              y="-10628.543"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1147"> tem de trabalhar mais  para  vencer  o  gradiente  de  pressão</tspan><tspan
              sodipodi:role="line"
              x="-43671.914"
              y="-10622.193"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1149"> imposto   pela    válvula    estenosada,    podendo   desenvolver </tspan><tspan
              sodipodi:role="line"
              x="-43671.914"
              y="-10615.844"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1151">hipertrofia de VD. </tspan><tspan
              sodipodi:role="line"
              x="-43671.914"
              y="-10609.493"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1135">-&gt; Em alguns casos o VD não é mais capaz   de   lidar   com   essa </tspan><tspan
              sodipodi:role="line"
              x="-43671.914"
              y="-10603.144"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1153">carga de trabalho excessiva e acaba por  diminuir  a  eficiência </tspan><tspan
              sodipodi:role="line"
              x="-43671.914"
              y="-10596.793"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1155">do bombeamento do sangue. </tspan><tspan
              sodipodi:role="line"
              x="-43671.914"
              y="-10590.443"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1137">-&gt; O aumento da pressão para  o  átrio  direito  fará  com  que  o </tspan><tspan
              sodipodi:role="line"
              x="-43671.914"
              y="-10584.094"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1157">retorno venoso fique prejudicado,  ocorrendo  retenção  hídrica </tspan><tspan
              sodipodi:role="line"
              x="-43671.914"
              y="-10577.743"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1139">no corpo.  </tspan><tspan
              sodipodi:role="line"
              x="-43671.914"
              y="-10571.394"
-             style="stroke-width:0.26458332"
+             style="stroke-width:0.22048649"
              id="tspan1141">                                                                                              (MELO, 2019)</tspan></text>
       </g>
       <g
          transform="translate(-401.70214,345.80347)"
-         id="g1939">
+         id="g1939"
+         style="stroke-width:0.8333348">
         <rect
            clip-path="none"
-           style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.99999982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+           style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.83333462;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
            id="rect1579-5"
            width="83.442123"
            height="65.036407"
@@ -1801,7 +1811,7 @@
            preserveAspectRatio="none"
            height="65.03521"
            width="83.441406"
-           style="stroke-width:1.72496295"
+           style="stroke-width:1.43747163"
            clip-path="url(#clipPath1577)"
            transform="translate(-299.73516,-8.0126695)" />
       </g>
@@ -1809,13 +1819,25 @@
          id="text1644"
          y="-10256.148"
          x="-44109.75"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22048649"
          xml:space="preserve"><tspan
-           style="stroke-width:0.26458332"
+           style="stroke-width:0.22048649"
            y="-10256.148"
            x="-44109.75"
            id="tspan1642"
            sodipodi:role="line">.</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.09598923px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3175"
+       x="-44303.219"
+       y="-10469.366"
+       id="text1107"
+       transform="scale(0.99999823,1.0000018)"><tspan
+         sodipodi:role="line"
+         id="tspan1105"
+         x="-44303.219"
+         y="-10469.366"
+         style="stroke-width:0.3175">29</tspan></text>
   </g>
 </svg>

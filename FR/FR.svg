@@ -1121,9 +1121,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.15256734"
-     inkscape:cx="-82.911951"
-     inkscape:cy="-87.301635"
+     inkscape:zoom="0.4315256"
+     inkscape:cx="736.58482"
+     inkscape:cy="419.94791"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1221,1183 +1221,1213 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(43776.208,10656.344)">
-    <path
-       style="fill:url(#linearGradient1348-0-9);fill-opacity:1;stroke:url(#radialGradient878-9-753-7-8-7-3-4-5-7-6-9);stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-       d="m -43776.175,-10655.711 v 210 h 148.502 148.498 v -210 h -148.498 z"
-       id="rect63-3-9-0-3-0-0-3-5-0-1-4"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:0.50793654;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-       id="rect1664-8-7"
-       width="297"
-       height="210"
-       x="-43776.18"
-       y="-10655.71" />
-    <rect
-       style="opacity:0.98999999;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-       id="rect1563-7-8"
-       width="278.34283"
-       height="198.75909"
-       x="-43766.988"
-       y="-10649.783"
-       ry="1.3455976" />
     <g
-       style="shape-rendering:crispEdges"
-       id="g1663-9-3"
-       transform="translate(42.84321,134.7156)">
+       id="g1471">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect63-3-9-0-3-0-0-3-5-0-1-4"
+         d="m -43776.175,-10655.711 v 210 h 148.502 148.498 v -210 h -148.498 z"
+         style="fill:url(#linearGradient1348-0-9);fill-opacity:1;stroke:url(#radialGradient878-9-753-7-8-7-3-4-5-7-6-9);stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
       <rect
-         transform="matrix(0.504252,-0.86355655,0.86845956,0.49576002,0,0)"
-         y="-43193.352"
-         x="-12338.335"
-         height="1.3399148"
-         width="22.375355"
-         id="rect899-2-3-7-2-3-2-6"
-         style="opacity:0.68607022;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26500636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
+         y="-10655.71"
+         x="-43776.18"
+         height="210"
+         width="297"
+         id="rect1664-8-7"
+         style="opacity:1;fill:#ffffff;fill-opacity:0.50793654;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
       <rect
-         transform="matrix(0.504252,-0.86355655,0.86845956,0.49576002,0,0)"
-         y="-43192.984"
-         x="-12337.969"
-         height="1.3399148"
-         width="22.375355"
-         id="rect899-20-5-3-6-6-1"
-         style="opacity:0.68607022;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26500636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
-    </g>
-    <rect
-       style="opacity:0.68607022;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-       id="rect899-2-3-7-2-35-9-3"
-       width="90.058327"
-       height="1.3285525"
-       x="-43760.203"
-       y="-10634.214" />
-    <rect
-       style="opacity:0.68607022;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-       id="rect899-20-5-3-62-5-2"
-       width="90.058327"
-       height="1.3285525"
-       x="-43760.203"
-       y="-10633.85" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-43988.543"
-       y="-9405.4648"
-       id="text819"><tspan
-         sodipodi:role="line"
-         x="-43988.543"
-         y="-9396.1016"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan823" /></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot866"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(-44323.194,-9822.4426)"><flowRegion
-         id="flowRegion868"><rect
-           id="rect870"
-           width="3.0687051"
-           height="41.314083"
-           x="587.14288"
-           y="181.12938" /></flowRegion><flowPara
-         id="flowPara872" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6595"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16738701"
-       transform="matrix(1,0,0,0.73378748,-11.99,-2634.5432)"><flowRegion
-         id="flowRegion6597"><rect
-           id="rect6599"
-           width="163.51845"
-           height="1330.2446"
-           x="2245.064"
-           y="-733.71088" /></flowRegion><flowPara
-         id="flowPara6601" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6603"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16738701"
-       transform="matrix(1,0,0,0.73378748,-11.99,-2634.5432)"><flowRegion
-         id="flowRegion6605"><rect
-           id="rect6607"
-           width="194.45436"
-           height="1193.2427"
-           x="2267.1611"
-           y="-853.03516" /></flowRegion><flowPara
-         id="flowPara6609" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6611"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16738701"
-       transform="matrix(1,0,0,0.73378748,-11.99,-2634.5432)"><flowRegion
-         id="flowRegion6613"><rect
-           id="rect6615"
-           width="260.74564"
-           height="711.52618"
-           x="2112.4814"
-           y="-366.89926" /></flowRegion><flowPara
-         id="flowPara6617" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90525007px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-44746.633"
-       y="-8961.4736"
-       id="text3597"><tspan
-         sodipodi:role="line"
-         id="tspan3595"
-         x="-44746.633"
-         y="-8957.8818"
-         style="stroke-width:0.26458332" /><tspan
-         sodipodi:role="line"
-         x="-44746.633"
-         y="-8953.001"
-         style="stroke-width:0.26458332"
-         id="tspan3599" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-43727.359"
-       y="-10825.261"
-       id="text2765"><tspan
-         sodipodi:role="line"
-         id="tspan2763"
-         x="-43727.359"
-         y="-10809.688"
-         style="stroke-width:0.26458332" /></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3000"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-         id="flowRegion3002"><rect
-           id="rect3004"
-           width="654.98633"
-           height="890.17444"
-           x="892.70337"
-           y="-11405.312" /></flowRegion><flowPara
-         id="flowPara3006" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="-43649.688"
-       y="-10679.142"
-       id="text2874"><tspan
-         sodipodi:role="line"
-         id="tspan2872"
-         x="-43649.688"
-         y="-10673.95"
-         style="stroke-width:0.26458332" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-       x="-44330.578"
-       y="-9243.5166"
-       id="text819-7"><tspan
-         sodipodi:role="line"
-         x="-44330.578"
-         y="-9234.1533"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan823-5" /></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot866-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;shape-rendering:crispEdges"
-       transform="translate(-44665.228,-9660.4941)"><flowRegion
-         id="flowRegion868-5"><rect
-           id="rect870-6"
-           width="3.0687051"
-           height="41.314083"
-           x="587.14288"
-           y="181.12938" /></flowRegion><flowPara
-         id="flowPara872-2" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6595-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16738701;shape-rendering:crispEdges"
-       transform="matrix(1,0,0,0.73378748,-354.024,-2472.5947)"><flowRegion
-         id="flowRegion6597-1"><rect
-           id="rect6599-2"
-           width="163.51845"
-           height="1330.2446"
-           x="2245.064"
-           y="-733.71088" /></flowRegion><flowPara
-         id="flowPara6601-7" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6603-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16738701;shape-rendering:crispEdges"
-       transform="matrix(1,0,0,0.73378748,-354.024,-2472.5947)"><flowRegion
-         id="flowRegion6605-9"><rect
-           id="rect6607-3"
-           width="194.45436"
-           height="1193.2427"
-           x="2267.1611"
-           y="-853.03516" /></flowRegion><flowPara
-         id="flowPara6609-6" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6611-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16738701;shape-rendering:crispEdges"
-       transform="matrix(1,0,0,0.73378748,-354.024,-2472.5947)"><flowRegion
-         id="flowRegion6613-6"><rect
-           id="rect6615-2"
-           width="260.74564"
-           height="711.52618"
-           x="2112.4814"
-           y="-366.89926" /></flowRegion><flowPara
-         id="flowPara6617-6" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90525007px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-       x="-45088.668"
-       y="-8799.5254"
-       id="text3597-1"><tspan
-         sodipodi:role="line"
-         id="tspan3595-8"
-         x="-45088.668"
-         y="-8795.9336"
-         style="stroke-width:0.26458332" /><tspan
-         sodipodi:role="line"
-         x="-45088.668"
-         y="-8791.0527"
-         style="stroke-width:0.26458332"
-         id="tspan3599-7" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-       x="-44069.395"
-       y="-10663.312"
-       id="text2765-9"><tspan
-         sodipodi:role="line"
-         id="tspan2763-2"
-         x="-44069.395"
-         y="-10647.738"
-         style="stroke-width:0.26458332" /></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3000-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;shape-rendering:crispEdges"
-       transform="translate(-342.034,161.94848)"><flowRegion
-         id="flowRegion3002-2"><rect
-           id="rect3004-3"
-           width="654.98633"
-           height="890.17444"
-           x="892.70337"
-           y="-11405.312" /></flowRegion><flowPara
-         id="flowPara3006-7" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-       x="-43991.723"
-       y="-10517.193"
-       id="text2874-5"><tspan
-         sodipodi:role="line"
-         id="tspan2872-9"
-         x="-43991.723"
-         y="-10512.002"
-         style="stroke-width:0.26458332" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.23398256px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-       x="-43830.617"
-       y="-10450.434"
-       id="text1259"><tspan
-         sodipodi:role="line"
-         id="tspan1257"
-         x="-43830.617"
-         y="-10447.459"
-         style="stroke-width:0.26458332" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-       x="-44018.27"
-       y="-10593.669"
-       id="text1278"><tspan
-         sodipodi:role="line"
-         id="tspan1276"
-         x="-44018.27"
-         y="-10592.422"
-         style="stroke-width:0.26458332" /><tspan
-         sodipodi:role="line"
-         x="-44018.27"
-         y="-10592.422"
-         style="stroke-width:0.26458332"
-         id="tspan1280" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-       x="-43879.852"
-       y="-10416.777"
-       id="text1426"><tspan
-         sodipodi:role="line"
-         id="tspan1424"
-         x="-43879.852"
-         y="-10415.53"
-         style="stroke-width:0.26458332" /><tspan
-         sodipodi:role="line"
-         x="-43879.852"
-         y="-10415.53"
-         style="stroke-width:0.26458332"
-         id="tspan1428" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-       x="-44306.727"
-       y="-10501.381"
-       id="text1218"><tspan
-         sodipodi:role="line"
-         id="tspan1216"
-         x="-44306.727"
-         y="-10500.134"
-         style="stroke-width:0.26458332" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-       x="-44300.832"
-       y="-10535.204"
-       id="text1254"><tspan
-         sodipodi:role="line"
-         id="tspan1252"
-         x="-44300.832"
-         y="-10533.957"
-         style="stroke-width:0.26458332" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-       x="-43580.008"
-       y="-10546.064"
-       id="text2551"><tspan
-         sodipodi:role="line"
-         id="tspan2549"
-         x="-43580.008"
-         y="-10544.817"
-         style="stroke-width:0.26458332" /><tspan
-         sodipodi:role="line"
-         x="-43580.008"
-         y="-10544.817"
-         style="stroke-width:0.26458332"
-         id="tspan2553" /></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1288"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;shape-rendering:crispEdges"
-       transform="translate(-342.034,161.94848)"><flowRegion
-         id="flowRegion1290"><rect
-           id="rect1292"
-           width="261.98938"
-           height="68.41761"
-           x="2394.6162"
-           y="299.39362" /></flowRegion><flowPara
-         id="flowPara1294" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1412"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;shape-rendering:crispEdges"
-       transform="translate(-342.034,161.94848)"><flowRegion
-         id="flowRegion1414"><rect
-           id="rect1416"
-           width="91.487137"
-           height="48.332829"
-           x="2150.8108"
-           y="167.38539" /></flowRegion><flowPara
-         id="flowPara1418" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-       x="-43885.742"
-       y="-10226.383"
-       id="text1652"><tspan
-         sodipodi:role="line"
-         id="tspan1650"
-         x="-43885.742"
-         y="-10225.136"
-         style="stroke-width:0.26458332" /></text>
-    <g
-       transform="matrix(1.4630042,0,0,0.76971348,20736.834,-2957.7922)"
-       id="g2513-8-2-3-4"
-       style="fill:#ff0000;stroke:none;stroke-width:0.94235098;shape-rendering:crispEdges" />
-    <g
-       id="g1852">
+         ry="1.3455976"
+         y="-10649.783"
+         x="-43766.988"
+         height="198.75909"
+         width="278.34283"
+         id="rect1563-7-8"
+         style="opacity:0.98999999;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
       <g
-         style="stroke:none;stroke-width:0.94235098;shape-rendering:crispEdges"
-         id="g2513-8-2-3"
-         transform="matrix(1.4630042,0,0,0.76971348,20735.776,-2958.8506)">
-        <rect
-           ry="2.7889426"
-           transform="rotate(90)"
-           y="43902.504"
-           x="-9775.2637"
-           height="105.21932"
-           width="39.802986"
-           id="rect1775"
-           style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.249723;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.249723;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect63-5-7-5-9-7-1-5-6"
-           width="39.802986"
-           height="105.21932"
-           x="-9776.6387"
-           y="43903.23"
-           transform="rotate(90)"
-           ry="2.7889426" />
-      </g>
-      <text
-         transform="scale(0.9661636,1.0350214)"
-         id="text852-3-9-3-1"
-         y="-10122.501"
-         x="-45174.43"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17308812;shape-rendering:crispEdges"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
-           y="-10122.501"
-           x="-45174.43"
-           sodipodi:role="line"
-           id="tspan3116-8"> Primeira teoria - A febre reumática é o resultado de uma resposta </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
-           y="-10117.603"
-           x="-45174.43"
-           sodipodi:role="line"
-           id="tspan3068">imunológica anormal do hospedeiro a uma infecção estreptocócica.</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
-           y="-10112.704"
-           x="-45174.43"
-           sodipodi:role="line"
-           id="tspan3066">Segunda teoria- O sistema imunológico do hospedeiro, em vez de </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
-           y="-10107.806"
-           x="-45174.43"
-           sodipodi:role="line"
-           id="tspan3070">agredir o estreptococo, passa a agredir o próprio organismo.</tspan><tspan
-           id="tspan1743"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
-           y="-10102.907"
-           x="-45174.43"
-           sodipodi:role="line">                                                                                   (CHIARELLO, <tspan
-   id="tspan1745"
-   style="font-style:italic">et al</tspan>., 2019) </tspan></text>
-      <g
-         transform="translate(1305.4037,-1055.0335)"
-         id="g4056-5"
+         transform="translate(42.84321,134.7156)"
+         id="g1663-9-3"
          style="shape-rendering:crispEdges">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19597962"
-           x="-47639.453"
-           y="-8902.2363"
-           id="text852-5-5-4-1-0"
-           transform="scale(0.94364477,1.0597208)"><tspan
-             sodipodi:role="line"
-             x="-47639.453"
-             y="-8902.2363"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.19597962"
-             id="tspan858-3-5-1-3-3">Fisiopatologia</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19597962"
-           x="-47638.988"
-           y="-8901.7734"
-           id="text852-5-5-4-6"
-           transform="scale(0.94364477,1.0597208)"><tspan
-             sodipodi:role="line"
-             x="-47638.988"
-             y="-8901.7734"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.19597962"
-             id="tspan858-3-5-1-1">Fisiopatologia</tspan></text>
-      </g>
-    </g>
-    <g
-       style="shape-rendering:crispEdges"
-       id="g3445"
-       transform="translate(1299.5234,-1383.9982)">
-      <g
-         transform="translate(-17.986397,340.52627)"
-         id="g3972-3">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1959796"
-           x="-47730.707"
-           y="-8978.4668"
-           id="text852-1-3-2"
-           transform="scale(0.94364478,1.0597208)"><tspan
-             sodipodi:role="line"
-             x="-47730.707"
-             y="-8978.4668"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.1959796"
-             id="tspan858-72-6-06">EpidemIologia</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1959796"
-           x="-47730.27"
-           y="-8978.0605"
-           id="text852-1-6-6-1"
-           transform="scale(0.94364478,1.0597208)"><tspan
-             sodipodi:role="line"
-             x="-47730.27"
-             y="-8978.0605"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.1959796"
-             id="tspan858-72-7-1-5">Epidemiologia</tspan></text>
+        <rect
+           style="opacity:0.68607022;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26500636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+           id="rect899-2-3-7-2-3-2-6"
+           width="22.375355"
+           height="1.3399148"
+           x="-12338.335"
+           y="-43193.352"
+           transform="matrix(0.504252,-0.86355655,0.86845956,0.49576002,0,0)" />
+        <rect
+           style="opacity:0.68607022;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26500636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+           id="rect899-20-5-3-6-6-1"
+           width="22.375355"
+           height="1.3399148"
+           x="-12337.969"
+           y="-43192.984"
+           transform="matrix(0.504252,-0.86355655,0.86845956,0.49576002,0,0)" />
       </g>
       <rect
-         style="fill:#800000;fill-opacity:1;stroke:url(#radialGradient1783);stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1781"
-         width="50.305618"
-         height="129.73676"
-         x="-9165.5078"
-         y="44927.375"
-         transform="rotate(90)"
-         ry="3.9258509" />
+         y="-10634.214"
+         x="-43760.203"
+         height="1.3285525"
+         width="90.058327"
+         id="rect899-2-3-7-2-35-9-3"
+         style="opacity:0.68607022;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
       <rect
-         ry="3.9258509"
-         transform="rotate(90)"
-         y="44928.43"
-         x="-9166.5664"
-         height="129.73676"
-         width="50.305618"
-         id="rect63-5-7-5-9-7-7"
-         style="fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient878-3-9-7-9-3-9);stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         y="-10633.85"
+         x="-43760.203"
+         height="1.3285525"
+         width="90.058327"
+         id="rect899-20-5-3-62-5-2"
+         style="opacity:0.68607022;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
       <text
-         transform="scale(0.9661636,1.0350214)"
-         id="text852-3-9-2-9-6"
-         y="-8849.5771"
-         x="-46633.508"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.16752291px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17308813"
+         id="text819"
+         y="-9405.4648"
+         x="-43988.543"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
-           id="tspan2157-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           y="-8849.5771"
-           x="-46633.508"
-           sodipodi:role="line">-&gt; Instalação : 5 a 10 anos.</tspan><tspan
-           id="tspan2859"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           y="-8844.6992"
-           x="-46633.508"
-           sodipodi:role="line">-&gt; Incidência : localidades.</tspan><tspan
-           id="tspan2871"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           y="-8839.8203"
-           x="-46633.508"
-           sodipodi:role="line">-&gt; Mais atingidos : mulheres mais pobres, que envolvem a </tspan><tspan
-           id="tspan2883"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           y="-8834.9424"
-           x="-46633.508"
-           sodipodi:role="line">desnutrição crônica, as más condições de saneamento</tspan><tspan
-           id="tspan2885"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           y="-8830.0645"
-           x="-46633.508"
-           sodipodi:role="line">básico, a falta de assistência  médica em diversas regi-</tspan><tspan
-           id="tspan2887"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           y="-8825.1855"
-           x="-46633.508"
-           sodipodi:role="line">ões,  favorecendo a disseminação do estreptococo. </tspan><tspan
-           id="tspan2865"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           y="-8820.3076"
-           x="-46633.508"
-           sodipodi:role="line">-&gt; Ocorrência da febre após epidemia de faringite : </tspan><tspan
-           id="tspan2889"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           y="-8815.4297"
-           x="-46633.508"
-           sodipodi:role="line">em torno de 3%.</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           y="-8810.5508"
-           x="-46633.508"
-           sodipodi:role="line"
-           id="tspan1731">                                                              (CHIARELLO, <tspan
-   style="font-style:italic"
-   id="tspan1737">et al</tspan>., 2019) </tspan></text>
-    </g>
-    <g
-       style="shape-rendering:crispEdges"
-       id="g4471"
-       transform="translate(1323.9739,-1392.4941)">
+           id="tspan823"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="-9396.1016"
+           x="-43988.543"
+           sodipodi:role="line" /></text>
+      <flowRoot
+         transform="translate(-44323.194,-9822.4426)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot866"
+         xml:space="preserve"><flowRegion
+           id="flowRegion868"><rect
+             y="181.12938"
+             x="587.14288"
+             height="41.314083"
+             width="3.0687051"
+             id="rect870" /></flowRegion><flowPara
+           id="flowPara872" /></flowRoot>      <flowRoot
+         transform="matrix(1,0,0,0.73378748,-11.99,-2634.5432)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16738701"
+         id="flowRoot6595"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6597"><rect
+             y="-733.71088"
+             x="2245.064"
+             height="1330.2446"
+             width="163.51845"
+             id="rect6599" /></flowRegion><flowPara
+           id="flowPara6601" /></flowRoot>      <flowRoot
+         transform="matrix(1,0,0,0.73378748,-11.99,-2634.5432)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16738701"
+         id="flowRoot6603"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6605"><rect
+             y="-853.03516"
+             x="2267.1611"
+             height="1193.2427"
+             width="194.45436"
+             id="rect6607" /></flowRegion><flowPara
+           id="flowPara6609" /></flowRoot>      <flowRoot
+         transform="matrix(1,0,0,0.73378748,-11.99,-2634.5432)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16738701"
+         id="flowRoot6611"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6613"><rect
+             y="-366.89926"
+             x="2112.4814"
+             height="711.52618"
+             width="260.74564"
+             id="rect6615" /></flowRegion><flowPara
+           id="flowPara6617" /></flowRoot>      <text
+         id="text3597"
+         y="-8961.4736"
+         x="-44746.633"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90525007px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-8957.8818"
+           x="-44746.633"
+           id="tspan3595"
+           sodipodi:role="line" /><tspan
+           id="tspan3599"
+           style="stroke-width:0.26458332"
+           y="-8953.001"
+           x="-44746.633"
+           sodipodi:role="line" /></text>
+      <text
+         id="text2765"
+         y="-10825.261"
+         x="-43727.359"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-10809.688"
+           x="-43727.359"
+           id="tspan2763"
+           sodipodi:role="line" /></text>
+      <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot3000"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3002"><rect
+             y="-11405.312"
+             x="892.70337"
+             height="890.17444"
+             width="654.98633"
+             id="rect3004" /></flowRegion><flowPara
+           id="flowPara3006" /></flowRoot>      <text
+         id="text2874"
+         y="-10679.142"
+         x="-43649.688"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-10673.95"
+           x="-43649.688"
+           id="tspan2872"
+           sodipodi:role="line" /></text>
+      <text
+         id="text819-7"
+         y="-9243.5166"
+         x="-44330.578"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         xml:space="preserve"><tspan
+           id="tspan823-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="-9234.1533"
+           x="-44330.578"
+           sodipodi:role="line" /></text>
+      <flowRoot
+         transform="translate(-44665.228,-9660.4941)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;shape-rendering:crispEdges"
+         id="flowRoot866-3"
+         xml:space="preserve"><flowRegion
+           id="flowRegion868-5"><rect
+             y="181.12938"
+             x="587.14288"
+             height="41.314083"
+             width="3.0687051"
+             id="rect870-6" /></flowRegion><flowPara
+           id="flowPara872-2" /></flowRoot>      <flowRoot
+         transform="matrix(1,0,0,0.73378748,-354.024,-2472.5947)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16738701;shape-rendering:crispEdges"
+         id="flowRoot6595-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6597-1"><rect
+             y="-733.71088"
+             x="2245.064"
+             height="1330.2446"
+             width="163.51845"
+             id="rect6599-2" /></flowRegion><flowPara
+           id="flowPara6601-7" /></flowRoot>      <flowRoot
+         transform="matrix(1,0,0,0.73378748,-354.024,-2472.5947)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16738701;shape-rendering:crispEdges"
+         id="flowRoot6603-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6605-9"><rect
+             y="-853.03516"
+             x="2267.1611"
+             height="1193.2427"
+             width="194.45436"
+             id="rect6607-3" /></flowRegion><flowPara
+           id="flowPara6609-6" /></flowRoot>      <flowRoot
+         transform="matrix(1,0,0,0.73378748,-354.024,-2472.5947)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.16738701;shape-rendering:crispEdges"
+         id="flowRoot6611-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6613-6"><rect
+             y="-366.89926"
+             x="2112.4814"
+             height="711.52618"
+             width="260.74564"
+             id="rect6615-2" /></flowRegion><flowPara
+           id="flowPara6617-6" /></flowRoot>      <text
+         id="text3597-1"
+         y="-8799.5254"
+         x="-45088.668"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90525007px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-8795.9336"
+           x="-45088.668"
+           id="tspan3595-8"
+           sodipodi:role="line" /><tspan
+           id="tspan3599-7"
+           style="stroke-width:0.26458332"
+           y="-8791.0527"
+           x="-45088.668"
+           sodipodi:role="line" /></text>
+      <text
+         id="text2765-9"
+         y="-10663.312"
+         x="-44069.395"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-10647.738"
+           x="-44069.395"
+           id="tspan2763-2"
+           sodipodi:role="line" /></text>
+      <flowRoot
+         transform="translate(-342.034,161.94848)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;shape-rendering:crispEdges"
+         id="flowRoot3000-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3002-2"><rect
+             y="-11405.312"
+             x="892.70337"
+             height="890.17444"
+             width="654.98633"
+             id="rect3004-3" /></flowRegion><flowPara
+           id="flowPara3006-7" /></flowRoot>      <text
+         id="text2874-5"
+         y="-10517.193"
+         x="-43991.723"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-10512.002"
+           x="-43991.723"
+           id="tspan2872-9"
+           sodipodi:role="line" /></text>
+      <text
+         id="text1259"
+         y="-10450.434"
+         x="-43830.617"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.23398256px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-10447.459"
+           x="-43830.617"
+           id="tspan1257"
+           sodipodi:role="line" /></text>
+      <text
+         id="text1278"
+         y="-10593.669"
+         x="-44018.27"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-10592.422"
+           x="-44018.27"
+           id="tspan1276"
+           sodipodi:role="line" /><tspan
+           id="tspan1280"
+           style="stroke-width:0.26458332"
+           y="-10592.422"
+           x="-44018.27"
+           sodipodi:role="line" /></text>
+      <text
+         id="text1426"
+         y="-10416.777"
+         x="-43879.852"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-10415.53"
+           x="-43879.852"
+           id="tspan1424"
+           sodipodi:role="line" /><tspan
+           id="tspan1428"
+           style="stroke-width:0.26458332"
+           y="-10415.53"
+           x="-43879.852"
+           sodipodi:role="line" /></text>
+      <text
+         id="text1218"
+         y="-10501.381"
+         x="-44306.727"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-10500.134"
+           x="-44306.727"
+           id="tspan1216"
+           sodipodi:role="line" /></text>
+      <text
+         id="text1254"
+         y="-10535.204"
+         x="-44300.832"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-10533.957"
+           x="-44300.832"
+           id="tspan1252"
+           sodipodi:role="line" /></text>
+      <text
+         id="text2551"
+         y="-10546.064"
+         x="-43580.008"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-10544.817"
+           x="-43580.008"
+           id="tspan2549"
+           sodipodi:role="line" /><tspan
+           id="tspan2553"
+           style="stroke-width:0.26458332"
+           y="-10544.817"
+           x="-43580.008"
+           sodipodi:role="line" /></text>
+      <flowRoot
+         transform="translate(-342.034,161.94848)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;shape-rendering:crispEdges"
+         id="flowRoot1288"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1290"><rect
+             y="299.39362"
+             x="2394.6162"
+             height="68.41761"
+             width="261.98938"
+             id="rect1292" /></flowRegion><flowPara
+           id="flowPara1294" /></flowRoot>      <flowRoot
+         transform="translate(-342.034,161.94848)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;shape-rendering:crispEdges"
+         id="flowRoot1412"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1414"><rect
+             y="167.38539"
+             x="2150.8108"
+             height="48.332829"
+             width="91.487137"
+             id="rect1416" /></flowRegion><flowPara
+           id="flowPara1418" /></flowRoot>      <text
+         id="text1652"
+         y="-10226.383"
+         x="-43885.742"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-10225.136"
+           x="-43885.742"
+           id="tspan1650"
+           sodipodi:role="line" /></text>
       <g
-         id="g4399">
+         style="fill:#ff0000;stroke:none;stroke-width:0.94235098;shape-rendering:crispEdges"
+         id="g2513-8-2-3-4"
+         transform="matrix(1.4630042,0,0,0.76971348,20736.834,-2957.7922)" />
+      <g
+         id="g1852">
         <g
-           id="g4104-7"
-           transform="translate(-120.07521,273.09908)">
+           transform="matrix(1.4630042,0,0,0.76971348,20735.776,-2958.8506)"
+           id="g2513-8-2-3"
+           style="stroke:none;stroke-width:0.94235098;shape-rendering:crispEdges">
+          <rect
+             style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.249723;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1775"
+             width="39.802986"
+             height="105.21932"
+             x="-9775.2637"
+             y="43902.504"
+             transform="rotate(90)"
+             ry="2.7889426" />
+          <rect
+             ry="2.7889426"
+             transform="rotate(90)"
+             y="43903.23"
+             x="-9776.6387"
+             height="105.21932"
+             width="39.802986"
+             id="rect63-5-7-5-9-7-1-5-6"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.249723;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17308812;shape-rendering:crispEdges"
+           x="-45174.43"
+           y="-10122.501"
+           id="text852-3-9-3-1"
+           transform="scale(0.9661636,1.0350214)"><tspan
+             id="tspan3116-8"
+             sodipodi:role="line"
+             x="-45174.43"
+             y="-10122.501"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"> Primeira teoria - A febre reumática é o resultado de uma resposta </tspan><tspan
+             id="tspan3068"
+             sodipodi:role="line"
+             x="-45174.43"
+             y="-10117.603"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812">imunológica anormal do hospedeiro a uma infecção estreptocócica.</tspan><tspan
+             id="tspan3066"
+             sodipodi:role="line"
+             x="-45174.43"
+             y="-10112.704"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812">Segunda teoria- O sistema imunológico do hospedeiro, em vez de </tspan><tspan
+             id="tspan3070"
+             sodipodi:role="line"
+             x="-45174.43"
+             y="-10107.806"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812">agredir o estreptococo, passa a agredir o próprio organismo.</tspan><tspan
+             sodipodi:role="line"
+             x="-45174.43"
+             y="-10102.907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
+             id="tspan1743">                                                                                   (CHIARELLO, <tspan
+   style="font-style:normal;-inkscape-font-specification:'COCOGOOSE pro';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1745">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro';font-family:'COCOGOOSE pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1236">.</tspan>, 2019) </tspan></text>
+        <g
+           style="shape-rendering:crispEdges"
+           id="g4056-5"
+           transform="translate(1305.4037,-1055.0335)">
+          <text
+             transform="scale(0.94364477,1.0597208)"
+             id="text852-5-5-4-1-0"
+             y="-8902.2363"
+             x="-47639.453"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19597962"
+             xml:space="preserve"><tspan
+               id="tspan858-3-5-1-3-3"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.19597962"
+               y="-8902.2363"
+               x="-47639.453"
+               sodipodi:role="line">Fisiopatologia</tspan></text>
+          <text
+             transform="scale(0.94364477,1.0597208)"
+             id="text852-5-5-4-6"
+             y="-8901.7734"
+             x="-47638.988"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19597962"
+             xml:space="preserve"><tspan
+               id="tspan858-3-5-1-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.19597962"
+               y="-8901.7734"
+               x="-47638.988"
+               sodipodi:role="line">Fisiopatologia</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(1299.5234,-1383.9982)"
+         id="g3445"
+         style="shape-rendering:crispEdges">
+        <g
+           id="g3972-3"
+           transform="translate(-17.986397,340.52627)">
+          <text
+             transform="scale(0.94364478,1.0597208)"
+             id="text852-1-3-2"
+             y="-8978.4668"
+             x="-47730.707"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1959796"
+             xml:space="preserve"><tspan
+               id="tspan858-72-6-06"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.1959796"
+               y="-8978.4668"
+               x="-47730.707"
+               sodipodi:role="line">EpidemIologia</tspan></text>
+          <text
+             transform="scale(0.94364478,1.0597208)"
+             id="text852-1-6-6-1"
+             y="-8978.0605"
+             x="-47730.27"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1959796"
+             xml:space="preserve"><tspan
+               id="tspan858-72-7-1-5"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.1959796"
+               y="-8978.0605"
+               x="-47730.27"
+               sodipodi:role="line">Epidemiologia</tspan></text>
+        </g>
+        <rect
+           ry="3.9258509"
+           transform="rotate(90)"
+           y="44927.375"
+           x="-9165.5078"
+           height="129.73676"
+           width="50.305618"
+           id="rect1781"
+           style="fill:#800000;fill-opacity:1;stroke:url(#radialGradient1783);stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient878-3-9-7-9-3-9);stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect63-5-7-5-9-7-7"
+           width="50.305618"
+           height="129.73676"
+           x="-9166.5664"
+           y="44928.43"
+           transform="rotate(90)"
+           ry="3.9258509" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.16752291px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17308813"
+           x="-46633.508"
+           y="-8849.5771"
+           id="text852-3-9-2-9-6"
+           transform="scale(0.9661636,1.0350214)"><tspan
+             sodipodi:role="line"
+             x="-46633.508"
+             y="-8849.5771"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+             id="tspan2157-2">-&gt; Instalação : 5 a 10 anos.</tspan><tspan
+             sodipodi:role="line"
+             x="-46633.508"
+             y="-8844.6992"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+             id="tspan2859">-&gt; Incidência : localidades.</tspan><tspan
+             sodipodi:role="line"
+             x="-46633.508"
+             y="-8839.8203"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+             id="tspan2871">-&gt; Mais atingidos : mulheres mais pobres, que envolvem a </tspan><tspan
+             sodipodi:role="line"
+             x="-46633.508"
+             y="-8834.9424"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+             id="tspan2883">desnutrição crônica, as más condições de saneamento</tspan><tspan
+             sodipodi:role="line"
+             x="-46633.508"
+             y="-8830.0645"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+             id="tspan2885">básico, a falta de assistência  médica em diversas regi-</tspan><tspan
+             sodipodi:role="line"
+             x="-46633.508"
+             y="-8825.1855"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+             id="tspan2887">ões,  favorecendo a disseminação do estreptococo. </tspan><tspan
+             sodipodi:role="line"
+             x="-46633.508"
+             y="-8820.3076"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+             id="tspan2865">-&gt; Ocorrência da febre após epidemia de faringite : </tspan><tspan
+             sodipodi:role="line"
+             x="-46633.508"
+             y="-8815.4297"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+             id="tspan2889">em torno de 3%.</tspan><tspan
+             id="tspan1731"
+             sodipodi:role="line"
+             x="-46633.508"
+             y="-8810.5508"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.902601px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813">                                                              (CHIARELLO, <tspan
+   id="tspan1737"
+   style="font-style:normal;-inkscape-font-specification:'COCOGOOSE pro';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro';font-family:'COCOGOOSE pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1232">.</tspan>, 2019) </tspan></text>
+      </g>
+      <g
+         transform="translate(1323.9739,-1392.4941)"
+         id="g4471"
+         style="shape-rendering:crispEdges">
+        <g
+           id="g4399">
           <g
-             transform="matrix(0.8264568,0,0,0.92811777,-8506.6309,-198.28505)"
-             id="g3744-4"
-             style="stroke-width:1.14179552">
+             transform="translate(-120.07521,273.09908)"
+             id="g4104-7">
             <g
-               transform="translate(-80.796577,-12.182366)"
-               id="g2673-4"
-               style="stroke-width:1.14179552">
+               style="stroke-width:1.14179552"
+               id="g3744-4"
+               transform="matrix(0.8264568,0,0,0.92811777,-8506.6309,-198.28505)">
               <g
-                 id="g3201-1-3"
-                 transform="translate(-44249.913,-9823.3957)"
-                 style="stroke-width:1.14179552">
+                 style="stroke-width:1.14179552"
+                 id="g2673-4"
+                 transform="translate(-80.796577,-12.182366)">
                 <g
-                   id="g2940-5-0"
+                   style="stroke-width:1.14179552"
+                   transform="translate(-44249.913,-9823.3957)"
+                   id="g3201-1-3">
+                  <g
+                     style="stroke-width:1.14179552"
+                     transform="translate(-7.9375004,-4.233333)"
+                     id="g2940-5-0">
+                    <text
+                       id="text852-5-5-8-1-6-7"
+                       y="-111.47031"
+                       x="469.41635"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22376865"
+                       xml:space="preserve"><tspan
+                         id="tspan858-3-5-7-7-5-8"
+                         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.22376865"
+                         y="-111.47031"
+                         x="469.41635"
+                         sodipodi:role="line">Quadro Clínico</tspan></text>
+                  </g>
+                </g>
+                <g
+                   transform="translate(-44249.383,-9822.8665)"
+                   id="g3201-1-1-6"
+                   style="fill:#ffffff;stroke-width:1.14179552">
+                  <g
+                     transform="translate(-7.9375004,-4.233333)"
+                     id="g2940-5-2-88"
+                     style="fill:#ffffff;stroke-width:1.14179552">
+                    <text
+                       id="text852-5-5-8-1-6-2-43"
+                       y="-111.47031"
+                       x="469.41635"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22376865"
+                       xml:space="preserve"><tspan
+                         id="tspan858-3-5-7-7-5-6-1"
+                         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.22376865"
+                         y="-111.47031"
+                         x="469.41635"
+                         sodipodi:role="line">Quadro Clínico</tspan></text>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <rect
+           style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect63-5-7-7-6-1-9-7-9"
+           width="44.147144"
+           height="64.124557"
+           x="-9153.4297"
+           y="44817.75"
+           transform="rotate(90)"
+           ry="2.0887711" />
+        <rect
+           ry="2.0887711"
+           transform="rotate(90)"
+           y="44817.254"
+           x="-9153.1641"
+           height="64.124557"
+           width="44.147144"
+           id="rect1777"
+           style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect63-5-7-7-6-1-9-2"
+           width="44.147144"
+           height="64.124557"
+           x="-9154.2227"
+           y="44818.309"
+           transform="rotate(90)"
+           ry="2.0887711" />
+        <text
+           transform="scale(0.94334007,1.0600631)"
+           id="text852-3-9-2-1-8-5-0"
+           y="-8627.9922"
+           x="-47573.227"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17308813"
+           xml:space="preserve"><tspan
+             id="tspan3161"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+             y="-8627.9922"
+             x="-47573.227"
+             sodipodi:role="line">-&gt; Artrite( 75%).</tspan><tspan
+             id="tspan3163"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+             y="-8623.0938"
+             x="-47573.227"
+             sodipodi:role="line">-&gt; Cardite( 50%).</tspan><tspan
+             id="tspan3165"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+             y="-8618.1953"
+             x="-47573.227"
+             sodipodi:role="line">-&gt; Coréia (30%).</tspan><tspan
+             id="tspan3167"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+             y="-8613.2969"
+             x="-47573.227"
+             sodipodi:role="line">-&gt; Nódulos Subcutânios(3%).</tspan><tspan
+             id="tspan3169"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+             y="-8608.3984"
+             x="-47573.227"
+             sodipodi:role="line">-&gt; Eritema Marginado(3%).</tspan><tspan
+             id="tspan3171"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+             y="-8603.5"
+             x="-47573.227"
+             sodipodi:role="line">  </tspan><tspan
+             id="tspan3173"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+             y="-8598.6016"
+             x="-47573.227"
+             sodipodi:role="line">       (CHIARELLO,<tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro';font-family:'COCOGOOSE pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1238"> </tspan><tspan
+   id="tspan1749"
+   style="font-style:normal;-inkscape-font-specification:'COCOGOOSE pro';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro';font-family:'COCOGOOSE pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1240">.</tspan>, 2019)</tspan></text>
+      </g>
+      <g
+         transform="translate(380.18236,-91.037563)"
+         id="g1685">
+        <g
+           style="shape-rendering:crispEdges"
+           id="g4714"
+           transform="translate(778.00245,-1362.1799)">
+          <g
+             id="g4644">
+            <g
+               transform="matrix(0.79930189,0,0,0.92811777,-9738.5098,48.116818)"
+               id="g3744-3-7"
+               style="stroke-width:1.16102898">
+              <g
+                 id="g3201-1-0-27"
+                 transform="translate(-44330.71,-9835.5781)"
+                 style="stroke-width:1.16102898">
+                <g
+                   id="g2940-5-6-2"
                    transform="translate(-7.9375004,-4.233333)"
-                   style="stroke-width:1.14179552">
+                   style="stroke-width:1.16102898">
                   <text
                      xml:space="preserve"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22376865"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22753799"
                      x="469.41635"
                      y="-111.47031"
-                     id="text852-5-5-8-1-6-7"><tspan
+                     id="text852-5-5-8-1-6-1-2"><tspan
                        sodipodi:role="line"
                        x="469.41635"
                        y="-111.47031"
-                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.22376865"
-                       id="tspan858-3-5-7-7-5-8">Quadro Clínico</tspan></text>
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.22753799"
+                       id="tspan858-3-5-7-7-5-5-6">Tratamento</tspan></text>
                 </g>
               </g>
               <g
-                 style="fill:#ffffff;stroke-width:1.14179552"
-                 id="g3201-1-1-6"
-                 transform="translate(-44249.383,-9822.8665)">
+                 style="fill:#ffffff;stroke-width:1.16102898"
+                 id="g3201-1-1-5-1"
+                 transform="translate(-44330.18,-9835.0489)">
                 <g
-                   style="fill:#ffffff;stroke-width:1.14179552"
-                   id="g2940-5-2-88"
+                   style="fill:#ffffff;stroke-width:1.16102898"
+                   id="g2940-5-2-4-0"
                    transform="translate(-7.9375004,-4.233333)">
                   <text
                      xml:space="preserve"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22376865"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22753799"
                      x="469.41635"
                      y="-111.47031"
-                     id="text852-5-5-8-1-6-2-43"><tspan
+                     id="text852-5-5-8-1-6-2-7-61"><tspan
                        sodipodi:role="line"
                        x="469.41635"
                        y="-111.47031"
-                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.22376865"
-                       id="tspan858-3-5-7-7-5-6-1">Quadro Clínico</tspan></text>
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.22753799"
+                       id="tspan858-3-5-7-7-5-6-6-59">Tratamento</tspan></text>
                 </g>
               </g>
             </g>
           </g>
+          <rect
+             style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1719"
+             width="66.425987"
+             height="150.00317"
+             x="-9180.9199"
+             y="44651.961"
+             transform="rotate(90)"
+             ry="4.8861499" />
+          <rect
+             ry="4.8861499"
+             transform="rotate(90)"
+             y="44653.016"
+             x="-9181.9785"
+             height="150.00317"
+             width="66.425987"
+             id="rect63-5-7-7-6-91"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17308816"
+             x="-48291.012"
+             y="-8512.501"
+             id="text852-3-9-2-1-8-5-6-7"
+             transform="scale(0.92771297,1.0779196)"><tspan
+               id="tspan3797-7"
+               sodipodi:role="line"
+               x="-48291.012"
+               y="-8512.501"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816">-&gt; Penicilina G benzatina: dose única, dependendo do peso da criança. </tspan><tspan
+               id="tspan3311"
+               sodipodi:role="line"
+               x="-48291.012"
+               y="-8507.6836"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816">-&gt; Repouso: de acordo com o tipo e grau de acometimento de cada pa-</tspan><tspan
+               id="tspan3337"
+               sodipodi:role="line"
+               x="-48291.012"
+               y="-8502.8662"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816">ciente.</tspan><tspan
+               id="tspan3313"
+               sodipodi:role="line"
+               x="-48291.012"
+               y="-8498.0498"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816">-&gt; Boa alimentação.</tspan><tspan
+               id="tspan3315"
+               sodipodi:role="line"
+               x="-48291.012"
+               y="-8493.2324"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816">-&gt; Boa higiene.</tspan><tspan
+               id="tspan3317"
+               sodipodi:role="line"
+               x="-48291.012"
+               y="-8488.415"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816">-&gt; Permanecer em ambiente arejado com luz solar evitando ambiente </tspan><tspan
+               id="tspan3339"
+               sodipodi:role="line"
+               x="-48291.012"
+               y="-8483.5977"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816">fechado e cheio de pessoas.</tspan><tspan
+               id="tspan3319"
+               sodipodi:role="line"
+               x="-48291.012"
+               y="-8478.7803"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816">-&gt; Ácido acetilsalicílico: indicado para comprometimento articular.</tspan><tspan
+               id="tspan3321"
+               sodipodi:role="line"
+               x="-48291.012"
+               y="-8473.9629"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816">-&gt; Prednisona: para comprometimento cardíaco agudo, qualquer que </tspan><tspan
+               id="tspan3341"
+               sodipodi:role="line"
+               x="-48291.012"
+               y="-8469.1465"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816">seja o grau.</tspan><tspan
+               id="tspan3323"
+               sodipodi:role="line"
+               x="-48291.012"
+               y="-8464.3291"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816">-&gt; Haloperidol: bloqueador dos receptores dopaminérgicos.</tspan><tspan
+               id="tspan3327"
+               sodipodi:role="line"
+               x="-48291.012"
+               y="-8459.5117"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816">                                                                                        (CHIARELLO, <tspan
+   id="tspan1687"
+   style="font-style:normal;-inkscape-font-specification:'COCOGOOSE pro';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro';font-family:'COCOGOOSE pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1228">.</tspan>, 2019)</tspan></text>
         </g>
       </g>
-      <rect
-         ry="2.0887711"
-         transform="rotate(90)"
-         y="44817.75"
-         x="-9153.4297"
-         height="64.124557"
-         width="44.147144"
-         id="rect63-5-7-7-6-1-9-7-9"
-         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1777"
-         width="44.147144"
-         height="64.124557"
-         x="-9153.1641"
-         y="44817.254"
-         transform="rotate(90)"
-         ry="2.0887711" />
-      <rect
-         ry="2.0887711"
-         transform="rotate(90)"
-         y="44818.309"
-         x="-9154.2227"
-         height="64.124557"
-         width="44.147144"
-         id="rect63-5-7-7-6-1-9-2"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17308813"
-         x="-47573.227"
-         y="-8627.9922"
-         id="text852-3-9-2-1-8-5-0"
-         transform="scale(0.94334007,1.0600631)"><tspan
-           sodipodi:role="line"
-           x="-47573.227"
-           y="-8627.9922"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           id="tspan3161">-&gt; Artrite( 75%).</tspan><tspan
-           sodipodi:role="line"
-           x="-47573.227"
-           y="-8623.0938"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           id="tspan3163">-&gt; Cardite( 50%).</tspan><tspan
-           sodipodi:role="line"
-           x="-47573.227"
-           y="-8618.1953"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           id="tspan3165">-&gt; Coréia (30%).</tspan><tspan
-           sodipodi:role="line"
-           x="-47573.227"
-           y="-8613.2969"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           id="tspan3167">-&gt; Nódulos Subcutânios(3%).</tspan><tspan
-           sodipodi:role="line"
-           x="-47573.227"
-           y="-8608.3984"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           id="tspan3169">-&gt; Eritema Marginado(3%).</tspan><tspan
-           sodipodi:role="line"
-           x="-47573.227"
-           y="-8603.5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           id="tspan3171">  </tspan><tspan
-           sodipodi:role="line"
-           x="-47573.227"
-           y="-8598.6016"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-           id="tspan3173">       (CHIARELLO, <tspan
-   style="font-style:italic"
-   id="tspan1749">et al</tspan>., 2019)</tspan></text>
-    </g>
-    <g
-       id="g1685"
-       transform="translate(380.18236,-91.037563)">
       <g
-         transform="translate(778.00245,-1362.1799)"
-         id="g4714"
+         transform="translate(1141.914,-1301.0852)"
+         id="g3029"
          style="shape-rendering:crispEdges">
         <g
-           id="g4644">
+           transform="translate(-1.6536458,-16.536458)"
+           id="g2436">
           <g
-             style="stroke-width:1.16102898"
-             id="g3744-3-7"
-             transform="matrix(0.79930189,0,0,0.92811777,-9738.5098,48.116818)">
+             transform="translate(139.01254,282.36115)"
+             id="g4026-5">
             <g
-               style="stroke-width:1.16102898"
-               transform="translate(-44330.71,-9835.5781)"
-               id="g3201-1-0-27">
+               style="stroke-width:1.14179552"
+               id="g3313-6"
+               transform="matrix(0.8264568,0,0,0.92811777,-8765.4555,-282.66214)">
               <g
-                 style="stroke-width:1.16102898"
-                 transform="translate(-7.9375004,-4.233333)"
-                 id="g2940-5-6-2">
-                <text
-                   id="text852-5-5-8-1-6-1-2"
-                   y="-111.47031"
-                   x="469.41635"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22753799"
-                   xml:space="preserve"><tspan
-                     id="tspan858-3-5-7-7-5-5-6"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.22753799"
-                     y="-111.47031"
-                     x="469.41635"
-                     sodipodi:role="line">Tratamento</tspan></text>
-              </g>
-            </g>
-            <g
-               transform="translate(-44330.18,-9835.0489)"
-               id="g3201-1-1-5-1"
-               style="fill:#ffffff;stroke-width:1.16102898">
-              <g
-                 transform="translate(-7.9375004,-4.233333)"
-                 id="g2940-5-2-4-0"
-                 style="fill:#ffffff;stroke-width:1.16102898">
-                <text
-                   id="text852-5-5-8-1-6-2-7-61"
-                   y="-111.47031"
-                   x="469.41635"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22753799"
-                   xml:space="preserve"><tspan
-                     id="tspan858-3-5-7-7-5-6-6-59"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.22753799"
-                     y="-111.47031"
-                     x="469.41635"
-                     sodipodi:role="line">Tratamento</tspan></text>
-              </g>
-            </g>
-          </g>
-        </g>
-        <rect
-           ry="4.8861499"
-           transform="rotate(90)"
-           y="44651.961"
-           x="-9180.9199"
-           height="150.00317"
-           width="66.425987"
-           id="rect1719"
-           style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect63-5-7-7-6-91"
-           width="66.425987"
-           height="150.00317"
-           x="-9181.9785"
-           y="44653.016"
-           transform="rotate(90)"
-           ry="4.8861499" />
-        <text
-           transform="scale(0.92771297,1.0779196)"
-           id="text852-3-9-2-1-8-5-6-7"
-           y="-8512.501"
-           x="-48291.012"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17308816"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816"
-             y="-8512.501"
-             x="-48291.012"
-             sodipodi:role="line"
-             id="tspan3797-7">-&gt; Penicilina G benzatina: dose única, dependendo do peso da criança. </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816"
-             y="-8507.6836"
-             x="-48291.012"
-             sodipodi:role="line"
-             id="tspan3311">-&gt; Repouso: de acordo com o tipo e grau de acometimento de cada pa-</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816"
-             y="-8502.8662"
-             x="-48291.012"
-             sodipodi:role="line"
-             id="tspan3337">ciente.</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816"
-             y="-8498.0498"
-             x="-48291.012"
-             sodipodi:role="line"
-             id="tspan3313">-&gt; Boa alimentação.</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816"
-             y="-8493.2324"
-             x="-48291.012"
-             sodipodi:role="line"
-             id="tspan3315">-&gt; Boa higiene.</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816"
-             y="-8488.415"
-             x="-48291.012"
-             sodipodi:role="line"
-             id="tspan3317">-&gt; Permanecer em ambiente arejado com luz solar evitando ambiente </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816"
-             y="-8483.5977"
-             x="-48291.012"
-             sodipodi:role="line"
-             id="tspan3339">fechado e cheio de pessoas.</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816"
-             y="-8478.7803"
-             x="-48291.012"
-             sodipodi:role="line"
-             id="tspan3319">-&gt; Ácido acetilsalicílico: indicado para comprometimento articular.</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816"
-             y="-8473.9629"
-             x="-48291.012"
-             sodipodi:role="line"
-             id="tspan3321">-&gt; Prednisona: para comprometimento cardíaco agudo, qualquer que </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816"
-             y="-8469.1465"
-             x="-48291.012"
-             sodipodi:role="line"
-             id="tspan3341">seja o grau.</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816"
-             y="-8464.3291"
-             x="-48291.012"
-             sodipodi:role="line"
-             id="tspan3323">-&gt; Haloperidol: bloqueador dos receptores dopaminérgicos.</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308816"
-             y="-8459.5117"
-             x="-48291.012"
-             sodipodi:role="line"
-             id="tspan3327">                                                                                        (CHIARELLO, <tspan
-   style="font-style:italic"
-   id="tspan1687">et al</tspan>., 2019)</tspan></text>
-      </g>
-    </g>
-    <g
-       style="shape-rendering:crispEdges"
-       id="g3029"
-       transform="translate(1141.914,-1301.0852)">
-      <g
-         id="g2436"
-         transform="translate(-1.6536458,-16.536458)">
-        <g
-           id="g4026-5"
-           transform="translate(139.01254,282.36115)">
-          <g
-             transform="matrix(0.8264568,0,0,0.92811777,-8765.4555,-282.66214)"
-             id="g3313-6"
-             style="stroke-width:1.14179552">
-            <g
-               id="g2940-3"
-               transform="translate(-44360.607,-9764.7028)"
-               style="stroke-width:1.14179552">
-              <g
-                 transform="translate(187.66812,-24.844252)"
-                 id="g1468-5-9"
-                 style="stroke-width:1.14179552">
-                <text
-                   id="text852-5-5-8-1-4"
-                   y="-86.626053"
-                   x="281.74823"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22376865"
-                   xml:space="preserve"><tspan
-                     id="tspan858-3-5-7-7-8"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.22376865"
-                     y="-86.626053"
+                 style="stroke-width:1.14179552"
+                 transform="translate(-44360.607,-9764.7028)"
+                 id="g2940-3">
+                <g
+                   style="stroke-width:1.14179552"
+                   id="g1468-5-9"
+                   transform="translate(187.66812,-24.844252)">
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22376865"
                      x="281.74823"
-                     sodipodi:role="line">Etiologia</tspan></text>
-                <text
-                   id="text852-5-5-8-12"
-                   y="-86.306244"
-                   x="282.17422"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22376865"
-                   xml:space="preserve"><tspan
-                     id="tspan858-3-5-7-93"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.22376865"
-                     y="-86.306244"
+                     y="-86.626053"
+                     id="text852-5-5-8-1-4"><tspan
+                       sodipodi:role="line"
+                       x="281.74823"
+                       y="-86.626053"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.22376865"
+                       id="tspan858-3-5-7-7-8">Etiologia</tspan></text>
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22376865"
                      x="282.17422"
-                     sodipodi:role="line">Etiologia</tspan></text>
+                     y="-86.306244"
+                     id="text852-5-5-8-12"><tspan
+                       sodipodi:role="line"
+                       x="282.17422"
+                       y="-86.306244"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.22376865"
+                       id="tspan858-3-5-7-93">Etiologia</tspan></text>
+                </g>
               </g>
+            </g>
+          </g>
+          <g
+             id="g3013">
+            <rect
+               ry="3.2096913"
+               transform="rotate(-90)"
+               y="-44899.344"
+               x="9139.5508"
+               height="98.53643"
+               width="18.789337"
+               id="rect63-5-7-7-6-1-5-8"
+               style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <rect
+               ry="3.2096913"
+               transform="rotate(-90)"
+               y="-44900.094"
+               x="9140.4551"
+               height="98.53643"
+               width="18.789337"
+               id="rect63-5-7-7-6-1-85"
+               style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17308813"
+               x="-47592.582"
+               y="-8634.165"
+               id="text852-3-9-2-1-0"
+               transform="scale(0.94334007,1.0600631)"><tspan
+                 sodipodi:role="line"
+                 x="-47592.582"
+                 y="-8634.165"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+                 id="tspan3000-1">Infecção orofaringea pela bactéria EBHGA</tspan><tspan
+                 sodipodi:role="line"
+                 x="-47592.582"
+                 y="-8629.2666"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
+                 id="tspan2995">associada a uma predisposição genética.</tspan><tspan
+                 id="tspan1741"
+                 sodipodi:role="line"
+                 x="-47592.582"
+                 y="-8624.3682"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813">                                    (CHIARELLO, <tspan
+   id="tspan1747"
+   style="font-style:normal;-inkscape-font-specification:'COCOGOOSE pro';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro';font-family:'COCOGOOSE pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1234">.</tspan>, 2019) </tspan></text>
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(1111.2148,-1333.018)"
+         id="g3750"
+         style="shape-rendering:crispEdges">
+        <g
+           id="g4205-9"
+           transform="translate(-166.51405,349.74363)">
+          <g
+             id="g3201-1-0-04-8"
+             transform="matrix(0.79930189,0,0,0.92811777,-44971.598,-9463.4461)"
+             style="stroke-width:1.16102898">
+            <g
+               id="g2940-5-6-0-4"
+               transform="translate(-7.9375004,-4.233333)"
+               style="stroke-width:1.16102898">
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22753799"
+                 x="469.41635"
+                 y="-111.47031"
+                 id="text852-5-5-8-1-6-1-9-8"><tspan
+                   sodipodi:role="line"
+                   x="469.41635"
+                   y="-111.47031"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.22753799"
+                   id="tspan858-3-5-7-7-5-5-1-1">Exames Complementares</tspan></text>
+            </g>
+          </g>
+          <g
+             style="fill:#ffffff;stroke-width:1.16102898"
+             id="g3201-1-1-5-9-0"
+             transform="matrix(0.79930189,0,0,0.92811777,-44971.175,-9462.9551)">
+            <g
+               style="fill:#ffffff;stroke-width:1.16102898"
+               id="g2940-5-2-4-6-30"
+               transform="translate(-7.9375004,-4.233333)">
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22753799"
+                 x="469.41635"
+                 y="-111.47031"
+                 id="text852-5-5-8-1-6-2-7-2-4"><tspan
+                   sodipodi:role="line"
+                   x="469.41635"
+                   y="-111.47031"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.22753799"
+                   id="tspan858-3-5-7-7-5-6-6-5-4">Exames Complementares</tspan></text>
             </g>
           </g>
         </g>
         <g
-           id="g3013">
+           id="g3732"
+           transform="translate(37.986987)">
           <rect
-             style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="rect63-5-7-7-6-1-5-8"
-             width="18.789337"
-             height="98.53643"
-             x="9139.5508"
-             y="-44899.344"
-             transform="rotate(-90)"
-             ry="3.2096913" />
+             style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect1779"
+             width="26.100426"
+             height="52.122242"
+             x="-9212.8291"
+             y="44715.566"
+             transform="rotate(90)"
+             ry="1.6978116" />
           <rect
-             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="rect63-5-7-7-6-1-85"
-             width="18.789337"
-             height="98.53643"
-             x="9140.4551"
-             y="-44900.094"
-             transform="rotate(-90)"
-             ry="3.2096913" />
+             ry="1.6978116"
+             transform="rotate(90)"
+             y="44716.621"
+             x="-9213.8877"
+             height="52.122242"
+             width="26.100426"
+             id="rect63-5-7-7-6-99-6"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
           <text
-             transform="scale(0.94334007,1.0600631)"
-             id="text852-3-9-2-1-0"
-             y="-8634.165"
-             x="-47592.582"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17308813"
-             xml:space="preserve"><tspan
-               id="tspan3000-1"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-               y="-8634.165"
-               x="-47592.582"
-               sodipodi:role="line">Infecção orofaringea pela bactéria EBHGA</tspan><tspan
-               id="tspan2995"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-               y="-8629.2666"
-               x="-47592.582"
-               sodipodi:role="line">associada a uma predisposição genética.</tspan><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308813"
-               y="-8624.3682"
-               x="-47592.582"
-               sodipodi:role="line"
-               id="tspan1741">                                    (CHIARELLO, <tspan
-   style="font-style:italic"
-   id="tspan1747">et al</tspan>., 2019) </tspan></text>
-        </g>
-      </g>
-    </g>
-    <g
-       style="shape-rendering:crispEdges"
-       id="g3750"
-       transform="translate(1111.2148,-1333.018)">
-      <g
-         transform="translate(-166.51405,349.74363)"
-         id="g4205-9">
-        <g
-           style="stroke-width:1.16102898"
-           transform="matrix(0.79930189,0,0,0.92811777,-44971.598,-9463.4461)"
-           id="g3201-1-0-04-8">
-          <g
-             style="stroke-width:1.16102898"
-             transform="translate(-7.9375004,-4.233333)"
-             id="g2940-5-6-0-4">
-            <text
-               id="text852-5-5-8-1-6-1-9-8"
-               y="-111.47031"
-               x="469.41635"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22753799"
-               xml:space="preserve"><tspan
-                 id="tspan858-3-5-7-7-5-5-1-1"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.22753799"
-                 y="-111.47031"
-                 x="469.41635"
-                 sodipodi:role="line">Exames Complementares</tspan></text>
-          </g>
-        </g>
-        <g
-           transform="matrix(0.79930189,0,0,0.92811777,-44971.175,-9462.9551)"
-           id="g3201-1-1-5-9-0"
-           style="fill:#ffffff;stroke-width:1.16102898">
-          <g
-             transform="translate(-7.9375004,-4.233333)"
-             id="g2940-5-2-4-6-30"
-             style="fill:#ffffff;stroke-width:1.16102898">
-            <text
-               id="text852-5-5-8-1-6-2-7-2-4"
-               y="-111.47031"
-               x="469.41635"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22753799"
-               xml:space="preserve"><tspan
-                 id="tspan858-3-5-7-7-5-6-6-5-4"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.22753799"
-                 y="-111.47031"
-                 x="469.41635"
-                 sodipodi:role="line">Exames Complementares</tspan></text>
-          </g>
-        </g>
-      </g>
-      <g
-         transform="translate(37.986987)"
-         id="g3732">
-        <rect
-           ry="1.6978116"
-           transform="rotate(90)"
-           y="44715.566"
-           x="-9212.8291"
-           height="52.122242"
-           width="26.100426"
-           id="rect1779"
-           style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect63-5-7-7-6-99-6"
-           width="26.100426"
-           height="52.122242"
-           x="-9213.8877"
-           y="44716.621"
-           transform="rotate(90)"
-           ry="1.6978116" />
-        <text
-           transform="scale(0.92771297,1.0779196)"
-           id="text852-3-9-2-1-8-5-6-3-31"
-           y="-8541.3438"
-           x="-48254.898"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00000e;fill-opacity:1;stroke:none;stroke-width:0.17308816"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#00000e;fill-opacity:1;stroke-width:0.17308816"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00000e;fill-opacity:1;stroke:none;stroke-width:0.17308816"
+             x="-48254.898"
              y="-8541.3438"
-             x="-48254.898"
-             sodipodi:role="line"
-             id="tspan3328-5">-&gt; Radiografia de tórax.</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#00000e;fill-opacity:1;stroke-width:0.17308816"
-             y="-8536.5264"
-             x="-48254.898"
-             sodipodi:role="line"
-             id="tspan3231">-&gt; Eletrocardiograma.</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#00000e;fill-opacity:1;stroke-width:0.17308816"
-             y="-8531.709"
-             x="-48254.898"
-             sodipodi:role="line"
-             id="tspan1751">-&gt; Ecocardiograma.</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#00000e;fill-opacity:1;stroke-width:0.17308816"
-             y="-8526.8926"
-             x="-48254.898"
-             sodipodi:role="line"
-             id="tspan1755">(CHIARELLO, <tspan
-   style="font-style:italic"
-   id="tspan1757">et al</tspan>., 2019) </tspan></text>
+             id="text852-3-9-2-1-8-5-6-3-31"
+             transform="scale(0.92771297,1.0779196)"><tspan
+               id="tspan3328-5"
+               sodipodi:role="line"
+               x="-48254.898"
+               y="-8541.3438"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#00000e;fill-opacity:1;stroke-width:0.17308816">-&gt; Radiografia de tórax.</tspan><tspan
+               id="tspan3231"
+               sodipodi:role="line"
+               x="-48254.898"
+               y="-8536.5264"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#00000e;fill-opacity:1;stroke-width:0.17308816">-&gt; Eletrocardiograma.</tspan><tspan
+               id="tspan1751"
+               sodipodi:role="line"
+               x="-48254.898"
+               y="-8531.709"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#00000e;fill-opacity:1;stroke-width:0.17308816">-&gt; Ecocardiograma.</tspan><tspan
+               id="tspan1755"
+               sodipodi:role="line"
+               x="-48254.898"
+               y="-8526.8926"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83795118px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;fill:#00000e;fill-opacity:1;stroke-width:0.17308816">(CHIARELLO, <tspan
+   id="tspan1757"
+   style="font-style:normal;-inkscape-font-specification:'COCOGOOSE pro';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro';font-family:'COCOGOOSE pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1242">.</tspan>, 2019) </tspan></text>
+        </g>
       </g>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.88654041px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-       x="-46111.863"
-       y="-10094.156"
-       id="text852-7-6-6-9-7-6-4"
-       transform="scale(0.94900232,1.0537382)"><tspan
-         sodipodi:role="line"
-         x="-46111.863"
-         y="-10094.156"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#800000;stroke-width:0.26458332"
-         id="tspan1229-8-5">Febre Reumática </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.88654041px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-       x="-46111.863"
-       y="-10093.647"
-       id="text852-7-6-0-2-6-0"
-       transform="scale(0.94900232,1.0537382)"><tspan
-         sodipodi:role="line"
-         x="-46111.863"
-         y="-10093.647"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.26458332"
-         id="tspan1227-4-6">Febre Reumática </tspan></text>
-    <g
-       style="shape-rendering:crispEdges"
-       id="g3462"
-       transform="translate(1296.6139,-1386.5088)">
-      <rect
-         style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1854"
-         width="44.624069"
-         height="91.252579"
-         x="-9224.8506"
-         y="44964.141"
-         transform="rotate(90)"
-         ry="3.8884127" />
-      <rect
-         ry="3.8884127"
-         transform="rotate(90)"
-         y="44965.195"
-         x="-9225.9092"
-         height="91.252579"
-         width="44.624069"
-         id="rect63-5-7-5-9-7-1-0"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
-         transform="scale(0.9661636,1.0350214)"
-         id="text852-3-9-6"
-         y="-8907.5361"
-         x="-46629.469"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.23398256px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17308812"
+         transform="scale(0.94900232,1.0537382)"
+         id="text852-7-6-6-9-7-6-4"
+         y="-10094.156"
+         x="-46111.863"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.88654041px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
          xml:space="preserve"><tspan
-           id="tspan2762"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
-           y="-8907.5361"
-           x="-46629.469"
-           sodipodi:role="line">É  uma complicação não supurativa</tspan><tspan
-           id="tspan2764"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
-           y="-8902.6582"
-           x="-46629.469"
-           sodipodi:role="line">da faringoamigdalite causada pelo </tspan><tspan
-           id="tspan2766"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
-           y="-8897.7793"
-           x="-46629.469"
-           sodipodi:role="line">estreptococo beta-hemolítico do gru-</tspan><tspan
-           id="tspan2788"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
-           y="-8892.9014"
-           x="-46629.469"
-           sodipodi:role="line">po A (<tspan
-   style="font-style:italic"
-   id="tspan1739">Streptococcus pyogenes</tspan>) e de</tspan><tspan
-           id="tspan2790"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
-           y="-8888.0234"
-           x="-46629.469"
-           sodipodi:role="line">corre de uma resposta imune tardia</tspan><tspan
-           id="tspan2792"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
-           y="-8883.1445"
-           x="-46629.469"
-           sodipodi:role="line">a esta infecção em populações gene</tspan><tspan
-           id="tspan2794"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
-           y="-8878.2666"
-           x="-46629.469"
-           sodipodi:role="line">ticamente predispostas.</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
-           y="-8873.3887"
-           x="-46629.469"
-           sodipodi:role="line"
-           id="tspan1725">                           (CHIARELLO, <tspan
-   style="font-style:italic"
-   id="tspan1729">et al</tspan>., 2019)</tspan></text>
+           id="tspan1229-8-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#800000;stroke-width:0.26458332"
+           y="-10094.156"
+           x="-46111.863"
+           sodipodi:role="line">Febre Reumática </tspan></text>
+      <text
+         transform="scale(0.94900232,1.0537382)"
+         id="text852-7-6-0-2-6-0"
+         y="-10093.647"
+         x="-46111.863"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.88654041px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         xml:space="preserve"><tspan
+           id="tspan1227-4-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.26458332"
+           y="-10093.647"
+           x="-46111.863"
+           sodipodi:role="line">Febre Reumática </tspan></text>
       <g
-         transform="translate(-16.098813,332.11577)"
-         id="g3951-2">
+         transform="translate(1296.6139,-1386.5088)"
+         id="g3462"
+         style="shape-rendering:crispEdges">
+        <rect
+           ry="3.8884127"
+           transform="rotate(90)"
+           y="44964.141"
+           x="-9224.8506"
+           height="91.252579"
+           width="44.624069"
+           id="rect1854"
+           style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect63-5-7-5-9-7-1-0"
+           width="44.624069"
+           height="91.252579"
+           x="-9225.9092"
+           y="44965.195"
+           transform="rotate(90)"
+           ry="3.8884127" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566305px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19597961"
-           x="-47730.691"
-           y="-9026.6514"
-           id="text852-8-3"
-           transform="scale(0.94364476,1.0597208)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.23398256px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17308812"
+           x="-46629.469"
+           y="-8907.5361"
+           id="text852-3-9-6"
+           transform="scale(0.9661636,1.0350214)"><tspan
              sodipodi:role="line"
-             x="-47730.691"
+             x="-46629.469"
+             y="-8907.5361"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
+             id="tspan2762">É  uma complicação não supurativa</tspan><tspan
+             sodipodi:role="line"
+             x="-46629.469"
+             y="-8902.6582"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
+             id="tspan2764">da faringoamigdalite causada pelo </tspan><tspan
+             sodipodi:role="line"
+             x="-46629.469"
+             y="-8897.7793"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
+             id="tspan2766">estreptococo beta-hemolítico do gru-</tspan><tspan
+             sodipodi:role="line"
+             x="-46629.469"
+             y="-8892.9014"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
+             id="tspan2788">po A (<tspan
+   id="tspan1739"
+   style="font-style:italic">Streptococcus pyogenes</tspan>) e de</tspan><tspan
+             sodipodi:role="line"
+             x="-46629.469"
+             y="-8888.0234"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
+             id="tspan2790">corre de uma resposta imune tardia</tspan><tspan
+             sodipodi:role="line"
+             x="-46629.469"
+             y="-8883.1445"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
+             id="tspan2792">a esta infecção em populações gene</tspan><tspan
+             sodipodi:role="line"
+             x="-46629.469"
+             y="-8878.2666"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812"
+             id="tspan2794">ticamente predispostas.</tspan><tspan
+             id="tspan1725"
+             sodipodi:role="line"
+             x="-46629.469"
+             y="-8873.3887"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90260053px;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;text-anchor:start;stroke-width:0.17308812">                           (CHIARELLO, <tspan
+   id="tspan1729"
+   style="font-style:normal;-inkscape-font-specification:'COCOGOOSE pro';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro';font-family:'COCOGOOSE pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1230">.</tspan>, 2019)</tspan></text>
+        <g
+           id="g3951-2"
+           transform="translate(-16.098813,332.11577)">
+          <text
+             transform="scale(0.94364476,1.0597208)"
+             id="text852-8-3"
              y="-9026.6514"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.19597961"
-             id="tspan858-9-7">Definição</tspan></text>
-        <text
-           id="text852-5-5-59"
-           y="-9026.3135"
-           x="-47730.258"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19597962"
-           xml:space="preserve"
-           transform="scale(0.94364476,1.0597208)"><tspan
-             id="tspan858-3-5-2"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.19597962"
-             y="-9026.3135"
+             x="-47730.691"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566305px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19597961"
+             xml:space="preserve"><tspan
+               id="tspan858-9-7"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.19597961"
+               y="-9026.6514"
+               x="-47730.691"
+               sodipodi:role="line">Definição</tspan></text>
+          <text
+             transform="scale(0.94364476,1.0597208)"
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19597962"
              x="-47730.258"
-             sodipodi:role="line">Definição</tspan></text>
+             y="-9026.3135"
+             id="text852-5-5-59"><tspan
+               sodipodi:role="line"
+               x="-47730.258"
+               y="-9026.3135"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.19597962"
+               id="tspan858-3-5-2">Definição</tspan></text>
+        </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-43497.254"
+       y="-10641.934"
+       id="text1228"><tspan
+         sodipodi:role="line"
+         id="tspan1226"
+         x="-43497.254"
+         y="-10641.934"
+         style="stroke-width:0.26458332">17</tspan></text>
   </g>
 </svg>

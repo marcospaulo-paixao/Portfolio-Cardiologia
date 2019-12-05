@@ -2064,9 +2064,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="719.31179"
-     inkscape:cy="403.99792"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="977.27194"
+     inkscape:cy="653.28404"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2909,8 +2909,10 @@
              y="-10665.854"
              style="stroke-width:0.26458332"
              id="tspan1511">                                       (TARASOUTCHI, <tspan
-   style="font-style:italic"
-   id="tspan1527">et al</tspan>., 2011)</tspan></text>
+   style="font-style:italic;-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1527">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1346">.</tspan>, 2011)</tspan></text>
       </g>
       <g
          transform="translate(303.7064,-12.994275)"
@@ -3028,7 +3030,9 @@
                  y="-10538.564"
                  style="stroke-width:0.26458332">                (TARASOUTCHI, <tspan
    id="tspan3131"
-   style="font-style:italic">et al</tspan>., 2017)</tspan><tspan
+   style="font-style:italic;-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1350">.</tspan>, 2017)</tspan><tspan
                  sodipodi:role="line"
                  x="-43796.414"
                  y="-10532.214"
@@ -3164,9 +3168,20 @@
                x="-43550.512"
                sodipodi:role="line">                                                                (TARASOUTCHI, <tspan
    id="tspan2112"
-   style="font-style:italic">et al</tspan>., 2017)</tspan></text>
+   style="font-style:italic;-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal">et al</tspan>., 2017)</tspan></text>
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-43058.66"
+       y="-10847.486"
+       id="text1354"><tspan
+         sodipodi:role="line"
+         id="tspan1352"
+         x="-43058.66"
+         y="-10847.486"
+         style="stroke-width:0.26458332">31</tspan></text>
   </g>
 </svg>

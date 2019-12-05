@@ -1149,7 +1149,7 @@
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient874"
-       id="radialGradient2288"
+       id="radialGradient1184"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.26368006,0,0,0.18896746,-9364.1036,44870.172)"
        cx="396.89383"
@@ -1165,9 +1165,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.30513468"
-     inkscape:cx="672.40442"
-     inkscape:cy="401.689"
+     inkscape:zoom="0.4315256"
+     inkscape:cx="535.73284"
+     inkscape:cy="406.14053"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1586,585 +1586,580 @@
          x="-43885.742"
          y="-10225.136"
          style="stroke-width:0.26458332" /></text>
+    <path
+       style="fill:url(#linearGradient1348-0-9);fill-opacity:1;stroke:url(#radialGradient878-9-753-7-8-7-3-4-5-7-6-9);stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+       d="m -43776.175,-10655.711 v 210 h 148.502 148.498 v -210 h -148.498 z"
+       id="rect63-3-9-0-3-0-0-3-5-0-1-4"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.50793654;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+       id="rect1664-8-7"
+       width="297"
+       height="210"
+       x="-43776.18"
+       y="-10655.71" />
+    <rect
+       style="opacity:0.98999999;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+       id="rect1563-7-8"
+       width="278.34283"
+       height="198.75909"
+       x="-43766.988"
+       y="-10649.783"
+       ry="1.3455976" />
     <g
-       transform="matrix(1.4630042,0,0,0.76971348,20736.834,-2957.7922)"
-       id="g2513-8-2-3-4"
-       style="fill:#ff0000;stroke:none;stroke-width:0.94235098;shape-rendering:crispEdges" />
+       style="shape-rendering:crispEdges"
+       id="g1663-9-3"
+       transform="translate(207.41477,134.7156)">
+      <rect
+         transform="matrix(0.504252,-0.86355655,0.86845956,0.49576002,0,0)"
+         y="-43193.352"
+         x="-12338.335"
+         height="1.3399148"
+         width="22.375355"
+         id="rect899-2-3-7-2-3-2-6"
+         style="opacity:0.68607022;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26500636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
+      <rect
+         transform="matrix(0.504252,-0.86355655,0.86845956,0.49576002,0,0)"
+         y="-43192.984"
+         x="-12337.969"
+         height="1.3399148"
+         width="22.375355"
+         id="rect899-20-5-3-6-6-1"
+         style="opacity:0.68607022;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26500636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
+    </g>
+    <rect
+       style="opacity:0.68607022;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+       id="rect899-2-3-7-2-35-9-3"
+       width="133.84706"
+       height="1.3285525"
+       x="-43637.477"
+       y="-10634.214" />
+    <rect
+       style="opacity:0.68607022;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
+       id="rect899-20-5-3-62-5-2"
+       width="133.84706"
+       height="1.3285525"
+       x="-43637.477"
+       y="-10633.85" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.88654041px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+       x="-45983.039"
+       y="-10094.156"
+       id="text852-7-6-6-9-7-6-4"
+       transform="scale(0.94900232,1.0537382)"><tspan
+         sodipodi:role="line"
+         x="-45983.039"
+         y="-10094.156"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#800000;stroke-width:0.26458332"
+         id="tspan1229-8-5">Hipertensão Arterial Sistêmica </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.88654041px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+       x="-45983.039"
+       y="-10093.647"
+       id="text852-7-6-0-2-6-0"
+       transform="scale(0.94900232,1.0537382)"><tspan
+         sodipodi:role="line"
+         x="-45983.039"
+         y="-10093.647"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.26458332"
+         id="tspan1227-4-6">Hipertensão Arterial Sistêmica </tspan></text>
     <g
-       id="g2538">
+       id="g1707"
+       transform="translate(508.66093,8.5423215)">
+      <g
+         transform="translate(-457.81276,-2167.5454)"
+         id="g9251"
+         style="shape-rendering:crispEdges">
+        <g
+           id="g4990"
+           transform="translate(1247.68,576.72169)">
+          <rect
+             style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect63-5-7-5-9-7-1-1-6-3"
+             width="38.797112"
+             height="162.48384"
+             x="-9047.6338"
+             y="44896.051"
+             transform="rotate(90)"
+             ry="6.923686" />
+          <rect
+             ry="6.923686"
+             transform="rotate(90)"
+             y="44897.348"
+             x="-9048.7598"
+             height="162.48384"
+             width="38.797112"
+             id="rect63-5-7-5-9-7-1-0-6"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <g
+             transform="translate(-8.9752048,-18.906296)"
+             id="g2664">
+            <g
+               id="g3951-2-2"
+               transform="translate(-10.510467,529.6874)">
+              <text
+                 transform="scale(0.94364476,1.0597208)"
+                 id="text852-8-3-0"
+                 y="-9026.6514"
+                 x="-47730.691"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566305px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19597961"
+                 xml:space="preserve"><tspan
+                   id="tspan858-9-7-2"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.19597961"
+                   y="-9026.6514"
+                   x="-47730.691"
+                   sodipodi:role="line">Definição</tspan></text>
+              <text
+                 transform="scale(0.94364476,1.0597208)"
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19597962"
+                 x="-47730.258"
+                 y="-9026.3135"
+                 id="text852-5-5-59-3"><tspan
+                   sodipodi:role="line"
+                   x="-47730.258"
+                   y="-9026.3135"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.19597962"
+                   id="tspan858-3-5-2-7">Definição</tspan></text>
+            </g>
+          </g>
+          <text
+             id="text2318"
+             y="-9042.7822"
+             x="-45056.758"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90525007px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="stroke-width:0.26458332"
+               y="-9042.7822"
+               x="-45056.758"
+               id="tspan2316"
+               sodipodi:role="line">É uma doença caracterizada pela persistência da pressão arterial</tspan><tspan
+               id="tspan2320"
+               style="stroke-width:0.26458332"
+               y="-9037.9004"
+               x="-45056.758"
+               sodipodi:role="line">sistólica acima de 135mmHg e diastólica acima de 85mmHg, sendo </tspan><tspan
+               id="tspan2322"
+               style="stroke-width:0.26458332"
+               y="-9033.0195"
+               x="-45056.758"
+               sodipodi:role="line">hoje considerada um dos principais fatores de risco para doenças </tspan><tspan
+               id="tspan2448"
+               style="stroke-width:0.26458332"
+               y="-9028.1377"
+               x="-45056.758"
+               sodipodi:role="line">cardiovasculares e cerebrovasculares. Associa-se frequentemente a </tspan><tspan
+               id="tspan2450"
+               style="stroke-width:0.26458332"
+               y="-9023.2559"
+               x="-45056.758"
+               sodipodi:role="line">alterações funcionais ou estruturais dos órgãos-alvo (coração, encé-</tspan><tspan
+               id="tspan2326"
+               style="stroke-width:0.26458332"
+               y="-9018.374"
+               x="-45056.758"
+               sodipodi:role="line">falo, rins e vasos sanguíneos).           </tspan><tspan
+               style="stroke-width:0.26458332"
+               y="-9013.4932"
+               x="-45056.758"
+               sodipodi:role="line"
+               id="tspan4082">                                                                                      (CARVALHO, <tspan
+   style="font-style:italic;-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal"
+   id="tspan2290">et al</tspan>., 2011)</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1809"
+       transform="translate(-83.137233,-11.082167)">
+      <g
+         transform="translate(0,5.2916667)"
+         id="g1789">
+        <g
+           style="shape-rendering:crispEdges"
+           id="g3972-3-8"
+           transform="translate(1362.1436,-1061.4287)">
+          <text
+             transform="scale(0.94364478,1.0597208)"
+             id="text852-1-3-2-4"
+             y="-8978.4668"
+             x="-47730.707"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1959796"
+             xml:space="preserve"><tspan
+               id="tspan858-72-6-06-5"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.1959796"
+               y="-8978.4668"
+               x="-47730.707"
+               sodipodi:role="line">EpidemIologia</tspan></text>
+          <text
+             transform="scale(0.94364478,1.0597208)"
+             id="text852-1-6-6-1-0"
+             y="-8978.0605"
+             x="-47730.27"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1959796"
+             xml:space="preserve"><tspan
+               id="tspan858-72-7-1-5-3"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.1959796"
+               y="-8978.0605"
+               x="-47730.27"
+               sodipodi:role="line">Epidemiologia</tspan></text>
+        </g>
+      </g>
+      <g
+         transform="translate(1381.6654,-1581.7349)"
+         id="g4132"
+         style="shape-rendering:crispEdges">
+        <rect
+           ry="4.198936"
+           transform="rotate(90)"
+           y="44919.758"
+           x="-8984.1484"
+           height="138.76135"
+           width="44.410912"
+           id="rect63-5-7-5-9-7-53-4-6"
+           style="fill:#800000;fill-opacity:1;stroke:url(#radialGradient878-3-9-7-9-3-3-2-5);stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient878-3-9-7-9-3-9-6);stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect63-5-7-5-9-7-7-1"
+           width="44.410912"
+           height="138.76135"
+           x="-8985.2695"
+           y="44920.938"
+           transform="rotate(90)"
+           ry="4.198936" />
+      </g>
+      <text
+         id="text2456"
+         y="-10560.886"
+         x="-43677.098"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90525007px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         xml:space="preserve"><tspan
+           id="tspan2458"
+           style="stroke-width:0.26458332"
+           y="-10560.886"
+           x="-43677.098"
+           sodipodi:role="line">-&gt; Principal fator de risco para doenças cardiovasculares.</tspan><tspan
+           style="stroke-width:0.26458332"
+           y="-10556.004"
+           x="-43677.098"
+           sodipodi:role="line"
+           id="tspan4102">-&gt; Prevalência em 2011: 22,7% casos.</tspan><tspan
+           id="tspan2468"
+           style="stroke-width:0.26458332"
+           y="-10551.123"
+           x="-43677.098"
+           sodipodi:role="line">-&gt; Óbitos no Brasil: 50% dos casos em decorrência de doen-</tspan><tspan
+           id="tspan2470"
+           style="stroke-width:0.26458332"
+           y="-10546.241"
+           x="-43677.098"
+           sodipodi:role="line">ças cardiovasculares.</tspan><tspan
+           id="tspan2460"
+           style="stroke-width:0.26458332"
+           y="-10541.359"
+           x="-43677.098"
+           sodipodi:role="line">-&gt; Estimativa: cerca de 30 milhões de brasileiros hipertensos.</tspan><tspan
+           id="tspan2464"
+           style="stroke-width:0.26458332"
+           y="-10536.478"
+           x="-43677.098"
+           sodipodi:role="line">-&gt; Sexo acometido: homens com 35,8% e mulheres com 30%.</tspan><tspan
+           style="stroke-width:0.26458332"
+           y="-10531.597"
+           x="-43677.098"
+           sodipodi:role="line"
+           id="tspan4106" /><tspan
+           id="tspan2466"
+           style="stroke-width:0.26458332"
+           y="-10526.715"
+           x="-43677.098"
+           sodipodi:role="line">                                                                     (CARVALHO, <tspan
+   style="font-style:italic;-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal"
+   id="tspan2292">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1184">.</tspan>, 2011)</tspan></text>
+    </g>
+    <g
+       id="g1860"
+       transform="translate(6.5524547,-5.2916667)">
+      <g
+         style="stroke-width:1.14179552;shape-rendering:crispEdges"
+         transform="matrix(0.8264568,0,0,0.92811777,-44156.045,-10414.442)"
+         id="g2940-3-1">
+        <g
+           style="stroke-width:1.14179552"
+           id="g1468-5-9-5"
+           transform="translate(187.66812,-24.844252)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22376865"
+             x="281.74823"
+             y="-86.626053"
+             id="text852-5-5-8-1-4-9"><tspan
+               sodipodi:role="line"
+               x="281.74823"
+               y="-86.626053"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.22376865"
+               id="tspan858-3-5-7-7-8-4">Etiologia</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22376865"
+             x="282.17422"
+             y="-86.306244"
+             id="text852-5-5-8-12-9"><tspan
+               sodipodi:role="line"
+               x="282.17422"
+               y="-86.306244"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.22376865"
+               id="tspan858-3-5-7-93-0">Etiologia</tspan></text>
+        </g>
+      </g>
+      <rect
+         ry="3.4759805"
+         transform="rotate(90)"
+         y="43608.891"
+         x="-10513.105"
+         height="158.09651"
+         width="62.081375"
+         id="rect63-5-7-7-6-91-6-7"
+         style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
+      <rect
+         ry="3.4720502"
+         transform="rotate(90)"
+         y="43609.652"
+         x="-10514.019"
+         height="157.91776"
+         width="62.081375"
+         id="rect63-5-7-7-6-91-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
+      <text
+         id="text2500"
+         y="-10508.4"
+         x="-43765.125"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90525007px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-10508.4"
+           x="-43765.125"
+           id="tspan2498"
+           sodipodi:role="line"> Primária</tspan><tspan
+           id="tspan2502"
+           style="stroke-width:0.26458332"
+           y="-10503.519"
+           x="-43765.125"
+           sodipodi:role="line"> </tspan><tspan
+           id="tspan2506"
+           style="stroke-width:0.26458332"
+           y="-10498.638"
+           x="-43765.125"
+           sodipodi:role="line">-&gt; Várias alterações no coração e nos vasos sanguíneos se asso-</tspan><tspan
+           id="tspan2538"
+           style="stroke-width:0.26458332"
+           y="-10493.756"
+           x="-43765.125"
+           sodipodi:role="line">ciam para aumentar a pressão arterial.</tspan><tspan
+           id="tspan2508"
+           style="stroke-width:0.26458332"
+           y="-10488.874"
+           x="-43765.125"
+           sodipodi:role="line">-&gt; As razões para tais alterações não são totalmente conhecidas,</tspan><tspan
+           id="tspan2540"
+           style="stroke-width:0.26458332"
+           y="-10483.992"
+           x="-43765.125"
+           sodipodi:role="line"> mas parecem envolver uma anormalidade hereditária que afe-</tspan><tspan
+           id="tspan2542"
+           style="stroke-width:0.26458332"
+           y="-10479.111"
+           x="-43765.125"
+           sodipodi:role="line">ta a constrição das arteríolas, o que ajuda a controlar a pressão</tspan><tspan
+           id="tspan2544"
+           style="stroke-width:0.26458332"
+           y="-10474.229"
+           x="-43765.125"
+           sodipodi:role="line"> arterial.</tspan><tspan
+           id="tspan2546"
+           style="stroke-width:0.26458332"
+           y="-10469.348"
+           x="-43765.125"
+           sodipodi:role="line">-&gt; Alterações que podem contribuir: a acumulação de quantidades</tspan><tspan
+           style="stroke-width:0.26458332"
+           y="-10464.467"
+           x="-43765.125"
+           sodipodi:role="line"
+           id="tspan4142">excessivas de sódio dentro das células e a redução da produção de </tspan><tspan
+           style="stroke-width:0.26458332"
+           y="-10459.585"
+           x="-43765.125"
+           sodipodi:role="line"
+           id="tspan4146">substâncias que dilatam as arteríolas.</tspan><tspan
+           style="stroke-width:0.26458332"
+           y="-10454.703"
+           x="-43765.125"
+           sodipodi:role="line"
+           id="tspan3153">                                                                                                   (BAKRIS, 2018)</tspan></text>
+    </g>
+    <g
+       style="shape-rendering:crispEdges"
+       id="g4929"
+       transform="translate(1291.2999,-1599.9629)">
+      <rect
+         ry="1.9715912"
+         transform="rotate(90)"
+         y="44785.641"
+         x="-8916.5791"
+         height="89.673019"
+         width="62.220009"
+         id="rect63-5-7-7-6-91-6-7-4"
+         style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         ry="1.9605714"
+         transform="rotate(90)"
+         y="44786.473"
+         x="-8917.4951"
+         height="89.171814"
+         width="62.220009"
+         id="rect63-5-7-7-6-91-6-1"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2500-5"
+         y="-8911.8076"
+         x="-44873.945"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90525007px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan2516-3"
+           style="stroke-width:0.26458332"
+           y="-8911.8076"
+           x="-44873.945"
+           sodipodi:role="line">Secundária</tspan><tspan
+           id="tspan2518-1"
+           style="stroke-width:0.26458332"
+           y="-8906.9258"
+           x="-44873.945"
+           sodipodi:role="line" /><tspan
+           id="tspan2522-5"
+           style="stroke-width:0.26458332"
+           y="-8902.0449"
+           x="-44873.945"
+           sodipodi:role="line">Pode derivar de:</tspan><tspan
+           id="tspan2524-9"
+           style="stroke-width:0.26458332"
+           y="-8897.1631"
+           x="-44873.945"
+           sodipodi:role="line">-&gt; Doença renal.</tspan><tspan
+           id="tspan2526-6"
+           style="stroke-width:0.26458332"
+           y="-8892.2812"
+           x="-44873.945"
+           sodipodi:role="line">-&gt; Distúrbios hormonais.</tspan><tspan
+           id="tspan2528-2"
+           style="stroke-width:0.26458332"
+           y="-8887.3994"
+           x="-44873.945"
+           sodipodi:role="line">-&gt; Uso excessivo de álcool.</tspan><tspan
+           style="stroke-width:0.26458332"
+           y="-8882.5186"
+           x="-44873.945"
+           sodipodi:role="line"
+           id="tspan4187">-&gt; Cocaína.</tspan><tspan
+           id="tspan2530-1"
+           style="stroke-width:0.26458332"
+           y="-8877.6367"
+           x="-44873.945"
+           sodipodi:role="line">-&gt; Corticosteroides.</tspan><tspan
+           id="tspan3111"
+           style="stroke-width:0.26458332"
+           y="-8872.7549"
+           x="-44873.945"
+           sodipodi:role="line">-&gt; Anti-inflamatórios não esteroides.</tspan><tspan
+           id="tspan2536-5"
+           style="stroke-width:0.26458332"
+           y="-8867.874"
+           x="-44873.945"
+           sodipodi:role="line">-&gt; Contraceptivos orais.</tspan><tspan
+           id="tspan2983"
+           style="stroke-width:0.26458332"
+           y="-8862.9922"
+           x="-44873.945"
+           sodipodi:role="line" /><tspan
+           id="tspan2985"
+           style="stroke-width:0.26458332"
+           y="-8858.1104"
+           x="-44873.945"
+           sodipodi:role="line">                                          (BAKRIS, 2018)</tspan></text>
+    </g>
+    <g
+       id="g3236"
+       transform="matrix(0.1868732,0,0,0.1868732,-35189.649,-8848.4387)"
+       style="stroke-width:5.35122204;shape-rendering:crispEdges">
       <path
          inkscape:connector-curvature="0"
-         id="rect63-3-9-0-3-0-0-3-5-0-1-4"
-         d="m -43776.175,-10655.711 v 210 h 148.502 148.498 v -210 h -148.498 z"
-         style="fill:url(#linearGradient1348-0-9);fill-opacity:1;stroke:url(#radialGradient878-9-753-7-8-7-3-4-5-7-6-9);stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
-      <rect
-         y="-10655.71"
-         x="-43776.18"
-         height="210"
-         width="297"
-         id="rect1664-8-7"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.50793654;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
-      <rect
-         ry="1.3455976"
-         y="-10649.783"
-         x="-43766.988"
-         height="198.75909"
-         width="278.34283"
-         id="rect1563-7-8"
-         style="opacity:0.98999999;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
+         id="path3217-8"
+         d="m -44998.69,-8796.4479 c -0.209,-0.2091 -0.317,-1.3275 -0.317,-3.2749 0,-2.411 0.08,-3.0245 0.432,-3.3205 0.237,-0.1997 3.125,-1.9234 6.416,-3.8304 4.224,-2.4475 5.984,-3.6042 5.984,-3.9331 0,-0.3286 -1.763,-1.4899 -5.983,-3.9411 -3.29,-1.9114 -6.178,-3.6386 -6.416,-3.8383 -0.354,-0.2966 -0.433,-0.9052 -0.433,-3.3206 0,-3.0789 0.164,-3.5924 1.15,-3.5924 0.745,0 24.481,13.7672 24.65,14.2971 0.08,0.2448 0.07,0.6218 -0.01,0.8378 -0.194,0.5063 -23.958,14.2339 -24.64,14.2339 -0.283,0 -0.658,-0.1429 -0.833,-0.3175 z m 16.14,0 c -0.209,-0.2091 -0.318,-1.3275 -0.318,-3.2749 0,-2.4005 0.08,-3.0258 0.429,-3.3205 0.236,-0.1997 3.123,-1.9263 6.416,-3.8368 4.237,-2.4581 5.988,-3.6103 5.988,-3.9411 0,-0.3309 -1.748,-1.4802 -5.985,-3.9347 -3.291,-1.907 -6.178,-3.6306 -6.416,-3.8303 -0.352,-0.2961 -0.432,-0.9095 -0.432,-3.3206 0,-3.0789 0.165,-3.5924 1.15,-3.5924 0.746,0 24.482,13.7672 24.65,14.2971 0.08,0.2448 0.07,0.6206 0,0.8351 -0.192,0.499 -23.98,14.2366 -24.653,14.2366 -0.277,0 -0.647,-0.1429 -0.821,-0.3175 z"
+         style="fill:#800000;stroke-width:5.35122204" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3217"
+         d="m -44998.664,-8798.6598 c -0.209,-0.2091 -0.317,-1.3275 -0.317,-3.2749 0,-2.411 0.08,-3.0245 0.432,-3.3205 0.237,-0.1997 3.125,-1.9234 6.416,-3.8304 4.224,-2.4475 5.984,-3.6042 5.984,-3.9331 0,-0.3286 -1.763,-1.4899 -5.983,-3.9411 -3.29,-1.9114 -6.178,-3.6386 -6.416,-3.8383 -0.354,-0.2966 -0.433,-0.9052 -0.433,-3.3206 0,-3.0789 0.164,-3.5924 1.15,-3.5924 0.745,0 24.481,13.7672 24.65,14.2971 0.08,0.2448 0.07,0.6218 -0.01,0.8378 -0.194,0.5063 -23.958,14.2339 -24.64,14.2339 -0.283,0 -0.658,-0.1429 -0.833,-0.3175 z m 16.14,0 c -0.209,-0.2091 -0.318,-1.3275 -0.318,-3.2749 0,-2.4005 0.08,-3.0258 0.429,-3.3205 0.236,-0.1997 3.123,-1.9263 6.416,-3.8368 4.237,-2.4581 5.988,-3.6103 5.988,-3.9411 0,-0.3309 -1.748,-1.4802 -5.985,-3.9347 -3.291,-1.907 -6.178,-3.6306 -6.416,-3.8303 -0.352,-0.2961 -0.432,-0.9095 -0.432,-3.3206 0,-3.0789 0.165,-3.5924 1.15,-3.5924 0.746,0 24.482,13.7672 24.65,14.2971 0.08,0.2448 0.07,0.6206 0,0.8351 -0.192,0.499 -23.98,14.2366 -24.653,14.2366 -0.277,0 -0.647,-0.1429 -0.821,-0.3175 z"
+         style="fill:#ffffff;stroke-width:5.35122204" />
+    </g>
+    <g
+       id="g2282"
+       transform="matrix(0.63667441,0,0,0.63646894,-15552.332,-3853.6289)"
+       style="stroke-width:1.57091498">
       <g
-         transform="translate(217.99811,134.7156)"
-         id="g1663-9-3"
-         style="shape-rendering:crispEdges">
-        <rect
-           style="opacity:0.68607022;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26500636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-           id="rect899-2-3-7-2-3-2-6"
-           width="22.375355"
-           height="1.3399148"
-           x="-12338.335"
-           y="-43193.352"
-           transform="matrix(0.504252,-0.86355655,0.86845956,0.49576002,0,0)" />
-        <rect
-           style="opacity:0.68607022;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26500636;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-           id="rect899-20-5-3-6-6-1"
-           width="22.375355"
-           height="1.3399148"
-           x="-12337.969"
-           y="-43192.984"
-           transform="matrix(0.504252,-0.86355655,0.86845956,0.49576002,0,0)" />
-      </g>
-      <rect
-         y="-10634.214"
-         x="-43626.891"
-         height="1.3285525"
-         width="133.84706"
-         id="rect899-2-3-7-2-35-9-3"
-         style="opacity:0.68607022;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
-      <rect
-         y="-10633.85"
-         x="-43626.891"
-         height="1.3285525"
-         width="133.84706"
-         id="rect899-20-5-3-62-5-2"
-         style="opacity:0.68607022;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
-      <text
-         transform="scale(0.94900232,1.0537382)"
-         id="text852-7-6-6-9-7-6-4"
-         y="-10094.156"
-         x="-45971.891"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.88654041px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-         xml:space="preserve"><tspan
-           id="tspan1229-8-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#800000;stroke-width:0.26458332"
-           y="-10094.156"
-           x="-45971.891"
-           sodipodi:role="line">Hipertensão Arterial Sistêmica </tspan></text>
-      <text
-         transform="scale(0.94900232,1.0537382)"
-         id="text852-7-6-0-2-6-0"
-         y="-10093.647"
-         x="-45971.891"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.88654041px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-         xml:space="preserve"><tspan
-           id="tspan1227-4-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.26458332"
-           y="-10093.647"
-           x="-45971.891"
-           sodipodi:role="line">Hipertensão Arterial Sistêmica </tspan></text>
-      <g
-         transform="translate(508.66093,8.5423215)"
-         id="g1707">
+         style="stroke-width:1.01729417;shape-rendering:crispEdges"
+         transform="matrix(1.5439717,0,0,1.5444468,23305.756,2433.0508)"
+         id="g9344">
         <g
-           style="shape-rendering:crispEdges"
-           id="g9251"
-           transform="translate(-457.81276,-2167.5454)">
+           id="g1833"
+           transform="matrix(0.80555479,0,0,0.805418,-7472.6846,-1156.143)"
+           style="stroke-width:1.26295638">
           <g
-             transform="translate(1247.68,576.72169)"
-             id="g4990">
-            <rect
-               ry="6.923686"
-               transform="rotate(90)"
-               y="44896.051"
-               x="-9047.6338"
-               height="162.48384"
-               width="38.797112"
-               id="rect63-5-7-5-9-7-1-1-6-3"
-               style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-            <rect
-               style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               id="rect63-5-7-5-9-7-1-0-6"
-               width="38.797112"
-               height="162.48384"
-               x="-9048.7598"
-               y="44897.348"
-               transform="rotate(90)"
-               ry="6.923686" />
+             transform="translate(69.904524,252.04893)"
+             id="g3629-6"
+             style="stroke-width:1.26295638">
             <g
-               id="g2664"
-               transform="translate(-8.9752048,-18.906296)">
-              <g
-                 transform="translate(-10.510467,529.6874)"
-                 id="g3951-2-2">
-                <text
-                   xml:space="preserve"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566305px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19597961"
-                   x="-47730.691"
-                   y="-9026.6514"
-                   id="text852-8-3-0"
-                   transform="scale(0.94364476,1.0597208)"><tspan
-                     sodipodi:role="line"
-                     x="-47730.691"
-                     y="-9026.6514"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.19597961"
-                     id="tspan858-9-7-2">Definição</tspan></text>
-                <text
-                   id="text852-5-5-59-3"
-                   y="-9026.3135"
-                   x="-47730.258"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19597962"
-                   xml:space="preserve"
-                   transform="scale(0.94364476,1.0597208)"><tspan
-                     id="tspan858-3-5-2-7"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.19597962"
-                     y="-9026.3135"
-                     x="-47730.258"
-                     sodipodi:role="line">Definição</tspan></text>
-              </g>
+               id="g3619-3"
+               style="stroke-width:1.26295638">
+              <rect
+                 ry="15.197715"
+                 transform="rotate(90)"
+                 y="44836.48"
+                 x="-9297.5459"
+                 height="79.880142"
+                 width="55.372807"
+                 id="rect63-5-7-1-1-8-8"
+                 style="fill:#800000;fill-opacity:1;stroke:url(#radialGradient878-3-9-2-3-1-2);stroke-width:0.33468342;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             </g>
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90525007px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-               x="-45056.758"
-               y="-9042.7822"
-               id="text2318"><tspan
-                 sodipodi:role="line"
-                 id="tspan2316"
-                 x="-45056.758"
-                 y="-9042.7822"
-                 style="stroke-width:0.26458332">É uma doença caracterizada pela persistência da pressão arterial</tspan><tspan
-                 sodipodi:role="line"
-                 x="-45056.758"
-                 y="-9037.9004"
-                 style="stroke-width:0.26458332"
-                 id="tspan2320">sistólica acima de 135mmHg e diastólica acima de 85mmHg, sendo </tspan><tspan
-                 sodipodi:role="line"
-                 x="-45056.758"
-                 y="-9033.0195"
-                 style="stroke-width:0.26458332"
-                 id="tspan2322">hoje considerada um dos principais fatores de risco para doenças </tspan><tspan
-                 sodipodi:role="line"
-                 x="-45056.758"
-                 y="-9028.1377"
-                 style="stroke-width:0.26458332"
-                 id="tspan2448">cardiovasculares e cerebrovasculares. Associa-se frequentemente a </tspan><tspan
-                 sodipodi:role="line"
-                 x="-45056.758"
-                 y="-9023.2559"
-                 style="stroke-width:0.26458332"
-                 id="tspan2450">alterações funcionais ou estruturais dos órgãos-alvo (coração, encé-</tspan><tspan
-                 sodipodi:role="line"
-                 x="-45056.758"
-                 y="-9018.374"
-                 style="stroke-width:0.26458332"
-                 id="tspan2326">falo, rins e vasos sanguíneos).           </tspan><tspan
-                 id="tspan4082"
-                 sodipodi:role="line"
-                 x="-45056.758"
-                 y="-9013.4932"
-                 style="stroke-width:0.26458332">                                                                                      (CARVALHO, <tspan
-   id="tspan2290"
-   style="font-style:italic">et al</tspan>., 2011)</tspan></text>
-          </g>
-        </g>
-      </g>
-      <g
-         transform="translate(-83.137233,-11.082167)"
-         id="g1809">
-        <g
-           id="g1789"
-           transform="translate(0,5.2916667)">
-          <g
-             transform="translate(1362.1436,-1061.4287)"
-             id="g3972-3-8"
-             style="shape-rendering:crispEdges">
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1959796"
-               x="-47730.707"
-               y="-8978.4668"
-               id="text852-1-3-2-4"
-               transform="scale(0.94364478,1.0597208)"><tspan
-                 sodipodi:role="line"
-                 x="-47730.707"
-                 y="-8978.4668"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.1959796"
-                 id="tspan858-72-6-06-5">EpidemIologia</tspan></text>
-            <text
-               xml:space="preserve"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86566401px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1959796"
-               x="-47730.27"
-               y="-8978.0605"
-               id="text852-1-6-6-1-0"
-               transform="scale(0.94364478,1.0597208)"><tspan
-                 sodipodi:role="line"
-                 x="-47730.27"
-                 y="-8978.0605"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.1959796"
-                 id="tspan858-72-7-1-5-3">Epidemiologia</tspan></text>
-          </g>
-        </g>
-        <g
-           style="shape-rendering:crispEdges"
-           id="g4132"
-           transform="translate(1381.6654,-1581.7349)">
-          <rect
-             style="fill:#800000;fill-opacity:1;stroke:url(#radialGradient878-3-9-7-9-3-3-2-5);stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="rect63-5-7-5-9-7-53-4-6"
-             width="44.410912"
-             height="138.76135"
-             x="-8984.1484"
-             y="44919.758"
-             transform="rotate(90)"
-             ry="4.198936" />
-          <rect
-             ry="4.198936"
-             transform="rotate(90)"
-             y="44920.938"
-             x="-8985.2695"
-             height="138.76135"
-             width="44.410912"
-             id="rect63-5-7-5-9-7-7-1"
-             style="fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient878-3-9-7-9-3-9-6);stroke-width:0.26500002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        </g>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90525007px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-           x="-43677.098"
-           y="-10560.886"
-           id="text2456"><tspan
-             sodipodi:role="line"
-             x="-43677.098"
-             y="-10560.886"
-             style="stroke-width:0.26458332"
-             id="tspan2458">-&gt; Principal fator de risco para doenças cardiovasculares.</tspan><tspan
-             id="tspan4102"
-             sodipodi:role="line"
-             x="-43677.098"
-             y="-10556.004"
-             style="stroke-width:0.26458332">-&gt; Prevalência em 2011: 22,7% casos.</tspan><tspan
-             sodipodi:role="line"
-             x="-43677.098"
-             y="-10551.123"
-             style="stroke-width:0.26458332"
-             id="tspan2468">-&gt; Óbitos no Brasil: 50% dos casos em decorrência de doen-</tspan><tspan
-             sodipodi:role="line"
-             x="-43677.098"
-             y="-10546.241"
-             style="stroke-width:0.26458332"
-             id="tspan2470">ças cardiovasculares.</tspan><tspan
-             sodipodi:role="line"
-             x="-43677.098"
-             y="-10541.359"
-             style="stroke-width:0.26458332"
-             id="tspan2460">-&gt; Estimativa: cerca de 30 milhões de brasileiros hipertensos.</tspan><tspan
-             sodipodi:role="line"
-             x="-43677.098"
-             y="-10536.478"
-             style="stroke-width:0.26458332"
-             id="tspan2464">-&gt; Sexo acometido: homens com 35,8% e mulheres com 30%.</tspan><tspan
-             id="tspan4106"
-             sodipodi:role="line"
-             x="-43677.098"
-             y="-10531.597"
-             style="stroke-width:0.26458332" /><tspan
-             sodipodi:role="line"
-             x="-43677.098"
-             y="-10526.715"
-             style="stroke-width:0.26458332"
-             id="tspan2466">                                                                     (CARVALHO, <tspan
-   id="tspan2292"
-   style="font-style:italic">et al</tspan>., 2011)</tspan></text>
-      </g>
-      <g
-         transform="translate(6.5524547,-5.2916667)"
-         id="g1860">
-        <g
-           id="g2940-3-1"
-           transform="matrix(0.8264568,0,0,0.92811777,-44156.045,-10414.442)"
-           style="stroke-width:1.14179552;shape-rendering:crispEdges">
-          <g
-             transform="translate(187.66812,-24.844252)"
-             id="g1468-5-9-5"
-             style="stroke-width:1.14179552">
-            <text
-               id="text852-5-5-8-1-4-9"
-               y="-86.626053"
-               x="281.74823"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22376865"
-               xml:space="preserve"><tspan
-                 id="tspan858-3-5-7-7-8-4"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#000000;stroke-width:0.22376865"
-                 y="-86.626053"
-                 x="281.74823"
-                 sodipodi:role="line">Etiologia</tspan></text>
-            <text
-               id="text852-5-5-8-12-9"
-               y="-86.306244"
-               x="282.17422"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.83918524px;line-height:1.25;font-family:Perdana;-inkscape-font-specification:Perdana;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.22376865"
-               xml:space="preserve"><tspan
-                 id="tspan858-3-5-7-93-0"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;fill:#ffffff;stroke-width:0.22376865"
-                 y="-86.306244"
-                 x="282.17422"
-                 sodipodi:role="line">Etiologia</tspan></text>
-          </g>
-        </g>
-        <rect
-           style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-           id="rect63-5-7-7-6-91-6-7"
-           width="62.081375"
-           height="158.09651"
-           x="-10513.105"
-           y="43608.891"
-           transform="rotate(90)"
-           ry="3.4759805" />
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges"
-           id="rect63-5-7-7-6-91-6"
-           width="62.081375"
-           height="157.91776"
-           x="-10514.019"
-           y="43609.652"
-           transform="rotate(90)"
-           ry="3.4720502" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90525007px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;shape-rendering:crispEdges"
-           x="-43765.125"
-           y="-10508.4"
-           id="text2500"><tspan
-             sodipodi:role="line"
-             id="tspan2498"
-             x="-43765.125"
-             y="-10508.4"
-             style="stroke-width:0.26458332"> Primária</tspan><tspan
-             sodipodi:role="line"
-             x="-43765.125"
-             y="-10503.519"
-             style="stroke-width:0.26458332"
-             id="tspan2502"> </tspan><tspan
-             sodipodi:role="line"
-             x="-43765.125"
-             y="-10498.638"
-             style="stroke-width:0.26458332"
-             id="tspan2506">-&gt; Várias alterações no coração e nos vasos sanguíneos se asso-</tspan><tspan
-             sodipodi:role="line"
-             x="-43765.125"
-             y="-10493.756"
-             style="stroke-width:0.26458332"
-             id="tspan2538">ciam para aumentar a pressão arterial.</tspan><tspan
-             sodipodi:role="line"
-             x="-43765.125"
-             y="-10488.874"
-             style="stroke-width:0.26458332"
-             id="tspan2508">-&gt; As razões para tais alterações não são totalmente conhecidas,</tspan><tspan
-             sodipodi:role="line"
-             x="-43765.125"
-             y="-10483.992"
-             style="stroke-width:0.26458332"
-             id="tspan2540"> mas parecem envolver uma anormalidade hereditária que afe-</tspan><tspan
-             sodipodi:role="line"
-             x="-43765.125"
-             y="-10479.111"
-             style="stroke-width:0.26458332"
-             id="tspan2542">ta a constrição das arteríolas, o que ajuda a controlar a pressão</tspan><tspan
-             sodipodi:role="line"
-             x="-43765.125"
-             y="-10474.229"
-             style="stroke-width:0.26458332"
-             id="tspan2544"> arterial.</tspan><tspan
-             sodipodi:role="line"
-             x="-43765.125"
-             y="-10469.348"
-             style="stroke-width:0.26458332"
-             id="tspan2546">-&gt; Alterações que podem contribuir: a acumulação de quantidades</tspan><tspan
-             id="tspan4142"
-             sodipodi:role="line"
-             x="-43765.125"
-             y="-10464.467"
-             style="stroke-width:0.26458332">excessivas de sódio dentro das células e a redução da produção de </tspan><tspan
-             id="tspan4146"
-             sodipodi:role="line"
-             x="-43765.125"
-             y="-10459.585"
-             style="stroke-width:0.26458332">substâncias que dilatam as arteríolas.</tspan><tspan
-             id="tspan3153"
-             sodipodi:role="line"
-             x="-43765.125"
-             y="-10454.703"
-             style="stroke-width:0.26458332">                                                                                                   (BAKRIS, 2018)</tspan></text>
-      </g>
-      <g
-         transform="translate(1291.2999,-1599.9629)"
-         id="g4929"
-         style="shape-rendering:crispEdges">
-        <rect
-           style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect63-5-7-7-6-91-6-7-4"
-           width="62.220009"
-           height="89.673019"
-           x="-8916.5791"
-           y="44785.641"
-           transform="rotate(90)"
-           ry="1.9715912" />
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect63-5-7-7-6-91-6-1"
-           width="62.220009"
-           height="89.171814"
-           x="-8917.4951"
-           y="44786.473"
-           transform="rotate(90)"
-           ry="1.9605714" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.90525007px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="-44873.945"
-           y="-8911.8076"
-           id="text2500-5"><tspan
-             sodipodi:role="line"
-             x="-44873.945"
-             y="-8911.8076"
-             style="stroke-width:0.26458332"
-             id="tspan2516-3">Secundária</tspan><tspan
-             sodipodi:role="line"
-             x="-44873.945"
-             y="-8906.9258"
-             style="stroke-width:0.26458332"
-             id="tspan2518-1" /><tspan
-             sodipodi:role="line"
-             x="-44873.945"
-             y="-8902.0449"
-             style="stroke-width:0.26458332"
-             id="tspan2522-5">Pode derivar de:</tspan><tspan
-             sodipodi:role="line"
-             x="-44873.945"
-             y="-8897.1631"
-             style="stroke-width:0.26458332"
-             id="tspan2524-9">-&gt; Doença renal.</tspan><tspan
-             sodipodi:role="line"
-             x="-44873.945"
-             y="-8892.2812"
-             style="stroke-width:0.26458332"
-             id="tspan2526-6">-&gt; Distúrbios hormonais.</tspan><tspan
-             sodipodi:role="line"
-             x="-44873.945"
-             y="-8887.3994"
-             style="stroke-width:0.26458332"
-             id="tspan2528-2">-&gt; Uso excessivo de álcool.</tspan><tspan
-             id="tspan4187"
-             sodipodi:role="line"
-             x="-44873.945"
-             y="-8882.5186"
-             style="stroke-width:0.26458332">-&gt; Cocaína.</tspan><tspan
-             sodipodi:role="line"
-             x="-44873.945"
-             y="-8877.6367"
-             style="stroke-width:0.26458332"
-             id="tspan2530-1">-&gt; Corticosteroides.</tspan><tspan
-             sodipodi:role="line"
-             x="-44873.945"
-             y="-8872.7549"
-             style="stroke-width:0.26458332"
-             id="tspan3111">-&gt; Anti-inflamatórios não esteroides.</tspan><tspan
-             sodipodi:role="line"
-             x="-44873.945"
-             y="-8867.874"
-             style="stroke-width:0.26458332"
-             id="tspan2536-5">-&gt; Contraceptivos orais.</tspan><tspan
-             sodipodi:role="line"
-             x="-44873.945"
-             y="-8862.9922"
-             style="stroke-width:0.26458332"
-             id="tspan2983" /><tspan
-             sodipodi:role="line"
-             x="-44873.945"
-             y="-8858.1104"
-             style="stroke-width:0.26458332"
-             id="tspan2985">                                          (BAKRIS, 2018)</tspan></text>
-      </g>
-      <g
-         style="stroke-width:5.35122204;shape-rendering:crispEdges"
-         transform="matrix(0.1868732,0,0,0.1868732,-35189.649,-8848.4387)"
-         id="g3236">
-        <path
-           style="fill:#800000;stroke-width:5.35122204"
-           d="m -44998.69,-8796.4479 c -0.209,-0.2091 -0.317,-1.3275 -0.317,-3.2749 0,-2.411 0.08,-3.0245 0.432,-3.3205 0.237,-0.1997 3.125,-1.9234 6.416,-3.8304 4.224,-2.4475 5.984,-3.6042 5.984,-3.9331 0,-0.3286 -1.763,-1.4899 -5.983,-3.9411 -3.29,-1.9114 -6.178,-3.6386 -6.416,-3.8383 -0.354,-0.2966 -0.433,-0.9052 -0.433,-3.3206 0,-3.0789 0.164,-3.5924 1.15,-3.5924 0.745,0 24.481,13.7672 24.65,14.2971 0.08,0.2448 0.07,0.6218 -0.01,0.8378 -0.194,0.5063 -23.958,14.2339 -24.64,14.2339 -0.283,0 -0.658,-0.1429 -0.833,-0.3175 z m 16.14,0 c -0.209,-0.2091 -0.318,-1.3275 -0.318,-3.2749 0,-2.4005 0.08,-3.0258 0.429,-3.3205 0.236,-0.1997 3.123,-1.9263 6.416,-3.8368 4.237,-2.4581 5.988,-3.6103 5.988,-3.9411 0,-0.3309 -1.748,-1.4802 -5.985,-3.9347 -3.291,-1.907 -6.178,-3.6306 -6.416,-3.8303 -0.352,-0.2961 -0.432,-0.9095 -0.432,-3.3206 0,-3.0789 0.165,-3.5924 1.15,-3.5924 0.746,0 24.482,13.7672 24.65,14.2971 0.08,0.2448 0.07,0.6206 0,0.8351 -0.192,0.499 -23.98,14.2366 -24.653,14.2366 -0.277,0 -0.647,-0.1429 -0.821,-0.3175 z"
-           id="path3217-8"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#ffffff;stroke-width:5.35122204"
-           d="m -44998.664,-8798.6598 c -0.209,-0.2091 -0.317,-1.3275 -0.317,-3.2749 0,-2.411 0.08,-3.0245 0.432,-3.3205 0.237,-0.1997 3.125,-1.9234 6.416,-3.8304 4.224,-2.4475 5.984,-3.6042 5.984,-3.9331 0,-0.3286 -1.763,-1.4899 -5.983,-3.9411 -3.29,-1.9114 -6.178,-3.6386 -6.416,-3.8383 -0.354,-0.2966 -0.433,-0.9052 -0.433,-3.3206 0,-3.0789 0.164,-3.5924 1.15,-3.5924 0.745,0 24.481,13.7672 24.65,14.2971 0.08,0.2448 0.07,0.6218 -0.01,0.8378 -0.194,0.5063 -23.958,14.2339 -24.64,14.2339 -0.283,0 -0.658,-0.1429 -0.833,-0.3175 z m 16.14,0 c -0.209,-0.2091 -0.318,-1.3275 -0.318,-3.2749 0,-2.4005 0.08,-3.0258 0.429,-3.3205 0.236,-0.1997 3.123,-1.9263 6.416,-3.8368 4.237,-2.4581 5.988,-3.6103 5.988,-3.9411 0,-0.3309 -1.748,-1.4802 -5.985,-3.9347 -3.291,-1.907 -6.178,-3.6306 -6.416,-3.8303 -0.352,-0.2961 -0.432,-0.9095 -0.432,-3.3206 0,-3.0789 0.165,-3.5924 1.15,-3.5924 0.746,0 24.482,13.7672 24.65,14.2971 0.08,0.2448 0.07,0.6206 0,0.8351 -0.192,0.499 -23.98,14.2366 -24.653,14.2366 -0.277,0 -0.647,-0.1429 -0.821,-0.3175 z"
-           id="path3217"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         style="stroke-width:1.57091498"
-         transform="matrix(0.63667441,0,0,0.63646894,-15552.332,-3853.6289)"
-         id="g2282">
-        <g
-           id="g9344"
-           transform="matrix(1.5439717,0,0,1.5444468,23305.756,2433.0508)"
-           style="stroke-width:1.01729417;shape-rendering:crispEdges">
-          <g
-             style="stroke-width:1.26295638"
-             transform="matrix(0.80555479,0,0,0.805418,-7472.6846,-1156.143)"
-             id="g1833">
             <g
-               style="stroke-width:1.26295638"
-               id="g3629-6"
-               transform="translate(69.904524,252.04893)">
+               id="g3610-5"
+               clip-path="url(#clipPath3612-9-7)"
+               style="stroke-width:1.26295638">
               <g
-                 style="stroke-width:1.26295638"
-                 id="g3619-3">
-                <rect
-                   style="fill:#800000;fill-opacity:1;stroke:url(#radialGradient878-3-9-2-3-1-2);stroke-width:0.33468342;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                   id="rect63-5-7-1-1-8-8"
-                   width="55.372807"
-                   height="79.880142"
-                   x="-9297.5459"
-                   y="44836.48"
+                 inkscape:label="Clip"
+                 id="g3608-6"
+                 style="stroke-width:1.26295638">
+                <path
+                   inkscape:connector-curvature="0"
+                   d="m -9283.5415,44837.504 h 24.9773 c 8.4196,0 15.1977,6.778 15.1977,15.198 v 49.484 c 0,8.42 -6.7781,15.198 -15.1977,15.198 h -24.9773 c -8.4196,0 -15.1978,-6.778 -15.1978,-15.198 v -49.484 c 0,-8.42 6.7782,-15.198 15.1978,-15.198 z"
+                   style="fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient1184);stroke-width:0.33468342;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                    transform="rotate(90)"
-                   ry="15.197715" />
-              </g>
-              <g
-                 style="stroke-width:1.26295638"
-                 clip-path="url(#clipPath3612-9-7)"
-                 id="g3610-5">
-                <g
-                   style="stroke-width:1.26295638"
-                   id="g3608-6"
-                   inkscape:label="Clip">
-                  <path
-                     id="rect63-5-7-50-3-1"
-                     transform="rotate(90)"
-                     style="fill:#ffffff;fill-opacity:1;stroke:url(#radialGradient2288);stroke-width:0.33468342;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                     d="m -9283.5415,44837.504 h 24.9773 c 8.4196,0 15.1977,6.778 15.1977,15.198 v 49.484 c 0,8.42 -6.7781,15.198 -15.1977,15.198 h -24.9773 c -8.4196,0 -15.1978,-6.778 -15.1978,-15.198 v -49.484 c 0,-8.42 6.7782,-15.198 15.1978,-15.198 z"
-                     inkscape:connector-curvature="0" />
-                </g>
+                   id="rect63-5-7-50-3-1" />
               </g>
             </g>
-            <image
-               y="-9040.7129"
-               x="-44839.238"
-               id="image5542"
-               xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ8AAAC6CAYAAACwX8hMAAAABHNCSVQICAgIfAhkiAAAIABJREFU eJztnX18U2Wa97/J6UmhtLSltKXlbaTypojIAHZGXF1XmAHmxc4j1Jed2aE4zgM7D6KuIzg44OIA wojojuiolFlkeKuLzK6AAzo7rrgiIC+lisAUBG1LEwotTQvJ6cl5/jg5aZImpU2TJmnv7+eTT9Oc k3Puk+T+neu+ruu+bpOmaRoCgUDQTszRboBAIIhPhHh0EdRoN0DQ7RDi0UWQcAJOVFUFFRSEoAgi i0n4PLoGKuDy+t8MSFFqi6B7ICyPOEZVVVTAbrdz/tmnOX3TzRzNGcC5Bx7g8sGDqO59hAkiiATC 8ohjFMBVXcmXd0/BWVaKOS0VSU4mwVZBIzBg/UZSfnw/ZlVFkoQdIggvQjziGAWwPvJ/qX/p92iZ WS2326wMP1+BOTsXufObJ+jiiGFLHOOw26l/6feQ2T/gdgtw5f3dndsoQbdBiEccIzdcRgE0lKD7 NNTWii9ZEBHE7yrOaW04ogAJVzurJYLuhhCPOCe4zaELS1MPEbIVRAYhHgKBICSEeAgEgpAQ4iEQ CEJCiIdAIAgJIR4CgSAkhHgIBIKQEOIhEAhCQoiHQCAICSEeAoEgJIR4CASCkBDiIRAIQkKIh0Ag CAkhHgFxAs1FhI2/KjQXF1ZFbb924f4A/T9P789UEF8kRLsBMYcKimTBDDQeP4Hzf/aSIF1FG3sz KWMn4pJAVkGRJDFbtT1IThT0z9V+8CDa8VOYJQeMuIVeY28Wlc7iECEePjhRkQCJ83N+Rv0rb7iL 7ehVuWwz7mX4xhIUt4AI9WgPFsyqypcP/5yG4rUkAU3uLXLRLPJee0N8nnGGEA8fLLgkOP+rX1L7 yhskZGZ5PiANYOtbVGT8jH5rXkdFRdgebUcFKn+9gJritaRkZvkMUxqK11KRaCJrzevI6BaKsERi H+Hz8MNUfYnapStJCFBQWMvMov6VN3CcOS6qkbeTpupKHEtX0isttcU2OTOLmlfewFR9SQhHHCHE w4+Gi1ZkwBTkJ6wAl3b9uVPb1BW48v5uGgGznBhwuwWo/6q8U9sk6BhCPALQWlFhc1oq9lfWdW6D 4hqnPmTZuBUpgNVh4DN+FoGsuECIhx+pw4aj5F0fdLskJ6OVlVJ3/EQntio+0UOxFpqqKzHv2BXU 6nApDi4C6beM018QI8K4QIiHH6oE2T+9jyabNeg+TuDqrl3uG6Szk1oWfxga0NraMSZkEmvryHnq CTCiWIK4QIiHHxLQc+p3gm7XUJDSUqldt85nYWlBS4xodtVrf0RtZchyBejzgx/p/wirI24Q4uGF ke3YZ+wELKNG41IcAfczy4loZaU0HDqKgqVT2xhPSEDd8ROYPngPSU4OuI+q2DGnpdJrXH7nNk7Q YYR4eCEB+rrzFvr8Yi5SbV2rUZeGnW+JD7AVFPThXQLBHdBSbR0pv5gnLI44RPz2/TDyNyx/N7FV b4Y5LZX6l9a5BUcQCBmo/vc3cbQyZAFI+eH3xGcYhwjx8MOY8JY0cjiMHouq2APuZ5YTwVbBpYMH xU3TD+MzrDt+AkvpoaBDFpfiwN6vP73HjUMS6hF3CPHww7A8ZCBnzhzU2rpW97e/vbUTWhV/qID9 PzYArQ9Zsh56SDie4xQhHkFQgd73TGndHZrZn0tLV4rp+X5ISEg4qf7D5lajLE6gd0FB5zVMEFYi Kx6qV82GOMyHMGfnot1xd9Coi13S06qvHjzQuQ1rI8b9vrOlTZXg4qH9JJX/rdXEsMRRo0kbezNm VRUO0zgkYuKhAoqEe4I7qGp8/Tpc6B9O9qwipCBDl16qggI0HvlMF8koWCAyBBU3I07U2Z+8BFw9 9XWrU7al2jrSZs7Un4tJhnFJxMTDhf7jVVU9+Emc/UBkVb+GXpPvuKbNJCUl4YJOn6KfmJ3L1fxv Br27K0DaN/M73/IAevZJ9dTrCEbagzM6ozmCCBFe8fAqM2ffs4vyBx7g6PARnLxzEnVvbvLYz/od 2hnbvgJJF7/E7Fx63zMd2Wb1yfkwnmtAj4lj9A+yk/VRAa5/ZknAVPommxVp2hR6jBvfuY1ykzT6 5hZuUhMyJmRcikMXvezcqLRNEB7CKh6qpN+tq55eTPXkqWibNpF0+Qquowe4+JMH+CLBxOlNr+GS JD0zM06skfSlS2gEsFV4XtNQqLdZyX7+BZKuGxmVIbtZVUmcPIX+6zei2KzINiuKzYrJZsUy414G bd6KS5Kgk0VaQhfdPi+/4CNsGgoJtgpctXUM/rdXdV+HIG4xaZqmhetgKmA/foKzN4xAdhfTMe7Q dkn3EZhsVuz9+pO7+rfkFt7nmf8Qyyjo9UwvPfU09dtL0AApLZXMV18jq3BG1K5BP69eectht6N8 /CFXLtbRa/QtpI4cjqqqSJLa6QV29DR/FZckYd+zi+oHf4bTVoEJkKZNIfdfl9Fr7M2Yif3vXhCc sIvH+Wefpv7pZ9ECVOIycCkOpNo6nKPHMvC3z5I+aQoKNN+JYri4sKqqaBcuk5CdHu2mxBWNjY0k JSYJtehChHXYIgGuK4E9/z4nlRPRMrOQzpVTPXkqpTd/E/vBg7gkSTezYxiXJGHKThdLBbQTOSkJ RRJLVnQlwioeCmDun0sCwcv4+ZxcToTM/shVX/PV+PFUFMzAfvCg315OzzofsYCMLpKtXZ332iTN IhMgZqM2/4mV6/NGbfHEwIlxPUbbr/UdyegRLBGW7TqEddiiAK7qSo7260+vtNSgIcRgNNmsaECv olnkLHwc+bqR+rg4HhwjHtydSpU8wy+jU0m4Bdb9v5FLgqpXYldRY6dzqe4ZxpLU3E7weQ7ur8Xz /RgCKcoUdAfC6/NwO8kcu3dx+jtT9bU5MvsHndvQojHIaCg02az0BEzzfsmA+Y94QnrxUFVboTm/ pelCNVcv1uNqqIdLNmQNFBNYeqfT1DsduYcLsgeTlJTk+YRi4RpVfPN0jOtIuHwJ5+VLyO5fjClV v44efVJQU9I81xEL1yCIPGEVD8C94ppugVQs/w321WuwoC9b0CDJJKvBJ0pBs4AAmGxWFCB14SKy f/FwSxFR9fBwZ96r9QiG7xlV9KUFmr48R80779Lw4Ue4jh7AVVvnaavRqRLQFztSgJ6AIy0VdVAe yXfl0yP/dtIm3EyiV+jXc1MPk/XlfTwjtK6nh+sHb6quRDl6lIsffkLtf/4XlB4iCb3al3/7vUVC AbTRY0n7wffpc/utyDffjDk717OPcd64MiIFrRJ+8fDCCHFe+O1KtOK1+muZWT4C0RZMNitqWip9 n15M9v+biSqneu6MnY1hXQHISh0X3v9v7L/fiHV7CT3d+5jdk8HaOmxzKQ4SvVLgG0ePpe8//R8y Hvwpidm5HkvAHEC4QsX49M3ogtGw+wOq1xajfPAeSe5tjnYOPV2KwyOYTkC+425yHn6QtOkFIKcK q6SLETHxMLzqLklCBi4dPIh15XNoW9/Sf1ithHJbNBIZVbHjqq0jITOLnNXPkVb406jcwlTAceY4 NW+sw/76v3uErb3+nWAY81RctXW6/+f+++n3yFx63JqvC2YYbt3GIWoPHaXm5X+joXgtFvBcR4Mk 00sNPZ5k3ByMkDyAZd4c+s39BUnXjexY4wUxQ0Qtj0A0fLKPc08+jfLBe0henc6lONrUAY27m2XU aFIWLiD73um6ye0Wq3DdmVUvJyboIuiqruTC669Q//SzOMGn/ZHCyNCUpk0hZ/G/6oVzCMH8V/Es Nt14/ATnFy/EufUtZGg1JydcmNzXYZk3h4yH55I0cjgyTsDiudHEjLM4SgQaEscynSoeHvMbuPTu diqfXIKl9FBId27DH2IZNZr+zy8ncfKU8JrEbt8N6Ka2dctWvryvkD7oQ6/OxmSzchnoO28O/ef/ ysef0BYUQGls5NKqZVQ8/WxI0bCOYFgjss1KI5D9/AtkPzJPXzScrusLaWxspK5Ot75qamq4cuUK AGlpaSQnJ2OxWMjIyIhmE0OmU8XDM+b1ODqdVG7ZRv2zy3CWlQZcHzYY3nkkiq2ChDvuZtBzS+h1 qz6LtCPhXe/0alP1Jb7+vz/n6vYSyOzv2ac9PptwYFhmTTYr5rRUBm/ZRPLkKW1+/6WDB7HOnIWj rLRdQ8Zw4/nebBU4R49l0Lpieo29OSzDsVigqqqKvXv3cvjwYf77v/+bEydOcOnSpVbfk5eXx+jR o5k0aRLjxo3jxhtvJCkpqdX3xAKdPmwJRGNjI5f+8BqXFy+jyWZtl4gYGONr04x7yXriSZLHjQs5 R0R1Rx+ufrKPL7/7XaTauk4x7dtDvc1K/yUL6bdwSdDLMyw965rVVPzzo51ubVwLl+JAra1jwPqN pP74fnfdl/gw3b3bWVVVxfbt21m/fj379u0L+h6TyeTzf2tdr6ioiKKiIvLz82P284i+eLiTkVyS hMNup+G1N7j0+KMoEJKIGD6CJK9Es7ab907PJLLajX/gqwdnYo6xDudNk81K0v33k/3aayQntywy rABfPfrPuFavaXfkpLMwBCRt4SIGLV6MIhE3E+bKysp49tln2bJli8/r/iLRVjRNw2Qy+YjK4MGD WbRoEYWFhTFnjURfPMAzKU6SJE/OhPWl1dQuXal3/DYmmvmkxNsqUNNSGfC/n5A8cngbnIy6804B Lq5ajfXxR5Hdw5TOHqK0FROyx/wfvvu/9LCu547o5EThg7pTtB2JetHAuA65aBZ5a99wv6p/H7HI qVOnePrpp31E41qCYQjDtfDfz7t7FhcXM9NdfS0WiAnxCIQCKGeOc/6l39Gweg09aZ+j0oSMYqtA mjaFG97Z6bFwApmA3rkbVU8vpvbZZ6LqF2gvJpvVIyDm7FzMqsqXP/4xyqZNMTfcag3FZqVX0SwG uQUknHktHcEQZFVVWblyJQsWLPBsa6sgtEZbhMcgPz+f119/nVGjRkV9iBez4mE4PRXJnWi25Bka N21Co305Ik02K8POV5CQnYsU5G5m+DgurFpN9eOPdkoINtwoNisJ06Zww9ubOP3Lp2hYvSakYV80 MdmsOIHkeXMY8sLLMRWBKSsr45577qG8vNzzWqBO31p3Sk9Pp0+fPgBcvHgxqCPVGLp4//U//ooV K3jiiSdCupZwEbPiEchsbTxzHOtji7i6vQQ1LdWzmFAwk9yEjNNWwfWnP3enfAcRD/TQcdWUgrjr cN6YbFZMo0YjlZVGJZwcLkw2Kykvv0DWnHke/0dn32W9z1dSUsKMGXq91UAdGlqKRkFBAd///vcZ NWoUAwYMICUlxccvpaoqtbW1OJ1ODh8+zP79+9mwYYOPOAU6n/d5CgoKWL9+vee4nf0ZxbB4tMSI Hjg/2Uf5w/+MpfQQl4GUAB3FyEo1y4kM/vIMiYmJQYsMOaorOdOvf5t9K7FMW5PtYhnDBzJw38d6 6D0KSWRGR1y5ciW//OUv9XZdw9IoKCjgoYce4s477wzZuXnq1Cm2b9/uOWeg83pbJXl5eXz44Yfk 5OQI8WgNTyEZ9wd0ec8urI/Nx1lW2iIqYkImwVaBZeEi+i9ZrGegBhAPBfjsW+OQvwi+xoggOig2 K0Pq60numdzpEyABFi9ezDPPPBPUJ2F0naKiIubPn8/QoUPDdm5VVdm2bZvH4jEIZvGcPHkyrOdv C3G1YpwkSfoD/YeUPmkK1x87SsbmTUhyMk3u4r8mm1WvmVk0i0FLntL3DyAcKnoOhLTvUyEcMYgF qPvVv7jX/4n8omHeVc6WL1/uEQ7/+6umaWiaxpgxYzh27Bhr164Ne8eVJInp06fT1NTEsmXLAu7j 3a5hw4ZRVVXluY7OqNgWV5aHN96mrBHqrX6rBO3UZ5iSepJ6211Ybs0PmrloFC76ql//uPYPdHVM NitZn35IytiJEZ+Ra5j9ho/D28/g73NYtGgRixcv9rzPIFLDhrKyMr73ve9x9uzZFg5U7yFMaWlp p+WDxK14+OJExeKjEUZlcVWVAodngS8feCDuwpndDZfiIGHAYIYcO9op0/kPHDjAhAkTAILmW+zY sYOpU6d6/u8sX0NjYyP/+I//yNtvv92ifUYbCwsL2bx5c8TbAl1GPNqGf/j33A0j4jq60l0w2axk 795J8qQwT350Y3R+u91O7969W42mRMO34M8jjzzCSy+9FFTc1qxZw+zZsyPejrjyeXQUl/uvGbjw 25WiME0cYEJGTUvlq39ZqE/hVyNXLPpXv/pVwBRxf+GIdgX4F198kaKiIp82mkwmj5jMmTPH4/+I JN3S8nBc0Is0BwrxCmKTJpuVAQcO6BMewzhMMKyOjz76iIkTJwItk7QA9u7dy2233RaWc4aLyZMn s2fPHqDlEGvSpEns3r07okOqbmV5gD5kubx9F32i3RBBu5CBi38sQYawru1jdKxf/OIXQGA/x5o1 a2JOOAC2bdsWdNuePXv46KOPIuqL6VaWB+hRlmPXDyWxxibCs3FGk81KXkND2KMJO3fuZNq0aQAt oioFBQVs27Yt6vNI/AlkMYFv+/Py8vjb3/4WsTZ0O8uj8fgJ5HKREBavOD76IOzHnDt3LtBSOABe fvllQLdQampqsNvtnm2dlU8RCEPIbrvtNp/2e7e9vLycnTt3RqwN3U48tMMfR7sJghCRgYs7/xoW h6nR6Q8cOEB5eXnAZLBly5aRk5Pj+T8jI4M333yTdevWee78sWCN/PrXvwZ881GMv6tXr47Yebud eNS8sxuNti2HKYgt1LRUmt571xM1Cwevvvqq57l/eNbwg3gze/ZsqqurSUhIoKSkJIwtCZ2MjIwW WaiGkOzZsydikZduJx5Xd+1EzsxCVezX3lkQU0hyMs6yUlzVlR0/liTR2NhIcXFxwO2LFi0KWJ1N VVXmz5/PmjVrmDFjBt/4xjcoKSnxWDLRGsr80z/9E9A85PK2pLZv3x6Rc3Yr8XBUV+KqraNBkoXP I45p+vJcWI5z+PDhFq8ZHe7BBx9s9b2zZ8+muLiYs2fPMmPGDPLy8jz+hWgMZXJycigsLPR5zbCk 1q9fH5FzdivxaPryHDKQHItL0gvahAzUffklQIeLJwTKkQC9WlewLFJvYZg5c6bHcjl79izTpk1j +PDhEXVStsZPfvKTgK/v27fPx9EbLrqFeBhmpPPyJZzEbk1SQesY35tUcT4sx9uwYUPA13/0ox+1 +RjeAgJ6hGPatGlcf/31PiLSGUOZv/u7vwNokXkKcPTo0bCfr1uIh4F2vpbQ6loLYgn7V1X6GkAd 6I+NjY0tqnYZ3HnnnW0+jqqqLQTEZDJ5ROSWW26hpKQEh8MRemPb2I7k5GQmTZoUcHtpaWnYz9kt xEOSVL2gsq062k0RdBAF6OG4qMfKpNBrfFRUVLR4zbhjjxzZ9vV0jWHMzJkz2bp1q89xTCYTR44c 4fDhw3olO8But9PY2Oh5f7gsEqMd48aNC7j9iy++CMt5vOkW4mGg0igCtHGOOS0Ve00tCmC3O7Hb 7djtdk8CV01NTYvn3q8ZWK36+j7+/o68vDx69uzZrjYZAjB9+nSPgIAuIitWrGDp0qX8+c9/5lvf +panlukjjzyC3W4Pu3P1lltuCfj6/v37w3oe6GbiIeganPvkMBaTiZSUFM+jb9++nr/+z43Hm2++ 6TlGZWXgcO+QIUPa3aG99/cWkDFjxvDEE09QUlLCtGnTPKvJaZrGSy+9xO233+5jhYSD3Nxczzm8 aW0lu1BJCPsRYxK9YrrcKzvK7RCEA0dSy/wLb4IVKu7bt6/n/wsXLgR8r7E0QkcwBMQ4h3cdUu+2 HTlyhB07djB9+vQOn9MgNTW1xXkiRbcQD2NdFi0tRV/GMtoNEoSMT5HrdnaQXr16eZ4HC11679MR pk+fjqqqnDp1yvNaoPa+++67YRUPw7fSGcTdsEV1PxSai8K0JavPDMh9UgCRmh7vlF/0HXKEMjE8 UPZouJEkyec8gdrZGe2IlBUS++JhqEXzHySaF0NW0es7uCQpaIkpo3K6ecCQCDdW0BlckPSfrVHF 3Pt5sAdAQ0PDNY/dln3aQ05ODnl5eUDgTvyd73wnrOcLFBKOVNWN2LfgpeZixpJyhbq/nUc5exzn 559z5bPTNBw8TK8bh5P6kxn0/e5UWlscOXnY9XSr4iVdCBOyJ0lsf2VoIXdvP4e3/8ObixcvhnTs 1ti0aRMTJkxo0YkLCwt9CimHg7q6urAerzWiJh6qqiIhobod1S6arQlwUnf8DK6vT+M8doKms19Q 89cDmEoP+Qw4FEBKS0UpPUTlpk04Zj9EvzWvQ7DCLZKEpQusCtcdMb6zJpuV35086XFsJiYmYjab Pc+9v/fWhrLeUQlvi+DkyZNhL/wzfvx4Tp48yfLly3n77bcZPnw4Dz/8cERWvA8WRcrPzw/7uaJn ebhXHQcJx5njXN17hIYvDmP/6DDyB+/RSLMN4UQXCXNmlo/lYDRey8zSaz288gbyHZNIL5wRdHUx +fvf5eq2t8TEuDjEpThIuOPuNlcvb00AsrIC1689e/YstbW1ZGRkhNTGYAwdOpS1a9eydu3asB7X n7179wItRdFYTiKcRM/noapIksqFVaspH3ID1p88gGPpSlxHD6BkZiFnZkGmvn6snJnVps5uTkul 5pXX3cdvud0F9PnWLUi1nWfaCcKDS9HH8om3DAvL8YYMaen/MjrbJ598EpZztEakpu4byWD+/pUR I0aE/VxREw9JkqjduJHqxx8lITMLLTMLxU8kNJR2DzHMNVb3CVpukwHT2IkkICIu8YYkJ6PW1pGc f0d4jidJQU15owNGsjZHOKuQGW2sqakJmgwWLG29I0RNPFRVpXrZC0hpqWE7pqu2joSbbmz1opL7 D+Ii7ZtZ61IcPg9B52N8X4mjbw7bMYPNnt2wYUNMlRm8FkYb//KXvwC+hYCMv2PHjg37eaMmHk0X qtHKSpHkjsW5vTuzBmT/9MetlKlzkpCdTsodd7dJBJpsVhSblYQBg+l152RMt30b0Fdvl21WISSd iEtxIKWlkjryurAdM9js2fLycg4dOhS283QWmzZt8jz3HrZMmjQpIiIY9VBtqJGPBkl2F/VxYLJZ cQLpTz1Bz8lTQFVR3bkdvlhQgD4/mMalD94LukZtk82qC9HzL5D24AwSsnObc0rQK7Bf3bWLxscf RQXdPyOIKFJtHXLRrBZrEoeKqqqMHz8e8F0s2vj76quverbHA6dOnfKsYevPz372s4icM2qWR2J2 LnLRLEw2a5v2dykOmmxWjzWQdr4Cp60C883j6fXUE+Tt+5h+v1mBC5AIJBzNpBR8h2CTuRWblaSi WQw/X0Hfx+aRmK2H9IzV5gCSRw4n+7F5DD9fgXzH3W2+BkHoJACp078XFuHwZsGCBZ7n3nfr4uLi TlmyMVz87ne/8/nfOznurrvuisg5o7bokwIoZ45zbsgNgB5uNRKBFJvVJ9XLCSSOGk3ChPH0nvAt EobkkjT6ZhKz+6Jg8coPaXYeBTPTFHTH6aHrh9Lz8mVcigOznIgJmQRbBT2XLKT/wiUo4FnW0Cfu r0eXUVUVlyRhVlW+fPjnKMVrg1oygo5hQsZpq2D4+QoS++YGdIaHSllZGTfddFPAJSbnzp3Liy++ GHMLPhkY7Tp16hTDhulRKP8V7woLC9m8eXNEzh818TA6n3LmOFXPPo9SvBYFcPTrT/rU79Lj+htI GjeSxOu/AdmDkb1WCQs5TqLqy00CXFy1mvrHH0XJzMKlOEisrSPxqSfo95sVmN0T6dr6c1GAv905 CfmD91CEgIQd2WbFVDSLQWvfQHZ/h+GMlfmv+erdJfbv38/48eNjUkCMNv3oRz/i7bffDrhU5rFj xxg1alREzh9V8QB9XooMnroGRpag+wavp2u4O7Px10XoPx7jA288c5zyITcgZ/ZHVewoI67npr2f 6D8Q4+RtRAEcdjufp6TQKy1VJKCFGZPNSvbunfSeNEUfOkpOWpuG0F78F7k2MJZsPHHiBBCdqujB MH7HJSUlnin//tZTfn4+H38cuUXOoprnIbmFAyApKYmkpCTPF2R8TZK+M5LxHjp21zGOn3TdSCyj RqPYKlBr6xj08urmBZQ9qgXg1F26Sh0odV7z9Jq9JjJOEpOT+cbmLSTW1okckjDiUhw4gd53TXb/ FiCcwgH6ko3+tT+Ne2p5eTlPP/20Z/gazSUmvTGGK8GEA+D111+PaBtif1YtYR3ielCAlIUL9KUY 5s2hz9iJ+nDFc1JdHFRVounT5Sg7p6DuvAet9DVc7tcNVFVCViG9cAbKHXeDrWV9TEFoJNbWkbZw kW55RhBjTVrv+qOGFbJs2TLWrVsXU5ZHY2MjU6ZMAZqtJW+rqaioKGLDFYOoDVuijQpISh2lljSG n6/Qw7EBhivO/30SqfJ9kFNQTSYk52Wc191Lwjfne+wLI4QrA7WHjnLum2NE+DZMmGxWBp3+nKRB IyNzF6F5CLB8+XIWLFjQYuhi3M137NjB1KlTo+7/UFWVKVOmsGfPnoCLcwPU19eTnJwc0bbGheUR EVQVRU5l0KdHSHTncXj/OFVAOf2ORzgAJE0DOYWEr/+ThPOfe4Yv3kOplLE3kzH35yJ820FMyHpG 77QpJF03skOV0q+F0bmeeOIJ8vPzW6x7Yvw/bdo0SkpK2jxzN1x4D5UMi8Nw8BohWW/B27Fjh6fI UCRFrttaHqigonocti1Q6nDuKsCkXcWMnwNUqUftPRLpH/6gv9/LYlGBpupKTvbrj1k4TztEk83K gAMH6D1uXPAyC2GmqqrKM10/UPQCYM2aNcyePTvibQnUtttvv53y8vKgdVoXLVrE4sWLO6U93dfy CHInU1VVF4DjWzBpV9FMPfTXTSZc6OnoqqU3pivluM7u0j9Av990YnYu/V59Q8ze7QAuxYE2eizp 7gldnSEcqqqSk5PjM63dG6PDzpkzh/vuuy8iSzgGo6SkhNzc3FaFo6BuAnKYAAAUuElEQVSgoNOE A7qzeGDxifYYuCQJ8/nP0c78ATOJSM7LoNR7tpudXyNpGmYSafr8TSTFVyCMn3jmz3+MadRoMf8l BFyKA6m2jrzXdCdmZ3kXDIG67bbbAi7g5D082LJlCykpKZSUlLQ4TkeHMt7vr6qq4r777vOpwO6P EZYNtnxmpOjG4hEYGbhyYpX+j1KPs0cejm8vxzLlbeSpu1BHLQLAhQPL1XKulL7i836jMLOKhaxV y1GF9RES2h130+vW8Fe/aive668EEhBDRGbMmMEtt9zCzp07r5nd3FYkSaKqqoqnnnqK3NxctmzZ 4nNOA8PfMWbMGN5//32SvBIpO4Pu6/Pww1iewVH5Hon/Ox/V0hvJeRnHt5eTlHt3836AdnwDps9W NztSp24HORU998Pi2VGV4KuCGVzeXiKiL+2gyWZlyL6P6XFrfqdZHcHYuXMn06ZNA1r6QPwjHYMH D+bJJ5/k7rvbXu3Mm8bGRv7617+yfv16tmzZ0mJ7IB/MpEmT2L59e6cLBwjxAJpT5WWcOHfPQrp8 HNXSG2dST5LvfhufpCQVcNWh/ukfcMkWzCSiZk7A9O3nkL3EwzA8He5M1gQhHm2iyT0xcdDaN3zm LEUTY/6LQTCfgzd5eXlMmzaNiRMnkpubS1ZWFjk5OZ56q1euXKGqqopz587x2Wef8fHHH7eYFRts yQTjXAsWLGDp0qUduraOIMSDZvEweVkULhwoaTeQdMcbfnvrjlblT3diJhEXDhKcNq7c9oqPhQLN k/C++tUvqV26UgjINXApDhpq67j5fAXm7FyfKFZn458fYbfbeeihhzwWgb8PxJ9Qu1Vra6x4H9PI OYkmwucBSJKKrNShnVzjGYqYSSTB4Qi4FIx3dqmZRFyWAZgOvQ5+E/0NZ2zW3HloIJyn1yCxto7B z7+gl2uAqJod/n6L5ORkNm/ezI4dOwDfjhxIKAwfRXserWGco6ioiAsXLkRdOECIBwAKFq6UvoJZ CS0RSTWZ6HHlEMrp3QG3J2TnMmD9RuE8bYUmm5XG0WPp+9i8YGt3RR1VVZk6dSoNDQ0sW7YMaO7U 4TDggzlEjWjK/v37Wbt2bdgru4dKNxcPt1jUHcNy5i1US++QjiJpGkriQMyHFuNvfRik/vh+GD1W WB9BkIHBmzfqEyCj3ZggGJPjkpKSmD9/PvX19axYscKz3X+FOm/aKi7+xygoKGDv3r18/PHHMVfZ rJuLhzsN/ciLnuFKqEjuL/vKp6taFFY0OsPA3z4rEsf8MCEj26ykP/8CySOHuzN/Yxfv4UxycjJP PPEEmqaxd+9e5s6d69kWaLnLay2Jaew3ZswYiouLqaysZNu2bdx2222de5FtpFs7TBWA0++Q8Omj uCwDcOHwSUVXew5Amvym353QiapKuN65vWXaOnoSWdPkbcipzd557zV2y2c9hFK8FsTKdYDuB1IH 5THy6KeAXr0t6JSBGCTQxLOysjIOHDjAqVOn2LVrF0eOHGn1GIWFhXzzm9/k29/+NiNGjIiZYcm1 6Mbi4dRLGP7p7wHdbyH5fRShiIdvlMYJqsWneE3d8ROcu2FEt4+8mJBRFTtqbR3Xn/4c+bqRyLS7 DlNcYbfbPQtRp6WlxdQU/1DotsMWBQum0tc8qef+whEqZhJJtB2hsfI9FCzusofNeSJJI4fTZ8lC 5G4+69Yu6RXR+23eQqJbOKDrCgfow5yMjAwyMjLiXjigG4uHrNQhnVgZspM0GKpRmOXQ68hKYP9G /wVLaMrs322dpyZkks9XYJk3h4zCGXp5SUHc0e3EwzP35MBzuEypYbM4DIyaH5ar5TT97b/0F736 hlHAt8+/rULqpiULVcWOadRoBv/2JU95SUH80e3EA8BVdwwqd3c4wtIqcgrayTXISp2nYjvowmFW VbIK78E1bYrekbqRgBgzZr/x3q7mmrGCuKRbiYeCfud3HJgfWeFAH76YFSfOA0tbSINeHd5CzuJ/ 7VahW0M4Bu77uDn9XBC3dAvxMKZKy4By9h16XToZ8XOatKsgp2CyfYhSd0wfLqmqj2Mwfdw4LPPm kNBNCiartXX03ryJXrfmRz39XNBxuoV4eMbUSh1a2SpclgEex2akMMK4ZsWJcuRFfcatn5muAv3n /4pGuv68F5PNSsbLL5BbeF+0myIIE91CPEAfsjQd36JXBqMdoVmvSICKPilOcrW9/Jxq6U2i7QjK 6d24AmxPyM4l4+UXuuy8F5fi0Nf/XbiI/nPmRbs5gjDSLcRDRQ/Nmk6+1i5fh1y3D5f9c31dXUDC qS+R+dWHbZ5EJ2kaLtmCVrbKXe/Da5v70X/OnC4770WqraNX0SwGLVkc7aYIwky3EA8A54GluOS2 rzSmmky4LAN052rdMf01VYLT76CVrWq3w1VyXubKp6sCnwsLA3/7LK4uZn002azIRbP4xmu/90Sr Y2G1NUF46LLp6Sp4FnFqrHyPnh/NxmUZ0O7juHDoUZMeeUguG5Lzsm5JmHq0P0dEqUf64fuociqS V9UxBV3FvyqYwdXtJWhdIHXdZLMi338/eW9uDPvC1ILYoMtaHs0LIjsxHXodlym1XU5SY1+z4vRY LM6knp7nISWXySk0/u/juu9DbbaCjC8ha9UzKMS/89Rks9Ljnul84803m3NchMHR5eiy4qGvvmKh 6fhWLFfLQ8vrUOpxXncv8tRdWKZspOff/yfc+Xu0zNt9lmNoD4m2IyiV7/kkjknoYpd03Uj6LFkY 18OXJpsV04x7GfjWJnAviGVWVRGW7YJ02WEL4Fn1LRQrwYUDLfN2LN9+zud1YzjUuPchEm1H9Crr 7Ti+CwdN0kB6fu9NAq327qiu5ES//nFZbd17qKJKdNoqb4Lo0IUtD7hS+oonNNteNFMPLOOfClDY x4kqgTzmkXY5YH2Oe7WcpuP6miD+DsTE7FwG/XFd3K11a7JZscybw6CNuo9DEsOULk+XFQ+Xu7Rg KB0coCl1CIqc2iK8CoCqYk6+ISSnqaRpqJbeuE4Vg1LXMnFMVUl74AHs/WJ/1q0xJ6fJZiVlyUKG vKCv8GZkj4q5K12bLicexqxZ7TN96T1jrdn24MJBgpzh/nD8xUdfplJyD+JDyVSVNE0P3fqtNgfN 817yliyIed+HqthRbFYG/nEd/RcuAXyjKiLC0rXpYuKhWwmu0+8gV2wL2eowkwgXDrReZ8JVh+z4 KqTjA/q0/TNvYT7/uc/QyKiklfT9gpjufJ5Jbrt3kvbAT6PdHEEU6FLioWLBrKo0ff4mLsuA0HIx 3EjOy2gnN/lFGJ0ey+ZK6Ss0WTI7VA/EJVu4cmKVj0gYhn5idi64CwbFypR9YxjV5PbH5Hz+BemT pgAiEtsd6VLiAWC2nSBB1S2CjnRs1dIbqewZtNLXMCwaFQuyUofz0+W61RCghml70Ew9SKg7rfs+ ApBy7xTU2rqYKZRslhORbVa00WO5/ovP9WrnboR3o/uREO0GhJumxtMkOG0hZZP647IMwHTyNZQz f0Drmae/dqUci+IMSz0QSdNAqUdpPOdTbd1AzeiPBYiFWLpLceCqraP33J9z/apX9TwV9+Lggu5J lxIPCTAnDQF8q6GHOv1eNZnAXeNUuvI1qsmEZuqBamm/EzYYJtmCnDQo8DZXY9jOEyomZDQUXLV1 9Hn5Bfq5Z8bqERUhHN2ZLiUe4MSVORznkFn0OL0WQK9TGqajh7OrmLU6XKZUtBvnuee6tKTmL38h MYrJYiZkEmwVONJSGbLvYyy35gtrQ+ChS2WYGk47F/oUfKXxHKbKo9FsUkC0xDTIGIycNMidS+KL qqo4HA7O9eoVlcWhDGvDZLOi3XE3Q7b8u6dsoCoJ/4ZAp0tZHpL3XzlV9yME8CXEEoGEwyVJXP2P PwFExVmqKnak2jp6P/8bMh97CmhO/BLCITDoUpZHV8FRXclX/frjSEvFLHcsotNeTDYrWmYWg/7r T/S6Nd+9dqyYoyJoSZcL1cY7qqpyYvL3uQJIcnLEczxMyD5p5vL99zPk2GF63Jqvz7uRWtZeFQhA WB4xh6qqXHl/N19/ZyoKkJCZ5fFBRArZZqUJ6LN5C+mFM2IkJU0Q6wjLI8ZwSRKJk6dw3fkKkopm Idus2CN445dtVtQZ9zLo9Odu4WhbbVaBoEs5TLsCnrt+di55a9+gcvLdcN/9NEJEanz8e242at5Q ll430j1MCW0+UHfBKKEQyAdUU1NDVVUVx48f58KFC1RXV/PVV1/R0NAAQK9evUhOTmbAgAH07duX YcOGMWTIEFJTU0lKSurU6wgHYtgSwxiRF1d1JV8/9Wu04rUoYRAQl+KgMrUvv7Hb+aCmGoAdO3Yw derUDh+7O2G32zl69Ch79uxhw4YNlJeXh3ysSZMmcf/99zNx4kSGDh3qeV2N4YJKQjxiGNWdkCWh lxqw79lF+U9+RvL5ipCKJDfZrMiZ/fmj3MRvqqxomobJZML4CZw8edLnhysIzIEDB9iwYQMvvfRS wO0md0az8fn6P/cmUPcbM2YMc+fO5Qc/+AEZGRlhbHl4EeIRZ9jtdi4t+1calq5ETUsF9KhMaw5V Y15Kn9kPsbDayh+2/aePaBikp6fz2WefkZOTE9N3vGvR2tCiI+zcuZMlS5awb98+n9cDiUKo+H8n CxYs4PHHH/eISCx9L0I84hAFsB88yPl/WYD8wXtBhzJGerk6ajRZq5bTe9IUrFVV5Obm6tv9fvSa ppGXl8cnn3wS03e8tmC32/nd737H/v37r7nvwIEDmT9/Pjk5OQG3l5WV8dhjj7Fnzx4gvGLRGt5d c8WKFTz22GN6sahYERBNEHc0NTVpTk3TnJqm1azfqB0F7ThoxzP7a8cz+2tlaanacdBKQat4/jda Q0OD1uTeX9M0bceOHRr6ZF0N0Ewmk+cBaIMHD9ZOnjzpc754o6CgwOcar/VIT08PeJ0rVqxosa/3 59UZD+O8eXl52rFjx6LwaQZGiEccYwjI1fMV2tmFi7RT4BGSvxXN0hpOf645tcCdf9GiRT4dwXju 3Ul27NihaUHeH8s0NTW1u5MD2v79+z3HqK+v9xGgzhaMYAICaFu3bvW51mghxCOO0S0Jh6Y1ua2Q Tz/UztwzXbu4e6fW5LfNG+MHV1RUFNDy8P6xLlu2LG7FozWLwfs143llZaWmaZp24cIFLS8vLyZE I5iArFmzJsqfshCPLkHwru245nsLCwuD3l2N18eMGeNzV44HMfEfmvlfo//rRmdsaGiISeEI9L0U FxdH9TMW4iHwWCDBOoyxraioyHN3jgcaGhq0kydPapWVlT7DNECbO3euVllZqVVWVmoXLlzwvMcQ 02gLRFsFZO/evVH7fEV6ejdGVVVUVWXt2rUsWrQI0D38mtvLb/w1uaMLxcXF5ObmMmvWLMrKyqLT 6HaQlJTE0KFDycnJITs722dbeno6OTk55OTkeCJL69atY8uWLQHD2LGG8Z1MnDiRxsboVJyTFi9e vDgqZxZEHbPZjNms3z/uvPNOJkyYwMaNGwH9x2nyCkl6Pz98+DCvvPIKf/7zn0lNTaVfv34xl16t qiqapmE2m6mpqeHdd99l7969nuvIy8sjLy+Ps2fPUllZyZdffskPf/hDoOW1xzp2u52BAwd6rqWy shKz2UxKSgqqqnq+47ATNZtHEFMYfozKykotPz//mlEG/HwGBQUFWnFxsU+IN5oY17Ns2bIWPg// tvs/oj0kCXUI4/9YsWJFRD9jkSQmCMi6desoKiry/N/anTjQT6ioqIiJEycybNgwRowYEZWkswMH DjBhwoQ2pYjHk6XhTaC2e38f+/fvZ/z48RE5txAPQQuMDMaamhqef/55li1b5tnWXhHxZtKkSYwc OZKcnBzy8vLIzc3FYrGQlpZGnz59SEtLC2vm5OLFi3nmmWfa1PZ4pjVRXLZsGfPnz4/IeYV4CK5J VVUVy5cv95kI1t6OGOrPLD09nd69e5Oenk59fT0pKfp6OfX19TQ1NQFw+fJlamtrg56jq4rGtdA0 jblz5/Liiy9G5PhCPARtpqamhq1btzJnzhyf1681LPDmWvuE++fYXYUDIi8eIlQraDMZGRnMnj0b TdPYv38/c+fOBQKHd4Nxrc5sRDrC9RBEDiEegpAYP348L774okdIVqxYQX5+PtAsJt4PQddDDFsE YUVVVQ4dOkRZWRlHjhzhf/7nfzhy5Eib3hsoahDMejB+tt7b4zlqEgkiPWwRNUwFYUWSJMaPH+8T HlRVldOnT2O1WqmsrKS8vJyqqiqqq6s5e/Ysn3zySVAL5Vr3Nv/tgfYXghIZhHgIIoYR8pUkiaFD h7apxKHdbqe+vh673Y7D4QDgypUr13xfz549AUhM1BfJSk5O5tFHH2XLli0duAJBawjxEESMUHI2 kpOTSU5ODsv577jjjm4vHiNGjIjYsYXPQ9BlqampoW/fvu1+X7wMc9rSdS9cuBCx7F5heQi6LBkZ GZw8eZInn3ySqqqqa+5vs9k6tHxCtDCiXN7k5OTw3HPPRXRagLA8BAI3jY2NjB492iMgsW6BaJpG cXExM2fOjMr5RZ6HoMtjLMVwLZKSkti1a1eEW9NxjMjU3LlzWxUOo15LpBCWh0DgxogOlZWVcdNN NwGxZ30Y3bWoqIi1a9dGtS3C8hAI3BhroowaNYqTJ0+Snp4eUxmyRjsWLFjgEY5IWhbXQoiHQOCF ISBDhw7l1KlTFBYWAuGfsNcevAVs69atLF261LMtmos/CfEQCPwwOmRGRgabN29m69atAJ0+V8f7 XIWFhVRWVjJ9+vROOXdbEOIhEFyD6dOnU19f71MUKZIi4n3s/Px89u7dy+bNm4MuhxkthMNUIGgH drudkpISnnnmGc6ePeuzLVTnaqAuWFhYyOOPPx6xEoLhQIiHQBAiZWVl7Nq1i40bN7Z55nAwTCYT M2fO5Lvf/S533XVXXCw0LsRDIGgnRoTD21lZU1PD6dOnKSsr4+zZs5SWlnLmzJkW1knv3r0ZNmwY AwcOZMSIEdx4442tTho0wsexiBAPgUAQEsJhKhAIQkKIh0AgCAkhHgKBICSEeAgEgpD4/2GNUe0y PXyWAAAAAElFTkSuQmCC "
-               preserveAspectRatio="none"
-               height="44.743382"
-               width="64.551491"
-               style="stroke-width:1.3959645" />
           </g>
+          <image
+             style="stroke-width:1.3959645"
+             width="64.551491"
+             height="44.743382"
+             preserveAspectRatio="none"
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ8AAAC6CAYAAACwX8hMAAAABHNCSVQICAgIfAhkiAAAIABJREFU eJztnX18U2Wa97/J6UmhtLSltKXlbaTypojIAHZGXF1XmAHmxc4j1Jed2aE4zgM7D6KuIzg44OIA wojojuiolFlkeKuLzK6AAzo7rrgiIC+lisAUBG1LEwotTQvJ6cl5/jg5aZImpU2TJmnv7+eTT9Oc k3Puk+T+neu+ruu+bpOmaRoCgUDQTszRboBAIIhPhHh0EdRoN0DQ7RDi0UWQcAJOVFUFFRSEoAgi i0n4PLoGKuDy+t8MSFFqi6B7ICyPOEZVVVTAbrdz/tmnOX3TzRzNGcC5Bx7g8sGDqO59hAkiiATC 8ohjFMBVXcmXd0/BWVaKOS0VSU4mwVZBIzBg/UZSfnw/ZlVFkoQdIggvQjziGAWwPvJ/qX/p92iZ WS2326wMP1+BOTsXufObJ+jiiGFLHOOw26l/6feQ2T/gdgtw5f3dndsoQbdBiEccIzdcRgE0lKD7 NNTWii9ZEBHE7yrOaW04ogAJVzurJYLuhhCPOCe4zaELS1MPEbIVRAYhHgKBICSEeAgEgpAQ4iEQ CEJCiIdAIAgJIR4CgSAkhHgIBIKQEOIhEAhCQoiHQCAICSEeAoEgJIR4CASCkBDiIRAIQkKIh0Ag CAkhHgFxAs1FhI2/KjQXF1ZFbb924f4A/T9P789UEF8kRLsBMYcKimTBDDQeP4Hzf/aSIF1FG3sz KWMn4pJAVkGRJDFbtT1IThT0z9V+8CDa8VOYJQeMuIVeY28Wlc7iECEePjhRkQCJ83N+Rv0rb7iL 7ehVuWwz7mX4xhIUt4AI9WgPFsyqypcP/5yG4rUkAU3uLXLRLPJee0N8nnGGEA8fLLgkOP+rX1L7 yhskZGZ5PiANYOtbVGT8jH5rXkdFRdgebUcFKn+9gJritaRkZvkMUxqK11KRaCJrzevI6BaKsERi H+Hz8MNUfYnapStJCFBQWMvMov6VN3CcOS6qkbeTpupKHEtX0isttcU2OTOLmlfewFR9SQhHHCHE w4+Gi1ZkwBTkJ6wAl3b9uVPb1BW48v5uGgGznBhwuwWo/6q8U9sk6BhCPALQWlFhc1oq9lfWdW6D 4hqnPmTZuBUpgNVh4DN+FoGsuECIhx+pw4aj5F0fdLskJ6OVlVJ3/EQntio+0UOxFpqqKzHv2BXU 6nApDi4C6beM018QI8K4QIiHH6oE2T+9jyabNeg+TuDqrl3uG6Szk1oWfxga0NraMSZkEmvryHnq CTCiWIK4QIiHHxLQc+p3gm7XUJDSUqldt85nYWlBS4xodtVrf0RtZchyBejzgx/p/wirI24Q4uGF ke3YZ+wELKNG41IcAfczy4loZaU0HDqKgqVT2xhPSEDd8ROYPngPSU4OuI+q2DGnpdJrXH7nNk7Q YYR4eCEB+rrzFvr8Yi5SbV2rUZeGnW+JD7AVFPThXQLBHdBSbR0pv5gnLI44RPz2/TDyNyx/N7FV b4Y5LZX6l9a5BUcQCBmo/vc3cbQyZAFI+eH3xGcYhwjx8MOY8JY0cjiMHouq2APuZ5YTwVbBpYMH xU3TD+MzrDt+AkvpoaBDFpfiwN6vP73HjUMS6hF3CPHww7A8ZCBnzhzU2rpW97e/vbUTWhV/qID9 PzYArQ9Zsh56SDie4xQhHkFQgd73TGndHZrZn0tLV4rp+X5ISEg4qf7D5lajLE6gd0FB5zVMEFYi Kx6qV82GOMyHMGfnot1xd9Coi13S06qvHjzQuQ1rI8b9vrOlTZXg4qH9JJX/rdXEsMRRo0kbezNm VRUO0zgkYuKhAoqEe4I7qGp8/Tpc6B9O9qwipCBDl16qggI0HvlMF8koWCAyBBU3I07U2Z+8BFw9 9XWrU7al2jrSZs7Un4tJhnFJxMTDhf7jVVU9+Emc/UBkVb+GXpPvuKbNJCUl4YJOn6KfmJ3L1fxv Br27K0DaN/M73/IAevZJ9dTrCEbagzM6ozmCCBFe8fAqM2ffs4vyBx7g6PARnLxzEnVvbvLYz/od 2hnbvgJJF7/E7Fx63zMd2Wb1yfkwnmtAj4lj9A+yk/VRAa5/ZknAVPommxVp2hR6jBvfuY1ykzT6 5hZuUhMyJmRcikMXvezcqLRNEB7CKh6qpN+tq55eTPXkqWibNpF0+Qquowe4+JMH+CLBxOlNr+GS JD0zM06skfSlS2gEsFV4XtNQqLdZyX7+BZKuGxmVIbtZVUmcPIX+6zei2KzINiuKzYrJZsUy414G bd6KS5Kgk0VaQhfdPi+/4CNsGgoJtgpctXUM/rdXdV+HIG4xaZqmhetgKmA/foKzN4xAdhfTMe7Q dkn3EZhsVuz9+pO7+rfkFt7nmf8Qyyjo9UwvPfU09dtL0AApLZXMV18jq3BG1K5BP69eectht6N8 /CFXLtbRa/QtpI4cjqqqSJLa6QV29DR/FZckYd+zi+oHf4bTVoEJkKZNIfdfl9Fr7M2Yif3vXhCc sIvH+Wefpv7pZ9ECVOIycCkOpNo6nKPHMvC3z5I+aQoKNN+JYri4sKqqaBcuk5CdHu2mxBWNjY0k JSYJtehChHXYIgGuK4E9/z4nlRPRMrOQzpVTPXkqpTd/E/vBg7gkSTezYxiXJGHKThdLBbQTOSkJ RRJLVnQlwioeCmDun0sCwcv4+ZxcToTM/shVX/PV+PFUFMzAfvCg315OzzofsYCMLpKtXZ332iTN IhMgZqM2/4mV6/NGbfHEwIlxPUbbr/UdyegRLBGW7TqEddiiAK7qSo7260+vtNSgIcRgNNmsaECv olnkLHwc+bqR+rg4HhwjHtydSpU8wy+jU0m4Bdb9v5FLgqpXYldRY6dzqe4ZxpLU3E7weQ7ur8Xz /RgCKcoUdAfC6/NwO8kcu3dx+jtT9bU5MvsHndvQojHIaCg02az0BEzzfsmA+Y94QnrxUFVboTm/ pelCNVcv1uNqqIdLNmQNFBNYeqfT1DsduYcLsgeTlJTk+YRi4RpVfPN0jOtIuHwJ5+VLyO5fjClV v44efVJQU9I81xEL1yCIPGEVD8C94ppugVQs/w321WuwoC9b0CDJJKvBJ0pBs4AAmGxWFCB14SKy f/FwSxFR9fBwZ96r9QiG7xlV9KUFmr48R80779Lw4Ue4jh7AVVvnaavRqRLQFztSgJ6AIy0VdVAe yXfl0yP/dtIm3EyiV+jXc1MPk/XlfTwjtK6nh+sHb6quRDl6lIsffkLtf/4XlB4iCb3al3/7vUVC AbTRY0n7wffpc/utyDffjDk717OPcd64MiIFrRJ+8fDCCHFe+O1KtOK1+muZWT4C0RZMNitqWip9 n15M9v+biSqneu6MnY1hXQHISh0X3v9v7L/fiHV7CT3d+5jdk8HaOmxzKQ4SvVLgG0ePpe8//R8y Hvwpidm5HkvAHEC4QsX49M3ogtGw+wOq1xajfPAeSe5tjnYOPV2KwyOYTkC+425yHn6QtOkFIKcK q6SLETHxMLzqLklCBi4dPIh15XNoW9/Sf1ithHJbNBIZVbHjqq0jITOLnNXPkVb406jcwlTAceY4 NW+sw/76v3uErb3+nWAY81RctXW6/+f+++n3yFx63JqvC2YYbt3GIWoPHaXm5X+joXgtFvBcR4Mk 00sNPZ5k3ByMkDyAZd4c+s39BUnXjexY4wUxQ0Qtj0A0fLKPc08+jfLBe0henc6lONrUAY27m2XU aFIWLiD73um6ye0Wq3DdmVUvJyboIuiqruTC669Q//SzOMGn/ZHCyNCUpk0hZ/G/6oVzCMH8V/Es Nt14/ATnFy/EufUtZGg1JydcmNzXYZk3h4yH55I0cjgyTsDiudHEjLM4SgQaEscynSoeHvMbuPTu diqfXIKl9FBId27DH2IZNZr+zy8ncfKU8JrEbt8N6Ka2dctWvryvkD7oQ6/OxmSzchnoO28O/ef/ ysef0BYUQGls5NKqZVQ8/WxI0bCOYFgjss1KI5D9/AtkPzJPXzScrusLaWxspK5Ot75qamq4cuUK AGlpaSQnJ2OxWMjIyIhmE0OmU8XDM+b1ODqdVG7ZRv2zy3CWlQZcHzYY3nkkiq2ChDvuZtBzS+h1 qz6LtCPhXe/0alP1Jb7+vz/n6vYSyOzv2ac9PptwYFhmTTYr5rRUBm/ZRPLkKW1+/6WDB7HOnIWj rLRdQ8Zw4/nebBU4R49l0Lpieo29OSzDsVigqqqKvXv3cvjwYf77v/+bEydOcOnSpVbfk5eXx+jR o5k0aRLjxo3jxhtvJCkpqdX3xAKdPmwJRGNjI5f+8BqXFy+jyWZtl4gYGONr04x7yXriSZLHjQs5 R0R1Rx+ufrKPL7/7XaTauk4x7dtDvc1K/yUL6bdwSdDLMyw965rVVPzzo51ubVwLl+JAra1jwPqN pP74fnfdl/gw3b3bWVVVxfbt21m/fj379u0L+h6TyeTzf2tdr6ioiKKiIvLz82P284i+eLiTkVyS hMNup+G1N7j0+KMoEJKIGD6CJK9Es7ab907PJLLajX/gqwdnYo6xDudNk81K0v33k/3aayQntywy rABfPfrPuFavaXfkpLMwBCRt4SIGLV6MIhE3E+bKysp49tln2bJli8/r/iLRVjRNw2Qy+YjK4MGD WbRoEYWFhTFnjURfPMAzKU6SJE/OhPWl1dQuXal3/DYmmvmkxNsqUNNSGfC/n5A8cngbnIy6804B Lq5ajfXxR5Hdw5TOHqK0FROyx/wfvvu/9LCu547o5EThg7pTtB2JetHAuA65aBZ5a99wv6p/H7HI qVOnePrpp31E41qCYQjDtfDfz7t7FhcXM9NdfS0WiAnxCIQCKGeOc/6l39Gweg09aZ+j0oSMYqtA mjaFG97Z6bFwApmA3rkbVU8vpvbZZ6LqF2gvJpvVIyDm7FzMqsqXP/4xyqZNMTfcag3FZqVX0SwG uQUknHktHcEQZFVVWblyJQsWLPBsa6sgtEZbhMcgPz+f119/nVGjRkV9iBez4mE4PRXJnWi25Bka N21Co305Ik02K8POV5CQnYsU5G5m+DgurFpN9eOPdkoINtwoNisJ06Zww9ubOP3Lp2hYvSakYV80 MdmsOIHkeXMY8sLLMRWBKSsr45577qG8vNzzWqBO31p3Sk9Pp0+fPgBcvHgxqCPVGLp4//U//ooV K3jiiSdCupZwEbPiEchsbTxzHOtji7i6vQQ1LdWzmFAwk9yEjNNWwfWnP3enfAcRD/TQcdWUgrjr cN6YbFZMo0YjlZVGJZwcLkw2Kykvv0DWnHke/0dn32W9z1dSUsKMGXq91UAdGlqKRkFBAd///vcZ NWoUAwYMICUlxccvpaoqtbW1OJ1ODh8+zP79+9mwYYOPOAU6n/d5CgoKWL9+vee4nf0ZxbB4tMSI Hjg/2Uf5w/+MpfQQl4GUAB3FyEo1y4kM/vIMiYmJQYsMOaorOdOvf5t9K7FMW5PtYhnDBzJw38d6 6D0KSWRGR1y5ciW//OUv9XZdw9IoKCjgoYce4s477wzZuXnq1Cm2b9/uOWeg83pbJXl5eXz44Yfk 5OQI8WgNTyEZ9wd0ec8urI/Nx1lW2iIqYkImwVaBZeEi+i9ZrGegBhAPBfjsW+OQvwi+xoggOig2 K0Pq60numdzpEyABFi9ezDPPPBPUJ2F0naKiIubPn8/QoUPDdm5VVdm2bZvH4jEIZvGcPHkyrOdv C3G1YpwkSfoD/YeUPmkK1x87SsbmTUhyMk3u4r8mm1WvmVk0i0FLntL3DyAcKnoOhLTvUyEcMYgF qPvVv7jX/4n8omHeVc6WL1/uEQ7/+6umaWiaxpgxYzh27Bhr164Ne8eVJInp06fT1NTEsmXLAu7j 3a5hw4ZRVVXluY7OqNgWV5aHN96mrBHqrX6rBO3UZ5iSepJ6211Ybs0PmrloFC76ql//uPYPdHVM NitZn35IytiJEZ+Ra5j9ho/D28/g73NYtGgRixcv9rzPIFLDhrKyMr73ve9x9uzZFg5U7yFMaWlp p+WDxK14+OJExeKjEUZlcVWVAodngS8feCDuwpndDZfiIGHAYIYcO9op0/kPHDjAhAkTAILmW+zY sYOpU6d6/u8sX0NjYyP/+I//yNtvv92ifUYbCwsL2bx5c8TbAl1GPNqGf/j33A0j4jq60l0w2axk 795J8qQwT350Y3R+u91O7969W42mRMO34M8jjzzCSy+9FFTc1qxZw+zZsyPejrjyeXQUl/uvGbjw 25WiME0cYEJGTUvlq39ZqE/hVyNXLPpXv/pVwBRxf+GIdgX4F198kaKiIp82mkwmj5jMmTPH4/+I JN3S8nBc0Is0BwrxCmKTJpuVAQcO6BMewzhMMKyOjz76iIkTJwItk7QA9u7dy2233RaWc4aLyZMn s2fPHqDlEGvSpEns3r07okOqbmV5gD5kubx9F32i3RBBu5CBi38sQYawru1jdKxf/OIXQGA/x5o1 a2JOOAC2bdsWdNuePXv46KOPIuqL6VaWB+hRlmPXDyWxxibCs3FGk81KXkND2KMJO3fuZNq0aQAt oioFBQVs27Yt6vNI/AlkMYFv+/Py8vjb3/4WsTZ0O8uj8fgJ5HKREBavOD76IOzHnDt3LtBSOABe fvllQLdQampqsNvtnm2dlU8RCEPIbrvtNp/2e7e9vLycnTt3RqwN3U48tMMfR7sJghCRgYs7/xoW h6nR6Q8cOEB5eXnAZLBly5aRk5Pj+T8jI4M333yTdevWee78sWCN/PrXvwZ881GMv6tXr47Yebud eNS8sxuNti2HKYgt1LRUmt571xM1Cwevvvqq57l/eNbwg3gze/ZsqqurSUhIoKSkJIwtCZ2MjIwW WaiGkOzZsydikZduJx5Xd+1EzsxCVezX3lkQU0hyMs6yUlzVlR0/liTR2NhIcXFxwO2LFi0KWJ1N VVXmz5/PmjVrmDFjBt/4xjcoKSnxWDLRGsr80z/9E9A85PK2pLZv3x6Rc3Yr8XBUV+KqraNBkoXP I45p+vJcWI5z+PDhFq8ZHe7BBx9s9b2zZ8+muLiYs2fPMmPGDPLy8jz+hWgMZXJycigsLPR5zbCk 1q9fH5FzdivxaPryHDKQHItL0gvahAzUffklQIeLJwTKkQC9WlewLFJvYZg5c6bHcjl79izTpk1j +PDhEXVStsZPfvKTgK/v27fPx9EbLrqFeBhmpPPyJZzEbk1SQesY35tUcT4sx9uwYUPA13/0ox+1 +RjeAgJ6hGPatGlcf/31PiLSGUOZv/u7vwNokXkKcPTo0bCfr1uIh4F2vpbQ6loLYgn7V1X6GkAd 6I+NjY0tqnYZ3HnnnW0+jqqqLQTEZDJ5ROSWW26hpKQEh8MRemPb2I7k5GQmTZoUcHtpaWnYz9kt xEOSVL2gsq062k0RdBAF6OG4qMfKpNBrfFRUVLR4zbhjjxzZ9vV0jWHMzJkz2bp1q89xTCYTR44c 4fDhw3olO8But9PY2Oh5f7gsEqMd48aNC7j9iy++CMt5vOkW4mGg0igCtHGOOS0Ve00tCmC3O7Hb 7djtdk8CV01NTYvn3q8ZWK36+j7+/o68vDx69uzZrjYZAjB9+nSPgIAuIitWrGDp0qX8+c9/5lvf +panlukjjzyC3W4Pu3P1lltuCfj6/v37w3oe6GbiIeganPvkMBaTiZSUFM+jb9++nr/+z43Hm2++ 6TlGZWXgcO+QIUPa3aG99/cWkDFjxvDEE09QUlLCtGnTPKvJaZrGSy+9xO233+5jhYSD3Nxczzm8 aW0lu1BJCPsRYxK9YrrcKzvK7RCEA0dSy/wLb4IVKu7bt6/n/wsXLgR8r7E0QkcwBMQ4h3cdUu+2 HTlyhB07djB9+vQOn9MgNTW1xXkiRbcQD2NdFi0tRV/GMtoNEoSMT5HrdnaQXr16eZ4HC11679MR pk+fjqqqnDp1yvNaoPa+++67YRUPw7fSGcTdsEV1PxSai8K0JavPDMh9UgCRmh7vlF/0HXKEMjE8 UPZouJEkyec8gdrZGe2IlBUS++JhqEXzHySaF0NW0es7uCQpaIkpo3K6ecCQCDdW0BlckPSfrVHF 3Pt5sAdAQ0PDNY/dln3aQ05ODnl5eUDgTvyd73wnrOcLFBKOVNWN2LfgpeZixpJyhbq/nUc5exzn 559z5bPTNBw8TK8bh5P6kxn0/e5UWlscOXnY9XSr4iVdCBOyJ0lsf2VoIXdvP4e3/8ObixcvhnTs 1ti0aRMTJkxo0YkLCwt9CimHg7q6urAerzWiJh6qqiIhobod1S6arQlwUnf8DK6vT+M8doKms19Q 89cDmEoP+Qw4FEBKS0UpPUTlpk04Zj9EvzWvQ7DCLZKEpQusCtcdMb6zJpuV35086XFsJiYmYjab Pc+9v/fWhrLeUQlvi+DkyZNhL/wzfvx4Tp48yfLly3n77bcZPnw4Dz/8cERWvA8WRcrPzw/7uaJn ebhXHQcJx5njXN17hIYvDmP/6DDyB+/RSLMN4UQXCXNmlo/lYDRey8zSaz288gbyHZNIL5wRdHUx +fvf5eq2t8TEuDjEpThIuOPuNlcvb00AsrIC1689e/YstbW1ZGRkhNTGYAwdOpS1a9eydu3asB7X n7179wItRdFYTiKcRM/noapIksqFVaspH3ID1p88gGPpSlxHD6BkZiFnZkGmvn6snJnVps5uTkul 5pXX3cdvud0F9PnWLUi1nWfaCcKDS9HH8om3DAvL8YYMaen/MjrbJ598EpZztEakpu4byWD+/pUR I0aE/VxREw9JkqjduJHqxx8lITMLLTMLxU8kNJR2DzHMNVb3CVpukwHT2IkkICIu8YYkJ6PW1pGc f0d4jidJQU15owNGsjZHOKuQGW2sqakJmgwWLG29I0RNPFRVpXrZC0hpqWE7pqu2joSbbmz1opL7 D+Ii7ZtZ61IcPg9B52N8X4mjbw7bMYPNnt2wYUNMlRm8FkYb//KXvwC+hYCMv2PHjg37eaMmHk0X qtHKSpHkjsW5vTuzBmT/9MetlKlzkpCdTsodd7dJBJpsVhSblYQBg+l152RMt30b0Fdvl21WISSd iEtxIKWlkjryurAdM9js2fLycg4dOhS283QWmzZt8jz3HrZMmjQpIiIY9VBtqJGPBkl2F/VxYLJZ cQLpTz1Bz8lTQFVR3bkdvlhQgD4/mMalD94LukZtk82qC9HzL5D24AwSsnObc0rQK7Bf3bWLxscf RQXdPyOIKFJtHXLRrBZrEoeKqqqMHz8e8F0s2vj76quverbHA6dOnfKsYevPz372s4icM2qWR2J2 LnLRLEw2a5v2dykOmmxWjzWQdr4Cp60C883j6fXUE+Tt+5h+v1mBC5AIJBzNpBR8h2CTuRWblaSi WQw/X0Hfx+aRmK2H9IzV5gCSRw4n+7F5DD9fgXzH3W2+BkHoJACp078XFuHwZsGCBZ7n3nfr4uLi TlmyMVz87ne/8/nfOznurrvuisg5o7bokwIoZ45zbsgNgB5uNRKBFJvVJ9XLCSSOGk3ChPH0nvAt EobkkjT6ZhKz+6Jg8coPaXYeBTPTFHTH6aHrh9Lz8mVcigOznIgJmQRbBT2XLKT/wiUo4FnW0Cfu r0eXUVUVlyRhVlW+fPjnKMVrg1oygo5hQsZpq2D4+QoS++YGdIaHSllZGTfddFPAJSbnzp3Liy++ GHMLPhkY7Tp16hTDhulRKP8V7woLC9m8eXNEzh818TA6n3LmOFXPPo9SvBYFcPTrT/rU79Lj+htI GjeSxOu/AdmDkb1WCQs5TqLqy00CXFy1mvrHH0XJzMKlOEisrSPxqSfo95sVmN0T6dr6c1GAv905 CfmD91CEgIQd2WbFVDSLQWvfQHZ/h+GMlfmv+erdJfbv38/48eNjUkCMNv3oRz/i7bffDrhU5rFj xxg1alREzh9V8QB9XooMnroGRpag+wavp2u4O7Px10XoPx7jA288c5zyITcgZ/ZHVewoI67npr2f 6D8Q4+RtRAEcdjufp6TQKy1VJKCFGZPNSvbunfSeNEUfOkpOWpuG0F78F7k2MJZsPHHiBBCdqujB MH7HJSUlnin//tZTfn4+H38cuUXOoprnIbmFAyApKYmkpCTPF2R8TZK+M5LxHjp21zGOn3TdSCyj RqPYKlBr6xj08urmBZQ9qgXg1F26Sh0odV7z9Jq9JjJOEpOT+cbmLSTW1okckjDiUhw4gd53TXb/ FiCcwgH6ko3+tT+Ne2p5eTlPP/20Z/gazSUmvTGGK8GEA+D111+PaBtif1YtYR3ielCAlIUL9KUY 5s2hz9iJ+nDFc1JdHFRVounT5Sg7p6DuvAet9DVc7tcNVFVCViG9cAbKHXeDrWV9TEFoJNbWkbZw kW55RhBjTVrv+qOGFbJs2TLWrVsXU5ZHY2MjU6ZMAZqtJW+rqaioKGLDFYOoDVuijQpISh2lljSG n6/Qw7EBhivO/30SqfJ9kFNQTSYk52Wc191Lwjfne+wLI4QrA7WHjnLum2NE+DZMmGxWBp3+nKRB IyNzF6F5CLB8+XIWLFjQYuhi3M137NjB1KlTo+7/UFWVKVOmsGfPnoCLcwPU19eTnJwc0bbGheUR EVQVRU5l0KdHSHTncXj/OFVAOf2ORzgAJE0DOYWEr/+ThPOfe4Yv3kOplLE3kzH35yJ820FMyHpG 77QpJF03skOV0q+F0bmeeOIJ8vPzW6x7Yvw/bdo0SkpK2jxzN1x4D5UMi8Nw8BohWW/B27Fjh6fI UCRFrttaHqigonocti1Q6nDuKsCkXcWMnwNUqUftPRLpH/6gv9/LYlGBpupKTvbrj1k4TztEk83K gAMH6D1uXPAyC2GmqqrKM10/UPQCYM2aNcyePTvibQnUtttvv53y8vKgdVoXLVrE4sWLO6U93dfy CHInU1VVF4DjWzBpV9FMPfTXTSZc6OnoqqU3pivluM7u0j9Av990YnYu/V59Q8ze7QAuxYE2eizp 7gldnSEcqqqSk5PjM63dG6PDzpkzh/vuuy8iSzgGo6SkhNzc3FaFo6BuAnKYAAAUuElEQVSgoNOE A7qzeGDxifYYuCQJ8/nP0c78ATOJSM7LoNR7tpudXyNpGmYSafr8TSTFVyCMn3jmz3+MadRoMf8l BFyKA6m2jrzXdCdmZ3kXDIG67bbbAi7g5D082LJlCykpKZSUlLQ4TkeHMt7vr6qq4r777vOpwO6P EZYNtnxmpOjG4hEYGbhyYpX+j1KPs0cejm8vxzLlbeSpu1BHLQLAhQPL1XKulL7i836jMLOKhaxV y1GF9RES2h130+vW8Fe/aive668EEhBDRGbMmMEtt9zCzp07r5nd3FYkSaKqqoqnnnqK3NxctmzZ 4nNOA8PfMWbMGN5//32SvBIpO4Pu6/Pww1iewVH5Hon/Ox/V0hvJeRnHt5eTlHt3836AdnwDps9W NztSp24HORU998Pi2VGV4KuCGVzeXiKiL+2gyWZlyL6P6XFrfqdZHcHYuXMn06ZNA1r6QPwjHYMH D+bJJ5/k7rvbXu3Mm8bGRv7617+yfv16tmzZ0mJ7IB/MpEmT2L59e6cLBwjxAJpT5WWcOHfPQrp8 HNXSG2dST5LvfhufpCQVcNWh/ukfcMkWzCSiZk7A9O3nkL3EwzA8He5M1gQhHm2iyT0xcdDaN3zm LEUTY/6LQTCfgzd5eXlMmzaNiRMnkpubS1ZWFjk5OZ56q1euXKGqqopz587x2Wef8fHHH7eYFRts yQTjXAsWLGDp0qUduraOIMSDZvEweVkULhwoaTeQdMcbfnvrjlblT3diJhEXDhKcNq7c9oqPhQLN k/C++tUvqV26UgjINXApDhpq67j5fAXm7FyfKFZn458fYbfbeeihhzwWgb8PxJ9Qu1Vra6x4H9PI OYkmwucBSJKKrNShnVzjGYqYSSTB4Qi4FIx3dqmZRFyWAZgOvQ5+E/0NZ2zW3HloIJyn1yCxto7B z7+gl2uAqJod/n6L5ORkNm/ezI4dOwDfjhxIKAwfRXserWGco6ioiAsXLkRdOECIBwAKFq6UvoJZ CS0RSTWZ6HHlEMrp3QG3J2TnMmD9RuE8bYUmm5XG0WPp+9i8YGt3RR1VVZk6dSoNDQ0sW7YMaO7U 4TDggzlEjWjK/v37Wbt2bdgru4dKNxcPt1jUHcNy5i1US++QjiJpGkriQMyHFuNvfRik/vh+GD1W WB9BkIHBmzfqEyCj3ZggGJPjkpKSmD9/PvX19axYscKz3X+FOm/aKi7+xygoKGDv3r18/PHHMVfZ rJuLhzsN/ciLnuFKqEjuL/vKp6taFFY0OsPA3z4rEsf8MCEj26ykP/8CySOHuzN/Yxfv4UxycjJP PPEEmqaxd+9e5s6d69kWaLnLay2Jaew3ZswYiouLqaysZNu2bdx2222de5FtpFs7TBWA0++Q8Omj uCwDcOHwSUVXew5Amvym353QiapKuN65vWXaOnoSWdPkbcipzd557zV2y2c9hFK8FsTKdYDuB1IH 5THy6KeAXr0t6JSBGCTQxLOysjIOHDjAqVOn2LVrF0eOHGn1GIWFhXzzm9/k29/+NiNGjIiZYcm1 6Mbi4dRLGP7p7wHdbyH5fRShiIdvlMYJqsWneE3d8ROcu2FEt4+8mJBRFTtqbR3Xn/4c+bqRyLS7 DlNcYbfbPQtRp6WlxdQU/1DotsMWBQum0tc8qef+whEqZhJJtB2hsfI9FCzusofNeSJJI4fTZ8lC 5G4+69Yu6RXR+23eQqJbOKDrCgfow5yMjAwyMjLiXjigG4uHrNQhnVgZspM0GKpRmOXQ68hKYP9G /wVLaMrs322dpyZkks9XYJk3h4zCGXp5SUHc0e3EwzP35MBzuEypYbM4DIyaH5ar5TT97b/0F736 hlHAt8+/rULqpiULVcWOadRoBv/2JU95SUH80e3EA8BVdwwqd3c4wtIqcgrayTXISp2nYjvowmFW VbIK78E1bYrekbqRgBgzZr/x3q7mmrGCuKRbiYeCfud3HJgfWeFAH76YFSfOA0tbSINeHd5CzuJ/ 7VahW0M4Bu77uDn9XBC3dAvxMKZKy4By9h16XToZ8XOatKsgp2CyfYhSd0wfLqmqj2Mwfdw4LPPm kNBNCiartXX03ryJXrfmRz39XNBxuoV4eMbUSh1a2SpclgEex2akMMK4ZsWJcuRFfcatn5muAv3n /4pGuv68F5PNSsbLL5BbeF+0myIIE91CPEAfsjQd36JXBqMdoVmvSICKPilOcrW9/Jxq6U2i7QjK 6d24AmxPyM4l4+UXuuy8F5fi0Nf/XbiI/nPmRbs5gjDSLcRDRQ/Nmk6+1i5fh1y3D5f9c31dXUDC qS+R+dWHbZ5EJ2kaLtmCVrbKXe/Da5v70X/OnC4770WqraNX0SwGLVkc7aYIwky3EA8A54GluOS2 rzSmmky4LAN052rdMf01VYLT76CVrWq3w1VyXubKp6sCnwsLA3/7LK4uZn002azIRbP4xmu/90Sr Y2G1NUF46LLp6Sp4FnFqrHyPnh/NxmUZ0O7juHDoUZMeeUguG5Lzsm5JmHq0P0dEqUf64fuociqS V9UxBV3FvyqYwdXtJWhdIHXdZLMi338/eW9uDPvC1ILYoMtaHs0LIjsxHXodlym1XU5SY1+z4vRY LM6knp7nISWXySk0/u/juu9DbbaCjC8ha9UzKMS/89Rks9Ljnul84803m3NchMHR5eiy4qGvvmKh 6fhWLFfLQ8vrUOpxXncv8tRdWKZspOff/yfc+Xu0zNt9lmNoD4m2IyiV7/kkjknoYpd03Uj6LFkY 18OXJpsV04x7GfjWJnAviGVWVRGW7YJ02WEL4Fn1LRQrwYUDLfN2LN9+zud1YzjUuPchEm1H9Crr 7Ti+CwdN0kB6fu9NAq327qiu5ES//nFZbd17qKJKdNoqb4Lo0IUtD7hS+oonNNteNFMPLOOfClDY x4kqgTzmkXY5YH2Oe7WcpuP6miD+DsTE7FwG/XFd3K11a7JZscybw6CNuo9DEsOULk+XFQ+Xu7Rg KB0coCl1CIqc2iK8CoCqYk6+ISSnqaRpqJbeuE4Vg1LXMnFMVUl74AHs/WJ/1q0xJ6fJZiVlyUKG vKCv8GZkj4q5K12bLicexqxZ7TN96T1jrdn24MJBgpzh/nD8xUdfplJyD+JDyVSVNE0P3fqtNgfN 817yliyIed+HqthRbFYG/nEd/RcuAXyjKiLC0rXpYuKhWwmu0+8gV2wL2eowkwgXDrReZ8JVh+z4 KqTjA/q0/TNvYT7/uc/QyKiklfT9gpjufJ5Jbrt3kvbAT6PdHEEU6FLioWLBrKo0ff4mLsuA0HIx 3EjOy2gnN/lFGJ0ey+ZK6Ss0WTI7VA/EJVu4cmKVj0gYhn5idi64CwbFypR9YxjV5PbH5Hz+BemT pgAiEtsd6VLiAWC2nSBB1S2CjnRs1dIbqewZtNLXMCwaFQuyUofz0+W61RCghml70Ew9SKg7rfs+ ApBy7xTU2rqYKZRslhORbVa00WO5/ovP9WrnboR3o/uREO0GhJumxtMkOG0hZZP647IMwHTyNZQz f0Drmae/dqUci+IMSz0QSdNAqUdpPOdTbd1AzeiPBYiFWLpLceCqraP33J9z/apX9TwV9+Lggu5J lxIPCTAnDQF8q6GHOv1eNZnAXeNUuvI1qsmEZuqBamm/EzYYJtmCnDQo8DZXY9jOEyomZDQUXLV1 9Hn5Bfq5Z8bqERUhHN2ZLiUe4MSVORznkFn0OL0WQK9TGqajh7OrmLU6XKZUtBvnuee6tKTmL38h MYrJYiZkEmwVONJSGbLvYyy35gtrQ+ChS2WYGk47F/oUfKXxHKbKo9FsUkC0xDTIGIycNMidS+KL qqo4HA7O9eoVlcWhDGvDZLOi3XE3Q7b8u6dsoCoJ/4ZAp0tZHpL3XzlV9yME8CXEEoGEwyVJXP2P PwFExVmqKnak2jp6P/8bMh97CmhO/BLCITDoUpZHV8FRXclX/frjSEvFLHcsotNeTDYrWmYWg/7r T/S6Nd+9dqyYoyJoSZcL1cY7qqpyYvL3uQJIcnLEczxMyD5p5vL99zPk2GF63Jqvz7uRWtZeFQhA WB4xh6qqXHl/N19/ZyoKkJCZ5fFBRArZZqUJ6LN5C+mFM2IkJU0Q6wjLI8ZwSRKJk6dw3fkKkopm Idus2CN445dtVtQZ9zLo9Odu4WhbbVaBoEs5TLsCnrt+di55a9+gcvLdcN/9NEJEanz8e242at5Q ll430j1MCW0+UHfBKKEQyAdUU1NDVVUVx48f58KFC1RXV/PVV1/R0NAAQK9evUhOTmbAgAH07duX YcOGMWTIEFJTU0lKSurU6wgHYtgSwxiRF1d1JV8/9Wu04rUoYRAQl+KgMrUvv7Hb+aCmGoAdO3Yw derUDh+7O2G32zl69Ch79uxhw4YNlJeXh3ysSZMmcf/99zNx4kSGDh3qeV2N4YJKQjxiGNWdkCWh lxqw79lF+U9+RvL5ipCKJDfZrMiZ/fmj3MRvqqxomobJZML4CZw8edLnhysIzIEDB9iwYQMvvfRS wO0md0az8fn6P/cmUPcbM2YMc+fO5Qc/+AEZGRlhbHl4EeIRZ9jtdi4t+1calq5ETUsF9KhMaw5V Y15Kn9kPsbDayh+2/aePaBikp6fz2WefkZOTE9N3vGvR2tCiI+zcuZMlS5awb98+n9cDiUKo+H8n CxYs4PHHH/eISCx9L0I84hAFsB88yPl/WYD8wXtBhzJGerk6ajRZq5bTe9IUrFVV5Obm6tv9fvSa ppGXl8cnn3wS03e8tmC32/nd737H/v37r7nvwIEDmT9/Pjk5OQG3l5WV8dhjj7Fnzx4gvGLRGt5d c8WKFTz22GN6sahYERBNEHc0NTVpTk3TnJqm1azfqB0F7ThoxzP7a8cz+2tlaanacdBKQat4/jda Q0OD1uTeX9M0bceOHRr6ZF0N0Ewmk+cBaIMHD9ZOnjzpc754o6CgwOcar/VIT08PeJ0rVqxosa/3 59UZD+O8eXl52rFjx6LwaQZGiEccYwjI1fMV2tmFi7RT4BGSvxXN0hpOf645tcCdf9GiRT4dwXju 3Ul27NihaUHeH8s0NTW1u5MD2v79+z3HqK+v9xGgzhaMYAICaFu3bvW51mghxCOO0S0Jh6Y1ua2Q Tz/UztwzXbu4e6fW5LfNG+MHV1RUFNDy8P6xLlu2LG7FozWLwfs143llZaWmaZp24cIFLS8vLyZE I5iArFmzJsqfshCPLkHwru245nsLCwuD3l2N18eMGeNzV44HMfEfmvlfo//rRmdsaGiISeEI9L0U FxdH9TMW4iHwWCDBOoyxraioyHN3jgcaGhq0kydPapWVlT7DNECbO3euVllZqVVWVmoXLlzwvMcQ 02gLRFsFZO/evVH7fEV6ejdGVVVUVWXt2rUsWrQI0D38mtvLb/w1uaMLxcXF5ObmMmvWLMrKyqLT 6HaQlJTE0KFDycnJITs722dbeno6OTk55OTkeCJL69atY8uWLQHD2LGG8Z1MnDiRxsboVJyTFi9e vDgqZxZEHbPZjNms3z/uvPNOJkyYwMaNGwH9x2nyCkl6Pz98+DCvvPIKf/7zn0lNTaVfv34xl16t qiqapmE2m6mpqeHdd99l7969nuvIy8sjLy+Ps2fPUllZyZdffskPf/hDoOW1xzp2u52BAwd6rqWy shKz2UxKSgqqqnq+47ATNZtHEFMYfozKykotPz//mlEG/HwGBQUFWnFxsU+IN5oY17Ns2bIWPg// tvs/oj0kCXUI4/9YsWJFRD9jkSQmCMi6desoKiry/N/anTjQT6ioqIiJEycybNgwRowYEZWkswMH DjBhwoQ2pYjHk6XhTaC2e38f+/fvZ/z48RE5txAPQQuMDMaamhqef/55li1b5tnWXhHxZtKkSYwc OZKcnBzy8vLIzc3FYrGQlpZGnz59SEtLC2vm5OLFi3nmmWfa1PZ4pjVRXLZsGfPnz4/IeYV4CK5J VVUVy5cv95kI1t6OGOrPLD09nd69e5Oenk59fT0pKfp6OfX19TQ1NQFw+fJlamtrg56jq4rGtdA0 jblz5/Liiy9G5PhCPARtpqamhq1btzJnzhyf1681LPDmWvuE++fYXYUDIi8eIlQraDMZGRnMnj0b TdPYv38/c+fOBQKHd4Nxrc5sRDrC9RBEDiEegpAYP348L774okdIVqxYQX5+PtAsJt4PQddDDFsE YUVVVQ4dOkRZWRlHjhzhf/7nfzhy5Eib3hsoahDMejB+tt7b4zlqEgkiPWwRNUwFYUWSJMaPH+8T HlRVldOnT2O1WqmsrKS8vJyqqiqqq6s5e/Ysn3zySVAL5Vr3Nv/tgfYXghIZhHgIIoYR8pUkiaFD h7apxKHdbqe+vh673Y7D4QDgypUr13xfz549AUhM1BfJSk5O5tFHH2XLli0duAJBawjxEESMUHI2 kpOTSU5ODsv577jjjm4vHiNGjIjYsYXPQ9BlqampoW/fvu1+X7wMc9rSdS9cuBCx7F5heQi6LBkZ GZw8eZInn3ySqqqqa+5vs9k6tHxCtDCiXN7k5OTw3HPPRXRagLA8BAI3jY2NjB492iMgsW6BaJpG cXExM2fOjMr5RZ6HoMtjLMVwLZKSkti1a1eEW9NxjMjU3LlzWxUOo15LpBCWh0DgxogOlZWVcdNN NwGxZ30Y3bWoqIi1a9dGtS3C8hAI3BhroowaNYqTJ0+Snp4eUxmyRjsWLFjgEY5IWhbXQoiHQOCF ISBDhw7l1KlTFBYWAuGfsNcevAVs69atLF261LMtmos/CfEQCPwwOmRGRgabN29m69atAJ0+V8f7 XIWFhVRWVjJ9+vROOXdbEOIhEFyD6dOnU19f71MUKZIi4n3s/Px89u7dy+bNm4MuhxkthMNUIGgH drudkpISnnnmGc6ePeuzLVTnaqAuWFhYyOOPPx6xEoLhQIiHQBAiZWVl7Nq1i40bN7Z55nAwTCYT M2fO5Lvf/S533XVXXCw0LsRDIGgnRoTD21lZU1PD6dOnKSsr4+zZs5SWlnLmzJkW1knv3r0ZNmwY AwcOZMSIEdx4442tTho0wsexiBAPgUAQEsJhKhAIQkKIh0AgCAkhHgKBICSEeAgEgpD4/2GNUe0y PXyWAAAAAElFTkSuQmCC "
+             id="image5542"
+             x="-44839.238"
+             y="-9040.7129" />
         </g>
       </g>
     </g>
@@ -2178,5 +2173,16 @@
            height="291.9873"
            x="1149.4104"
            y="-195.23779" /></flowRegion><flowPara
-         id="flowPara2306"></flowPara></flowRoot>  </g>
+         id="flowPara2306" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-43498.457"
+       y="-10642.855"
+       id="text1297"><tspan
+         sodipodi:role="line"
+         id="tspan1295"
+         x="-43498.457"
+         y="-10642.855"
+         style="stroke-width:0.26458332">5</tspan></text>
+  </g>
 </svg>

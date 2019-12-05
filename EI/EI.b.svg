@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="EI.svg"
+   sodipodi:docname="EI.b.svg"
    style="shape-rendering:crispEdges">
   <defs
      id="defs2">
@@ -1121,9 +1121,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4315256"
-     inkscape:cx="416.92696"
-     inkscape:cy="410.38396"
+     inkscape:zoom="1.2205387"
+     inkscape:cx="890.67722"
+     inkscape:cy="632.40164"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2076,5 +2076,16 @@
        transform="matrix(1.4630042,0,0,0.76971348,20736.834,-2957.7922)"
        id="g2513-8-2-3-4"
        style="fill:#ff0000;stroke:none;stroke-width:0.94235098;shape-rendering:crispEdges" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-43501.707"
+       y="-10639.471"
+       id="text1166"><tspan
+         sodipodi:role="line"
+         id="tspan1164"
+         x="-43501.707"
+         y="-10639.471"
+         style="stroke-width:0.26458332">19</tspan></text>
   </g>
 </svg>

@@ -1073,9 +1073,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.60293266"
-     inkscape:cx="400.60224"
-     inkscape:cy="321.97991"
+     inkscape:zoom="1.2058653"
+     inkscape:cx="775.43142"
+     inkscape:cy="730.34554"
      inkscape:document-units="mm"
      inkscape:current-layer="g1964"
      showgrid="false"
@@ -2023,6 +2023,17 @@
           </g>
         </g>
       </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-44006.199"
+         y="-10800.097"
+         id="text1150"><tspan
+           sodipodi:role="line"
+           id="tspan1148"
+           x="-44006.199"
+           y="-10800.097"
+           style="stroke-width:0.26458332">20</tspan></text>
     </g>
   </g>
 </svg>

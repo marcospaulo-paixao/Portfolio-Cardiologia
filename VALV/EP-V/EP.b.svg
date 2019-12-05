@@ -1074,9 +1074,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.2896582"
-     inkscape:cx="479.41673"
-     inkscape:cy="295.90572"
+     inkscape:zoom="1.1586328"
+     inkscape:cx="856.21941"
+     inkscape:cy="586.27682"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1654,5 +1654,16 @@
            transform="translate(-299.73516,-8.0126695)" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-43612.262"
+       y="-10446.324"
+       id="text1077"><tspan
+         sodipodi:role="line"
+         id="tspan1075"
+         x="-43612.262"
+         y="-10446.324"
+         style="stroke-width:0.26458332">30</tspan></text>
   </g>
 </svg>

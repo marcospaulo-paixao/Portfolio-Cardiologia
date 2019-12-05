@@ -1072,9 +1072,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.21187074"
-     inkscape:cx="2097.8788"
-     inkscape:cy="555.30924"
+     inkscape:zoom="1.1985219"
+     inkscape:cx="530.50575"
+     inkscape:cy="161.1633"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1817,8 +1817,10 @@
              y="-10284.218"
              style="stroke-width:0.26458332"
              id="tspan1306">                                                         (REIS, <tspan
-   style="font-style:italic"
-   id="tspan1308">et al</tspan>., 2006)</tspan></text>
+   style="font-style:italic;-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1308">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1153">.</tspan>, 2006)</tspan></text>
       </g>
       <g
          transform="translate(-751.98437,275.35952)"
@@ -1894,8 +1896,10 @@
              y="-10580.211"
              style="stroke-width:0.26458332"
              id="tspan1199">(TARASOUTCHI <tspan
-   style="font-style:italic"
-   id="tspan1201">et al</tspan>., 2017)</tspan></text>
+   style="font-style:italic;-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-stretch:normal;font-variant:normal"
+   id="tspan1201">et al</tspan><tspan
+   style="-inkscape-font-specification:'COCOGOOSE pro Italic';font-family:'COCOGOOSE pro';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1155">.</tspan>, 2017)</tspan></text>
       </g>
       <g
          transform="translate(-590.723,247.6265)"
@@ -1975,9 +1979,22 @@
                x="-43493.199"
                sodipodi:role="line">            (TARASOUTCHI <tspan
    id="tspan1255"
-   style="font-style:italic">et al</tspan>., 2011)</tspan></text>
+   style="font-style:italic;-inkscape-font-specification:'Cocogoose Pro Italic';font-family:'Cocogoose Pro';font-weight:normal;font-stretch:normal;font-variant:normal">et al</tspan><tspan
+   style="-inkscape-font-specification:'Cocogoose Pro Italic';font-family:'Cocogoose Pro';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1151">.</tspan>, 2011)</tspan></text>
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:COCOGOOSE;-inkscape-font-specification:COCOGOOSE;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-43998.027"
+       y="-10463.631"
+       id="text1151"><tspan
+         sodipodi:role="line"
+         id="tspan1149"
+         x="-43998.027"
+         y="-10463.631"
+         style="stroke-width:0.26458332">26</tspan></text>
   </g>
 </svg>
