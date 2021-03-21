@@ -1,5 +1,5 @@
-# Portifólio Cardiologia
-Faculdade Puc - Portifólio Doenças Cardiológicas
+# Portfólio Cardiologia
+Faculdade Puc - Portfólio Doenças Cardiológicas
 
 ![alt text](https://github.com/Marcospaulo-paixao/Portfolio-Cardiologia/blob/master/Portfolio_Pronto/jpg/01-1.jpg)
 ![alt text](https://github.com/Marcospaulo-paixao/Portfolio-Cardiologia/blob/master/Portfolio_Pronto/jpg/02-1.jpg) 
