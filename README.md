@@ -64,7 +64,6 @@ Faculdade Puc - Portfólio Doenças Cardiológicas
 ![alt text](https://github.com/Marcospaulo-paixao/Portfolio-Cardiologia/blob/master/Portfolio_Pronto/jpg/60-1.jpg)
 ![alt text](https://github.com/Marcospaulo-paixao/Portfolio-Cardiologia/blob/master/Portfolio_Pronto/jpg/61-1.jpg)
 ![alt text](https://github.com/Marcospaulo-paixao/Portfolio-Cardiologia/blob/master/Portfolio_Pronto/jpg/62-1.jpg)
-![alt text](https://github.com/Marcospaulo-paixao/Portfolio-Cardiologia/blob/master/Portfolio_Pronto/jpg/Conclusão-1.jpg)
 ![alt text](https://github.com/Marcospaulo-paixao/Portfolio-Cardiologia/blob/master/Portfolio_Pronto/jpg/Referências-1.jpg)
 ![alt text](https://github.com/Marcospaulo-paixao/Portfolio-Cardiologia/blob/master/Portfolio_Pronto/jpg/Referências-2.jpg)
 ![alt text](https://github.com/Marcospaulo-paixao/Portfolio-Cardiologia/blob/master/Portfolio_Pronto/jpg/Referências-3.jpg)
